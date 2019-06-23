@@ -1,9 +1,0 @@
-#! /bin/bash
-#PBS -q copperhead
-#PBS -l nodes=1:ppn=12:gpus=2:k80
-#PBS -l walltime=1:00:00
-
-module load tensorflow/1.13-anaconda3-cuda10.0
-python /users/stelukun/biobert-master/run_qa.py --do_train=False --do_predict=True --vocab_file=/users/stelukun/biobert-master/vocab.txt --bert_config_file=/users/stelukun/biobert-master/bert_config.json --init_checkpoint=/users/stelukun/biobert-master/squad_fine_tuning_fullversion/model.ckpt-32849 --max_seq_length=384 --train_batch_size=10 --learning_rate=3e-5 --doc_stride=128 --num_train_epochs=3.0 --do_lower_case=False --train_file=/users/stelukun/biobert-master/BioASQ-train-5b-final.json --predict_file=/users/stelukun/biobert-master/factoid_snippet_5thBatch.json --output_dir=/users/stelukun/biobert-master/5th_Batch_Factoid_Snippets
-
-
