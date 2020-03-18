@@ -1,0 +1,1238 @@
+{
+  "questions": [
+    {
+      "id": "5c9a6693ecadf2e73f000031",
+      "exact_answer": [
+        [
+          "a relict mitochondrion with a greatly reduced metabolic capability"
+        ],
+        [
+          "a relict mitochondrion with a greatly reduced metabolic capability.he highly divergent mitochondrion-related organelle"
+        ],
+        [
+          "a relict mitochondrion"
+        ],
+        [
+          "iron-sulfur clustersa mitosome, a relict mitochondrion with a greatly reduced metabolic capability"
+        ],
+        [
+          "mitochondrion with a greatly reduced metabolic capability"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c897167d558e5f232000005",
+      "exact_answer": [
+        [
+          "autologous CD34+ cells transduced to express adenosine deaminase"
+        ],
+        [
+          "autologous CD34+ cells transduced to express adenosine deaminase [ADA]"
+        ],
+        [
+          "CD34+ cells transduced to express adenosine deaminase"
+        ],
+        [
+          "CD34+ cells transduced to express adenosine deaminase [ADA]"
+        ],
+        [
+          "autologous CD34+ cells transduced to express adenosine deaminase [ADA"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c990241ecadf2e73f00002d",
+      "exact_answer": [
+        [
+          "regulates gene expression by acetylating chromatin"
+        ],
+        [
+          "regulates gene expression"
+        ],
+        [
+          "by acetylating chromatin"
+        ],
+        [
+          "regulates"
+        ],
+        [
+          "acetylating chromatin"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c960f21ecadf2e73f000020",
+      "exact_answer": [
+        [
+          "disease-modifying anti-rheumatic drug"
+        ],
+        [
+          "modifying anti-rheumatic drug"
+        ],
+        [
+          "disease-modifying anti-rheumatic drug ("
+        ],
+        [
+          "disease-modifying anti-rheumatic"
+        ],
+        [
+          "disease-modifying anti-rheumatic drug (DMARD)"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c9fb428ecadf2e73f000041",
+      "exact_answer": [
+        [
+          "psychosocial stress"
+        ],
+        [
+          "psychosocial stress,"
+        ],
+        [
+          "stress"
+        ],
+        [
+          "ps"
+        ],
+        [
+          "stress,"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c897082d558e5f232000004",
+      "exact_answer": [
+        [
+          "US$475,000"
+        ],
+        [
+          "$475,000"
+        ],
+        [
+          "US$475,000 and Yescarta produced by Gilead Pharmaceuticals with a price tag of US$373,000"
+        ],
+        [
+          "475,000"
+        ],
+        [
+          "$475,000 and Yescarta produced by Gilead Pharmaceuticals with a price tag of US$373,000"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5caa06d0ecadf2e73f000056",
+      "exact_answer": [
+        [
+          "gastric mucosa"
+        ],
+        [
+          "the gastric mucosa"
+        ],
+        [
+          "gastric mucosa."
+        ],
+        [
+          "endocrine cells in the gastric mucosa"
+        ],
+        [
+          "the gastric mucosa."
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c8fe7cb0101eac87000000c",
+      "exact_answer": [
+        [
+          "Runt related factor-2"
+        ],
+        [
+          "Runt related factor-2 (Runx2"
+        ],
+        [
+          "Runt related factor-2 (Runx2)"
+        ],
+        [
+          "Runt related factor"
+        ],
+        [
+          "Runx2"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c896f60d558e5f232000003",
+      "exact_answer": [
+        [
+          "treatment of pediatric patients and young adults"
+        ],
+        [
+          "refractory or relapse (R/R) B cell precursor acute lymphoblastic leukemia"
+        ],
+        [
+          "the treatment of pediatric patients and young adults"
+        ],
+        [
+          "treatment of adult patients with R/R large B cell lymphoma"
+        ],
+        [
+          "treatment of pediatric patients"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5caa0247ecadf2e73f000055",
+      "exact_answer": [
+        [
+          "Moe"
+        ],
+        [
+          "Moe,"
+        ],
+        [
+          "apical phosphorylated (active) Moe"
+        ],
+        [
+          "Moe, which in turn regulates seamless tube shapeThere, Crb"
+        ],
+        [
+          "recruits apical phosphorylated (active) Moe"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c9789a9ecadf2e73f000024",
+      "exact_answer": [
+        [
+          "pluripotency"
+        ],
+        [
+          "induced pluripotent stem cell (iPSC) line showed pluripotency"
+        ],
+        [
+          "induced pluripotent stem cell"
+        ],
+        [
+          "induced pluripotent stem cell (iPSC)"
+        ],
+        [
+          "induced pluripotent stem cell (iPSC"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c9791d2ecadf2e73f000026",
+      "exact_answer": [
+        [
+          "Cat fleas"
+        ],
+        [
+          "Cat fleas (Ctenocephalides felis"
+        ],
+        [
+          "Cat fleas (Ctenocephalides felis)"
+        ],
+        [
+          "Cat fleas (Ctenocephalides felis) carrying Rickettsia felis and Bartonella"
+        ],
+        [
+          "Cat"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5cb39707ecadf2e73f000060",
+      "exact_answer": [
+        [
+          "Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy"
+        ],
+        [
+          "Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED)"
+        ],
+        [
+          "primary immunodeficiency"
+        ],
+        [
+          "Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED"
+        ],
+        [
+          "autoimmune polyendocriopathy candidiasis ectodermal dystrophy"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c8aa082d558e5f23200000c",
+      "exact_answer": [
+        [
+          "vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells"
+        ],
+        [
+          "recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells"
+        ],
+        [
+          "vital in the recognition of DNA encoded viruses"
+        ],
+        [
+          "recognition of DNA encoded viruses"
+        ],
+        [
+          "vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5cb0e4a6ecadf2e73f00005b",
+      "exact_answer": [
+        [
+          "surfaceome"
+        ],
+        [
+          "surfaceome predictor SURFY, based on machine learning"
+        ],
+        [
+          "human surfaceome, we developed the surfaceome"
+        ],
+        [
+          "surfaceome predictor SURFY, based on machine learning."
+        ],
+        [
+          "surfaceome, we developed the surfaceome"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c900b9eecadf2e73f000004",
+      "exact_answer": [
+        [
+          "Alnylam Pharmaceuticals"
+        ],
+        [
+          "Alnylam"
+        ],
+        [
+          "Alnylam Pharmaceuticals;"
+        ],
+        [
+          "Patisiran has been developed by Alnylam Pharmaceuticals"
+        ],
+        [
+          "Pharmaceuticals"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5ca0bf00ecadf2e73f000045",
+      "exact_answer": [
+        [
+          "severe eosinophilic"
+        ],
+        [
+          "eosinophilic"
+        ],
+        [
+          "severe eosinophilic asthma"
+        ],
+        [
+          "severe"
+        ],
+        [
+          "eosinophilic asthma"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c890ad575a4a5d21900000d",
+      "exact_answer": [
+        [
+          "Olive"
+        ],
+        [
+          "Olive Leaf Extract"
+        ],
+        [
+          "Olive Leaf"
+        ],
+        [
+          "Olive Leaf Extra"
+        ],
+        [
+          "Olive Leaf Extract."
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c890e6d75a4a5d21900000f",
+      "exact_answer": [
+        [
+          "ironwort, mountain tea"
+        ],
+        [
+          "Griseb."
+        ],
+        [
+          "Griseb"
+        ],
+        [
+          "Griseb. (ironwort, mountain tea"
+        ],
+        [
+          "ironwort"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c92869aecadf2e73f000015",
+      "exact_answer": [
+        [
+          "regulator of basal intracellular free magnesium ([Mg2+]i) levels"
+        ],
+        [
+          "a critical regulator of basal intracellular free magnesium ([Mg2+]i) levels"
+        ],
+        [
+          "critical regulator of basal intracellular free magnesium ([Mg2+]i) levels"
+        ],
+        [
+          "regulator of basal intracellular free magnesium ([Mg2+]i) levels."
+        ],
+        [
+          "a critical regulator of basal intracellular free magnesium ([Mg2+]i) levels."
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c93e8bdecadf2e73f00001c",
+      "exact_answer": [
+        [
+          "Aicardi-Goutieres syndrome"
+        ],
+        [
+          "Aicardi-Goutieres syndrome (AGS)"
+        ],
+        [
+          "severe autoimmune disease, Aicardi-Goutieres syndrome"
+        ],
+        [
+          "Aicardi-Goutieres"
+        ],
+        [
+          "autoimmune disease, Aicardi-Goutieres syndrome"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c9efde8ecadf2e73f000039",
+      "exact_answer": [
+        [
+          "deficiency of β-galactocerebrosidase"
+        ],
+        [
+          "the deficiency of β-galactocerebrosidase"
+        ],
+        [
+          "β-galactocerebrosidase"
+        ],
+        [
+          "deficiency of β-galactocerebrosidase."
+        ],
+        [
+          "the deficiency of β-galactocerebrosidase."
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c89623bf9c2ba6b28000004",
+      "exact_answer": [
+        [
+          "c.19G>A, p.Val7Met"
+        ],
+        [
+          "a novel homozygous missense mutation in exon 2 (c.19G>A, p.Val7Met"
+        ],
+        [
+          "homozygous missense mutation in exon 2 (c.19G>A, p.Val7Met"
+        ],
+        [
+          "c.19G>A, p.Val7Met)"
+        ],
+        [
+          "(c.19G>A, p.Val7Met"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c89773ed558e5f23200000a",
+      "exact_answer": [
+        [
+          "Luxturna"
+        ],
+        [
+          "Luxturna for inherited retinal dystrophy."
+        ],
+        [
+          "Luxturna for inherited retinal dystrophy"
+        ],
+        [
+          "adeno-associated virus vector gene therapy product in the United States: Luxturna"
+        ],
+        [
+          "the first adeno-associated virus vector gene therapy product in the United States: Luxturna"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c910ae0ecadf2e73f000007",
+      "exact_answer": [
+        [
+          "Bristol-Myers Squibb"
+        ],
+        [
+          "(Bristol-Myers Squibb"
+        ],
+        [
+          "Squibb"
+        ],
+        [
+          "Myers Squibb"
+        ],
+        [
+          "Bristol"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5cb0d647ecadf2e73f000059",
+      "exact_answer": [
+        [
+          "environmental exposure record"
+        ],
+        [
+          "his/her environmental exposure record"
+        ],
+        [
+          "a novel conceptual framework"
+        ],
+        [
+          "a novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors"
+        ],
+        [
+          "exposure record"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5cb0856decadf2e73f000058",
+      "exact_answer": [
+        [
+          "malaria"
+        ],
+        [
+          "treatment of malaria"
+        ],
+        [
+          "malaria."
+        ],
+        [
+          "treatment of malaria."
+        ],
+        [
+          "immunosuppression in therapy of human disease as well as a rapidly emerging drug target for treatment of malaria"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c9e6e99ecadf2e73f000036",
+      "exact_answer": [
+        [
+          "directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B"
+        ],
+        [
+          "to directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B"
+        ],
+        [
+          "directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B."
+        ],
+        [
+          "to directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B."
+        ],
+        [
+          "directly and quantitatively transfer mitochondria"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c8fe1f10101eac87000000a",
+      "exact_answer": [
+        [
+          "promotes astrocyte maturation"
+        ],
+        [
+          "RUNX2 promotes astrocyte maturation"
+        ],
+        [
+          "neural precursor cells while RUNX2 promotes astrocyte maturation"
+        ],
+        [
+          "drivers of astrocyte differentiation from neural precursor cells while RUNX2 promotes astrocyte maturation"
+        ],
+        [
+          "maturation"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c9ff25eecadf2e73f000043",
+      "exact_answer": [
+        [
+          "Cobb"
+        ],
+        [
+          "metatarsal head (Cobb"
+        ],
+        [
+          "Cobb)"
+        ],
+        [
+          "the metatarsal head (Cobb"
+        ],
+        [
+          "partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c9904eaecadf2e73f00002e",
+      "exact_answer": [
+        [
+          "toad venom"
+        ],
+        [
+          "toad venomGamabufotalin, a bufadienolide compound from toad venom"
+        ],
+        [
+          "toad"
+        ],
+        [
+          "toad venomGamabufotalin"
+        ],
+        [
+          "from toad venom"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c897555d558e5f232000009",
+      "exact_answer": [
+        [
+          "Luxturna"
+        ],
+        [
+          "Luxturna for inherited retinal dystrophy"
+        ],
+        [
+          "Luxturna for inherited retinal dystrophy."
+        ],
+        [
+          "Lu"
+        ],
+        [
+          "Luxturna for"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5ca9f846ecadf2e73f000053",
+      "exact_answer": [
+        [
+          "forms the ribbed gas vesicle wall"
+        ],
+        [
+          "ribbed gas vesicle wall"
+        ],
+        [
+          "hydrophobic major structural protein GvpA forms the ribbed gas vesicle wall"
+        ],
+        [
+          "major structural protein GvpA forms the ribbed gas vesicle wall"
+        ],
+        [
+          "The hydrophobic major structural protein GvpA forms the ribbed gas vesicle wall"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c9e6407ecadf2e73f000034",
+      "exact_answer": [
+        [
+          "sperm"
+        ],
+        [
+          "uman sperm"
+        ],
+        [
+          "POU5F1, DAZL, TNP1, TNP2, PRM1 and PRM2Human sperm"
+        ],
+        [
+          "uman"
+        ],
+        [
+          "sperm express two types of protamine: protamine 1 (P1) and the family of protamine 2 (P2"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {
+      "id": "5c840782617e120c34000006",
+      "exact_answer": [
+        [
+          "a pro-inflammatory cytokine"
+        ],
+        [
+          "pro-inflammatory cytokine"
+        ],
+        [
+          "cytokine"
+        ],
+        [
+          "a pro-inflammatory cytokine,"
+        ],
+        [
+          "pro-inflammatory cytokine,"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": "Dummy"
+    },
+    {"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5ca60a77ecadf2e73f00004d"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c88b8a275a4a5d21900000b"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c97a08becadf2e73f000029"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c8ab614d558e5f23200000d"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5ca61176ecadf2e73f00004e"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c8908a475a4a5d21900000c"},
+{"exact_answer": "no", "ideal_answer": "Dummy", "type": "yesno", "id": "5c98ac7fecadf2e73f00002b"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c890c3375a4a5d21900000e"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5ca0c81eecadf2e73f000047"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5ca9f5e4ecadf2e73f000052"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c895e5ef9c2ba6b28000002"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5caa0806ecadf2e73f000057"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c960afaecadf2e73f00001e"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c8fea130101eac87000000d"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c960d88ecadf2e73f00001f"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c9e6ab9ecadf2e73f000035"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c915e51ecadf2e73f00000c"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c9e738decadf2e73f000037"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c9160bcecadf2e73f00000d"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c9e766becadf2e73f000038"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c92159becadf2e73f000012"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c978924ecadf2e73f000023"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c9f0dabecadf2e73f00003b"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c978a2aecadf2e73f000025"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c9f1b0cecadf2e73f00003c"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c891d5075a4a5d219000011"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5ca0848aecadf2e73f000044"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c891e5575a4a5d219000012"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c979383ecadf2e73f000027"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5ca0fa96ecadf2e73f000048"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c895cf0f9c2ba6b28000001"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5ca0fdb0ecadf2e73f000049"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c8960a6f9c2ba6b28000003"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5ca10fefecadf2e73f00004a"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c896ce0d558e5f232000002"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c9f7bb6ecadf2e73f00003e"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c9fb2aaecadf2e73f00003f"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c8a8f56d558e5f23200000b"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c8fe71b0101eac87000000b"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c98fcf0ecadf2e73f00002c"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c9906dcecadf2e73f00002f"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c900779ecadf2e73f000001"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5ca9f932ecadf2e73f000054"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5ca3bfd7ecadf2e73f00004b"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5ca5127eecadf2e73f00004c"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c9162b5ecadf2e73f00000e"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c922bc3ecadf2e73f000013"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5cb37f76ecadf2e73f00005c"},
+{"exact_answer": "no", "ideal_answer": "Dummy", "type": "yesno", "id": "5cb380b8ecadf2e73f00005d"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c521c8c7e3cb0e231000007"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5cb38a56ecadf2e73f00005e"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c9d170cecadf2e73f000032"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5cb3a2dd99d1e53537000001"},
+      {  
+         "exact_answer":[  
+            [  
+               "Why we build models of human performance"
+            ],
+            [  
+               "What the expectations of a good human performance model are"
+            ],
+            [  
+               "Why we build models"
+            ],
+            [  
+               "Why"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c9fb583ecadf2e73f000042",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "Toxocara cati"
+            ],
+            [  
+               "Toxocara canis"
+            ],
+            [  
+               "dogs"
+            ],
+            [  
+               "cats"
+            ],
+            [  
+               "Toxocara"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c979ffcecadf2e73f000028",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "14-3-3"
+            ],
+            [  
+               "ATP/ADP-Pi-actin filaments"
+            ],
+            [  
+               "weakly interacts with 14-3-3"
+            ],
+            [  
+               "Cofilin weakly interacts with 14-3-3"
+            ],
+            [  
+               "ATP"
+            ],
+            [  
+               "3"
+            ],
+            [  
+               "luciferase assay"
+            ],
+            [  
+               "mutation of predicted binding sites.Cofilin weakly interacts with 14-3-3"
+            ],
+            [  
+               "Cofilin weakly interacts with 14-3-3"
+            ],
+            [  
+               "interacts with 14-3-3"
+            ],
+            [  
+               "AD"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c9007460101eac870000012",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "IgM"
+            ],
+            [  
+               "IgA"
+            ],
+            [  
+               "IgG"
+            ],
+            [  
+               "IgG subclasses"
+            ],
+            [  
+               "G"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c9f79c3ecadf2e73f00003d",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "the human retina"
+            ],
+            [  
+               "human retina"
+            ],
+            [  
+               "the main source is the retinal pigment epithelium (RPE)"
+            ],
+            [  
+               "retina"
+            ],
+            [  
+               "retinal pigment epithelium (RPE)"
+            ],
+            [  
+               "the retinal pigment epithelium (RPE)"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c97f579ecadf2e73f00002a",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "dendritic cells"
+            ],
+            [  
+               "neutrophils"
+            ],
+            [  
+               "macrophages"
+            ],
+            [  
+               "distinct subtypes of dendritic cells"
+            ],
+            [  
+               "dendritic"
+            ],
+            [  
+               "subtypes of dendritic cells"
+            ],
+            [  
+               "cells"
+            ],
+            [  
+               "subtypes of dendritic"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c8c095e0101eac870000002",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "TRIM proteins"
+            ],
+            [  
+               "The TRIM proteins"
+            ],
+            [  
+               "TRIM"
+            ],
+            [  
+               "The TRIM"
+            ],
+            [  
+               "RING1 was required for its E3 Ub ligase activity"
+            ],
+            [  
+               "proteins"
+            ],
+            [  
+               "TRIM proteins are classically characterized by the presence of an amino-terminal RING domain"
+            ],
+            [  
+               "a B-box domain"
+            ],
+            [  
+               "T"
+            ],
+            [  
+               "RING domain of RING1 was required for its E3 Ub ligase activity"
+            ],
+            [  
+               "E3 Ub ligase activity"
+            ],
+            [  
+               "RING1"
+            ],
+            [  
+               "RING ubiquitin E3 ligases"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c990afbecadf2e73f000030",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "RTX"
+            ],
+            [  
+               "overuse of off-label therapies"
+            ],
+            [  
+               "1\u00a0patient was given tocilizumab"
+            ],
+            [  
+               "Off-label use of rituximab (RTX"
+            ],
+            [  
+               "RTX) has shown significant promise"
+            ],
+            [  
+               "Off-label use of rituximab (RTX)"
+            ],
+            [  
+               "rituximab (RTX"
+            ],
+            [  
+               "Off-label use of rituximab (RTX) has shown significant promise"
+            ],
+            [  
+               "rituximab (RTX)"
+            ],
+            [  
+               "overuse of off-label therapies (eg, rituximab)"
+            ],
+            [  
+               "tocilizumab"
+            ],
+            [  
+               "rituximab (RTX) has shown significant promise"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c961603ecadf2e73f000022",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "ezrin"
+            ],
+            [  
+               "radixin"
+            ],
+            [  
+               "moesin"
+            ],
+            [  
+               "proteinsezrin"
+            ],
+            [  
+               "ezrin/radixin/moesin (ERM) proteinsezrin"
+            ],
+            [  
+               "moesin (ERM proteins)"
+            ],
+            [  
+               "ezrin/radixin/moesin"
+            ],
+            [  
+               "moesin (ERM proteins)Ezrin/radixin/moesin"
+            ],
+            [  
+               "proteins"
+            ],
+            [  
+               "ezrin/radixin/moesin (ERM)"
+            ],
+            [  
+               "Ezrin/radixin/moesin"
+            ],
+            [  
+               "moesin (ERM proteins)Ezrin/radixin/moesin (ERM)"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5ca64b5becadf2e73f000051",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "RTX)"
+            ],
+            [  
+               "(RTX)"
+            ],
+            [  
+               "children"
+            ],
+            [  
+               "young people with juvenile idiopathic arthritischronic lymphocytic leukemia (CLL) patients"
+            ],
+            [  
+               "interstitial lung disease (ILD) treated with rituximab (RTX)"
+            ],
+            [  
+               "Rituximab (RTX) may be a treatment option for children and young people with JIA"
+            ],
+            [  
+               "(RTX) may be a treatment option for children and young people with JIA"
+            ],
+            [  
+               "rituximab (RTX)"
+            ],
+            [  
+               "RTX) may be a treatment option for children and young people with JIA"
+            ],
+            [  
+               "Rituximab (RTX) may be a treatment option"
+            ],
+            [  
+               "young people with JIA"
+            ],
+            [  
+               "RTX)."
+            ],
+            [  
+               "may be a treatment option for children"
+            ],
+            [  
+               "RTX"
+            ],
+            [  
+               "(RTX) may be a treatment option"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c961281ecadf2e73f000021",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "OPRM1"
+            ],
+            [  
+               "PTGS2"
+            ],
+            [  
+               "PTGS2"
+            ],
+            [  
+               "OPRM"
+            ],
+            [  
+               "2"
+            ],
+            [  
+               "OPR"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c9d18f1ecadf2e73f000033",
+         "type":"list"
+      },
+      {  
+         "exact_answer":[  
+            [  
+               "as a loosening agent in bronchitis"
+            ],
+            [  
+               "bronchial asthma"
+            ],
+            [  
+               "loosening agent in bronchitis"
+            ],
+            [  
+               "bronchitis"
+            ],
+            [  
+               "used in traditional medicine as a loosening agent in bronchitis"
+            ],
+            [  
+               "as a loosening agent in bronchitis and bronchial asthma; against the common cold and lung emphysema"
+            ],
+            [  
+               "as a loosening agent"
+            ],
+            [  
+               "It is used in traditional medicine as a loosening agent"
+            ],
+            [  
+               "loosening agent"
+            ],
+            [  
+               "a loosening agent"
+            ],
+            [  
+               "common cold"
+            ],
+            [  
+               "lung emphysema"
+            ]
+         ],
+         "ideal_answer":"Dummy",
+         "id":"5c890ff475a4a5d219000010",
+         "type":"list"
+      }
+  ]
+}

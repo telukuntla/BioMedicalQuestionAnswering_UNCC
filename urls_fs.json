@@ -1,0 +1,2471 @@
+{
+  "questions": [
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "orofacial edema, recurrent facial paralysis and lingua plicata"
+        ],
+        [
+          "recurrent facial paralysis"
+        ],
+        [
+          "relapsing facial paralysis"
+        ],
+        [
+          "orofacial swelling"
+        ],
+        [
+          "fissured tongue."
+        ],
+        [
+          "facial swelling, recurrent facial nerve palsy and fissured tongue."
+        ],
+        [
+          "orofacial edema, recurrent facial paralysis and lingua plicata."
+        ],
+        [
+          "persistent or recurrent orofacial edema, relapsing facial paralysis and fissured tongue"
+        ],
+        [
+          "persistent or recurrent orofacial edema, relapsing facial paralysis and fissured tongue."
+        ],
+        [
+          "persistent or recurrent orofacial edema"
+        ],
+        [
+          "facial paralysis, orofacial swelling, and fissured tongue"
+        ],
+        [
+          "triad of relapsing facial paralysis, orofacial swelling, and fissured tongue"
+        ],
+        [
+          "the classic triad of facial swelling, recurrent facial nerve palsy and fissured tongue"
+        ],
+        [
+          "facial nerve palsy, lip swelling, and fissured or furrowed tongue"
+        ],
+        [
+          "relapsing facial paralysis,"
+        ],
+        [
+          "the triad of relapsing facial paralysis, orofacial swelling, and fissured tongue"
+        ],
+        [
+          "facial swelling"
+        ],
+        [
+          "triad of facial swelling, recurrent facial nerve palsy and fissured tongue"
+        ],
+        [
+          "relapsing facial paralysis"
+        ],
+        [
+          "facial swelling, recurrent facial nerve palsy"
+        ]
+      ],
+      "id": "5c6f14297c78d69471000052"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "MS Amanda"
+        ],
+        [
+          "OMSSA"
+        ],
+        [
+          "MyriMatch"
+        ],
+        [
+          "Comet"
+        ],
+        [
+          "Andromeda"
+        ],
+        [
+          "Tide"
+        ],
+        [
+          "X!Tandem, MS-GF[Formula: see text]"
+        ],
+        [
+          "MS Amanda, MyriMatch,"
+        ],
+        [
+          "MS Amanda,"
+        ],
+        [
+          "X!Tandem, MS-GF"
+        ],
+        [
+          "X!Tandem, MS-GF[Formula: see text], MS Amanda, MyriMatch, Comet, Tide,"
+        ],
+        [
+          "(X!Tandem, MS-GF[Formula: see text],"
+        ],
+        [
+          "(X!Tandem, MS-GF[Formula: see text], MS Amanda, MyriMatch,"
+        ],
+        [
+          "X!Tandem, MS-GF[Formula: see text], MS Amanda, MyriMatch"
+        ],
+        [
+          "X!Tandem, MS-GF[Formula: see text], MS Amanda"
+        ],
+        [
+          "X!Tandem,"
+        ],
+        [
+          "MyriMatch, Comet, Tide, Andromeda, and OMSSA"
+        ],
+        [
+          "MaxQuant, Proteome Discoverer, or Mascot"
+        ],
+        [
+          "(X!Tandem, MS-GF[Formula: see text], MS Amanda,"
+        ],
+        [
+          "X!Tandem, MS-GF[Formula: see text], MS Amanda, MyriMatch, Comet,"
+        ]
+      ],
+      "id": "5c78174b7c78d694710000b1"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "dysfunctions of one of genes coding for lysosomal enzymes involved in degradation of heparan sulfate"
+        ],
+        [
+          "MPS IIID"
+        ],
+        [
+          "SGSH (coding for heparan N-sulfatase) - causing MPS IIIA,"
+        ],
+        [
+          "SGSH (coding for heparan N-sulfatase) - causing MPS IIIA"
+        ],
+        [
+          "dysfunctions"
+        ],
+        [
+          "MPS IIIA"
+        ],
+        [
+          "MPS IIIB,"
+        ],
+        [
+          "MPS IIIC"
+        ],
+        [
+          "MPS IIID."
+        ],
+        [
+          "MPS IIIA, MPS IIIB, MPS IIIC and MPS IIID."
+        ],
+        [
+          "NAGLU (coding for alpha-N-acetylglucosaminidase) - causing MPS IIIB,"
+        ],
+        [
+          "MPS IIIB,"
+        ],
+        [
+          "SGSH"
+        ],
+        [
+          "mucopolysaccharidosis type III, MPS III"
+        ],
+        [
+          "caused by dysfunctions of one of genes coding for lysosomal enzymes involved in degradation of heparan sulfate"
+        ],
+        [
+          "MPS III"
+        ],
+        [
+          "MPS IIIC and MPS IIID"
+        ],
+        [
+          "dysfunctions of one of genes coding for lysosomal enzymes involved in degradation of heparan sulfate:"
+        ],
+        [
+          "MPS IIIB, MPS IIIC and MPS IIID"
+        ],
+        [
+          "GNS (coding for N-acetylglucosamine-6-sulfatase) - causing MPS IIID"
+        ]
+      ],
+      "id": "5c6ffa257c78d69471000056"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "CD63"
+        ],
+        [
+          "Rab7."
+        ],
+        [
+          "mannose-6-phosphate receptor (M6PR)"
+        ],
+        [
+          "early endosome antigen 1"
+        ],
+        [
+          "mannose-6-phosphate receptor (M6PR) and Rab7"
+        ],
+        [
+          "CD63"
+        ],
+        [
+          "early phagosomal marker early endosome antigen 1"
+        ],
+        [
+          "Rab7, Lysosomal Associated Membrane Protein 1,"
+        ],
+        [
+          "Rab7"
+        ],
+        [
+          "late phagosomal markers CD63 and Rab7."
+        ],
+        [
+          "Rab7,"
+        ],
+        [
+          "7"
+        ],
+        [
+          "they could nevertheless acquire the late phagosomal markers CD63 and Rab7"
+        ],
+        [
+          "early endosome antigen 1 colocalized with all isolates tested"
+        ],
+        [
+          "the late phagosomal markers CD63 and Rab7"
+        ],
+        [
+          "Lysosomal Associated Membrane Protein 1, Cathepsin D, Rab9, and V-ATPase"
+        ],
+        [
+          "markers CD63 and Rab7"
+        ],
+        [
+          "the early phagosomal marker early endosome antigen 1"
+        ],
+        [
+          "early endosome antigen 1 colocalized with all isolates tested,"
+        ],
+        [
+          "marker early endosome antigen 1"
+        ]
+      ],
+      "id": "5c76e6d27c78d694710000ac"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "Methods have been developed that use weighted allocation of read counts"
+        ],
+        [
+          "weighted allocation of read counts"
+        ],
+        [
+          "Methods that align RNA-seq reads to a diploid transcriptome incorporating known genetic variants"
+        ],
+        [
+          "Weighted allocation methods"
+        ],
+        [
+          "Methods have been developed that use weighted allocation of read counts but these methods treat the different types of multi-reads equivalently."
+        ],
+        [
+          "developed that use weighted allocation of read counts"
+        ],
+        [
+          "use weighted allocation of read counts"
+        ],
+        [
+          "Methods have been developed that use weighted allocation"
+        ],
+        [
+          "Methods that align RNA-seq reads to a diploid transcriptome"
+        ],
+        [
+          "Methods have been developed that use weighted allocation of read counts but these methods treat the different types of multi-reads equivalently"
+        ],
+        [
+          "have been developed that use weighted allocation of read counts"
+        ],
+        [
+          "weighted allocation of read counts but these methods treat the different types of multi-reads equivalently."
+        ],
+        [
+          "htseq-count and featureCounts"
+        ],
+        [
+          "weighted allocation"
+        ],
+        [
+          "Weighted allocation"
+        ],
+        [
+          "methods treat the different types of multi-reads equivalently."
+        ],
+        [
+          "weighted allocation of read counts but these methods treat the different types of multi-reads equivalently. We propose a hierarchical approach"
+        ],
+        [
+          "weighted allocation of read counts but these methods treat the different types of multi-reads equivalently"
+        ],
+        [
+          "Weighted allocation methods outperform methods that discard multi-reads"
+        ],
+        [
+          "htseq-count and featureCounts that handles multi-mapping reads in an unabiased way."
+        ]
+      ],
+      "id": "5c58282e07647bbc4b00001e"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "open radical cystectomy (ORC)"
+        ],
+        [
+          "robot-assisted RC (RARC)"
+        ],
+        [
+          "robot-assisted RC (RARC)"
+        ],
+        [
+          "pelvic lymph node dissection (PLND)"
+        ],
+        [
+          "urinary diversion"
+        ],
+        [
+          "ORC vs RARC, PLND and urinary diversion"
+        ],
+        [
+          "RARC, PLND and urinary diversion"
+        ],
+        [
+          "open cystectomy and robot-assisted cystectomy"
+        ],
+        [
+          "open radical cystectomy (ORC) vs robot-assisted RC (RARC),"
+        ],
+        [
+          "pelvic lymph node dissection (PLND) and urinary diversion"
+        ],
+        [
+          "robot-assisted RC (RARC)"
+        ],
+        [
+          "open radical cystectomy (ORC) vs robot-assisted RC"
+        ],
+        [
+          "(RARC), pelvic lymph node dissection (PLND) and urinary diversion"
+        ],
+        [
+          "robot-assisted RC (RARC),"
+        ],
+        [
+          "ORC vs RARC, PLND and urinary diversion."
+        ],
+        [
+          "open radical cystectomy"
+        ],
+        [
+          "robot-assisted RC"
+        ],
+        [
+          "ORC vs RARC"
+        ],
+        [
+          "RARC, PLND and urinary diversion."
+        ],
+        [
+          "open radical cystectomy (ORC)"
+        ]
+      ],
+      "id": "5c7036127c78d69471000064"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "Fak-mediated cell migration"
+        ],
+        [
+          "invasion"
+        ],
+        [
+          "cell migration"
+        ],
+        [
+          "invasion"
+        ],
+        [
+          "focal adhesion kinase (FAK)"
+        ],
+        [
+          "proline-rich tyrosine kinase-2 (Pyk2)"
+        ],
+        [
+          "Fak activation as well as Fak-mediated cell migration and invasion"
+        ],
+        [
+          "focal adhesion kinase (FAK) and proline-rich tyrosine kinase-2"
+        ],
+        [
+          "proline-rich tyrosine kinase-2 (Pyk2)"
+        ],
+        [
+          "PF-562271"
+        ],
+        [
+          "focal adhesion kinase (FAK) and proline-rich tyrosine kinase-2 (Pyk2)."
+        ],
+        [
+          "(FAK) and proline-rich tyrosine kinase-2 (Pyk2)"
+        ],
+        [
+          "proline-rich tyrosine kinase-2"
+        ],
+        [
+          "integrins"
+        ],
+        [
+          "Fak-mediated cell migration and invasion."
+        ],
+        [
+          "integrins with FAK inhibitors"
+        ],
+        [
+          "migration and invasion"
+        ],
+        [
+          "(FAK) and proline-rich tyrosine kinase-2"
+        ],
+        [
+          "cell migration and invasion."
+        ],
+        [
+          "second-generation inhibitor of focal adhesion kinase (FAK) and proline-rich tyrosine kinase-2 (Pyk2)"
+        ]
+      ],
+      "id": "5c6f107c7c78d69471000051"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "gene-specific bias"
+        ],
+        [
+          "By explicitly identifying the reasons for gene-specific bias"
+        ],
+        [
+          "explicitly identifying the reasons for gene-specific bias"
+        ],
+        [
+          "reasons for gene-specific bias"
+        ],
+        [
+          "gene-specific bias"
+        ],
+        [
+          "performing a meta-analysis of existing computational"
+        ],
+        [
+          "experimental knowledge bases"
+        ],
+        [
+          "explicitly identifying the reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases"
+        ],
+        [
+          "identifying the reasons for gene-specific bias"
+        ],
+        [
+          "reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases"
+        ],
+        [
+          "gene-specific strategies for the identification of important but hitherto ignored genes that can open novel directions for future investigation."
+        ],
+        [
+          "gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases,"
+        ],
+        [
+          "the reasons for gene-specific bias"
+        ],
+        [
+          "identifying the reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases"
+        ],
+        [
+          "By explicitly identifying the reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases,"
+        ],
+        [
+          "we describe gene-specific strategies for the identification of important but hitherto ignored genes that can open novel directions for future investigation."
+        ],
+        [
+          "explicitly identifying the reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases,"
+        ],
+        [
+          "gene-specific strategies for the identification of important but hitherto ignored genes"
+        ],
+        [
+          "gene-specific strategies for the identification of important but hitherto ignored genes that can open novel directions for future investigation"
+        ],
+        [
+          "gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases, we describe gene-specific strategies"
+        ]
+      ],
+      "id": "5c5214207e3cb0e231000003"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "UPDtool"
+        ],
+        [
+          "trio SNP-microarray experiments"
+        ],
+        [
+          "UPDtool is a computational tool"
+        ],
+        [
+          "trio SNP-microarray experiments."
+        ],
+        [
+          "SNP-microarray experiments"
+        ],
+        [
+          "UPDtool is a computational tool for detection and classification"
+        ],
+        [
+          "UPDtool is a computational tool for detection and classification of uniparental disomy (UPD) in trio"
+        ],
+        [
+          "in trio SNP-microarray experiments"
+        ],
+        [
+          "detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments"
+        ],
+        [
+          "computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments"
+        ],
+        [
+          "UPDtool is a computational tool for detection and classification of uniparental disomy"
+        ],
+        [
+          "a computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments"
+        ],
+        [
+          "SNP-microarray experiments."
+        ],
+        [
+          "UPDtool is a computational tool for detection and classification of uniparental disomy (UPD) in trio SNP"
+        ],
+        [
+          "in trio SNP-microarray experiments."
+        ],
+        [
+          "classification of uniparental disomy (UPD) in trio SNP-microarray experiments"
+        ],
+        [
+          "is a computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments"
+        ],
+        [
+          "detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments."
+        ],
+        [
+          "computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments."
+        ],
+        [
+          "trio SNP-microarray"
+        ]
+      ],
+      "id": "5c544c1707647bbc4b000003"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "DNMT3A"
+        ],
+        [
+          "PRKCD"
+        ],
+        [
+          "C1QTNF4"
+        ],
+        [
+          "missense de novo mutations (DNM)"
+        ],
+        [
+          "missense de novo mutations (DNM"
+        ],
+        [
+          "missense"
+        ],
+        [
+          "missense de novo mutations"
+        ],
+        [
+          "DNM)"
+        ],
+        [
+          "(DNM), none of which are within the &gt;80 SLE susceptibility loci"
+        ],
+        [
+          "DNM"
+        ],
+        [
+          "(DNM)"
+        ],
+        [
+          "missense de novo mutations (DNM), none of which are within the &gt;80"
+        ],
+        [
+          "missense de novo mutations (DNM), none of which are within the &gt;80 SLE"
+        ],
+        [
+          "(DNM"
+        ],
+        [
+          "DNMT3A, PRKCD, and C1QTNF4."
+        ],
+        [
+          "none of which are within the &gt;80 SLE susceptibility loci"
+        ],
+        [
+          "14 genes with missense de novo mutations (DNM)"
+        ],
+        [
+          "missense de novo mutations (DNM),"
+        ],
+        [
+          "14 genes with missense de novo mutations (DNM"
+        ],
+        [
+          "(DNM), none of which are within the &gt;80"
+        ]
+      ],
+      "id": "5c62a276e842deac6700000a"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "acts at the midbody"
+        ],
+        [
+          "the structure where abscission occurs at the end of cytokinesis"
+        ],
+        [
+          "genetically interacts with slx-1 and mus-81 mutants"
+        ],
+        [
+          "mus-81 mutants"
+        ],
+        [
+          "depends on factors needed for midbody assembly"
+        ],
+        [
+          "LEM-3 localization depends on factors needed for midbody assembly"
+        ],
+        [
+          "LEM-3 acts at the midbody, the structure where abscission occurs at the end of cytokinesis"
+        ],
+        [
+          "localization depends on factors needed for midbody assembly"
+        ],
+        [
+          "factors needed for midbody assembly"
+        ],
+        [
+          "acts at the midbody"
+        ],
+        [
+          "genetically interacts with slx-1 and mus-81"
+        ],
+        [
+          "Proper LEM-3 midbody localization and function is regulated by AIR-2/Aurora B kinase"
+        ],
+        [
+          "process erroneous recombination intermediates that persist into the second meiotic division"
+        ],
+        [
+          "acts at the midbody, the structure where abscission occurs at the end of cytokinesis."
+        ],
+        [
+          "factors needed for midbody assembly, and LEM-3 accumulation is increased and prolonged when chromatin bridges are trapped at the cleavage plane"
+        ],
+        [
+          "regulated by AIR-2/Aurora B kinase"
+        ],
+        [
+          "depends on factors needed for midbody assembly, and LEM-3 accumulation is increased and prolonged"
+        ],
+        [
+          "process erroneous recombination intermediates that persist into the second meiotic division."
+        ],
+        [
+          "LEM-3 localization depends on factors needed for midbody assembly, and LEM-3 accumulation is increased and prolonged"
+        ],
+        [
+          "accumulation is increased and prolonged when chromatin bridges are trapped at the cleavage plane"
+        ]
+      ],
+      "id": "5c54224807647bbc4b000001"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "combined checkpoint inhibitors"
+        ],
+        [
+          "combined checkpoint inhibitors compared to sunitinib"
+        ],
+        [
+          "checkpoint inhibitors"
+        ],
+        [
+          "superior overall survival and objective response with combined checkpoint inhibitors"
+        ],
+        [
+          "inhibitors"
+        ],
+        [
+          "combined"
+        ],
+        [
+          "sunitinib"
+        ],
+        [
+          "demonstrated superior overall survival and objective response with combined checkpoint inhibitors"
+        ],
+        [
+          "objective response with combined checkpoint inhibitors"
+        ],
+        [
+          "s"
+        ],
+        [
+          "combined checkpoint inhibitors compared to sunitinib in Treatment-Naïve Advanced RCC among intermediate- and poor-risk group"
+        ],
+        [
+          "with combined checkpoint inhibitors"
+        ],
+        [
+          "phase III trial, demonstrated superior overall survival and objective response with combined checkpoint inhibitors"
+        ],
+        [
+          "CheckMate 214, a phase III trial, demonstrated superior overall survival and objective response with combined checkpoint inhibitors"
+        ],
+        [
+          "checkpoint inhibitors compared to sunitinib"
+        ],
+        [
+          "superior overall survival and objective response with combined checkpoint inhibitors compared to sunitinib"
+        ],
+        [
+          "inhibitors compared to sunitinib"
+        ],
+        [
+          "combined immunotherapy with nivolumab plus ipilimumab"
+        ],
+        [
+          "combined checkpoint inhibitors compared to sunitinib in Treatment-Naïve Advanced RCC"
+        ],
+        [
+          "combined checkpoint inhibitors compared to sunitinib in Treatment-Naïve Advanced RCC among intermediate- and poor-risk"
+        ]
+      ],
+      "id": "5c6dfdf27c78d69471000047"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "ITGA4 and ITGB8"
+        ],
+        [
+          "ITGB8"
+        ],
+        [
+          "(ITGA4 and ITGB8"
+        ],
+        [
+          "ITGA4 and ITGB8) and at previously implicated loci (ITGAL and ICAM1"
+        ],
+        [
+          "ITGA4"
+        ],
+        [
+          "8"
+        ],
+        [
+          "ITGB8"
+        ],
+        [
+          "ITGA4 and ITGB8) and at previously implicated loci (ITGAL and ICAM1)"
+        ],
+        [
+          "ITGA4 and ITGB8)"
+        ],
+        [
+          "two of these genes (ITGA4 and ITGB8"
+        ],
+        [
+          "IT"
+        ],
+        [
+          "4 and ITGB8"
+        ],
+        [
+          "expression changes in response to immune stimulus at two of these genes (ITGA4 and ITGB8"
+        ],
+        [
+          "ITGA4 and ITGB8) and at previously implicated loci (ITGAL"
+        ],
+        [
+          "ITGA4 and ITGB8) and at previously implicated loci (ITGAL and ICAM1)."
+        ],
+        [
+          "ITGA4 and"
+        ],
+        [
+          "ITGA4 and ITGB"
+        ],
+        [
+          "associated variants are correlated with expression changes in response to immune stimulus at two of these genes (ITGA4 and ITGB8"
+        ],
+        [
+          "The associated variants are correlated with expression changes in response to immune stimulus at two of these genes (ITGA4 and ITGB8"
+        ],
+        [
+          "(ITGA4 and ITGB8) and at previously implicated loci (ITGAL and ICAM1"
+        ]
+      ],
+      "id": "5c596ad686df2b9174000015"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "phosphoinositide-3-kinase (PI3K)-δ"
+        ],
+        [
+          "-γ"
+        ],
+        [
+          "phospho-AKT (S473)"
+        ],
+        [
+          "phospho-AKT"
+        ],
+        [
+          "PI3K)-δ and -γ"
+        ],
+        [
+          "(PI3K)-δ and -γ"
+        ],
+        [
+          "phospho-AKT (S473) in CLL tumor cells"
+        ],
+        [
+          "PI3Kγ and PI3Kδ"
+        ],
+        [
+          "phosphoinositide 3-kinase-δ (PI3K-δ) and PI3K-γ"
+        ],
+        [
+          "phosphoinositide-3-kinase (PI3K)-δ and -γ,"
+        ],
+        [
+          "inhibition of phospho-AKT (S473)"
+        ],
+        [
+          "inhibition of phospho-AKT"
+        ],
+        [
+          "AKT (S473)"
+        ],
+        [
+          "AKT"
+        ],
+        [
+          "kinase (PI3K)-δ and -γ"
+        ],
+        [
+          "phosphatidylinositol 3-kinase (PI3K)-δ/γ isoforms"
+        ],
+        [
+          "phospho-AKT (S473"
+        ],
+        [
+          "PI3K)-δ and -γ,"
+        ],
+        [
+          "phospho-AKT (S473) in CLL"
+        ],
+        [
+          "phosphoinositide-3-kinase"
+        ]
+      ],
+      "id": "5c72b6be7c78d69471000072"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "prophylaxis of cytomegalovirus infection"
+        ],
+        [
+          "disease after stem cell transplant"
+        ],
+        [
+          "human cytomegalovirus infection treatment"
+        ],
+        [
+          "prophylaxis"
+        ],
+        [
+          "prophylaxis of cytomegalovirus infection and disease"
+        ],
+        [
+          "prophylaxis of cytomegalovirus infection and disease after stem cell transplant;"
+        ],
+        [
+          "orally or intravenously"
+        ],
+        [
+          "cytomegalovirus infection treatment and prophylaxis"
+        ],
+        [
+          "cytomegalovirus infection and disease after stem cell transplant"
+        ],
+        [
+          "orally or intravenously administered"
+        ],
+        [
+          "treatment and prophylaxis"
+        ],
+        [
+          "for prophylaxis of cytomegalovirus infection and disease after stem cell transplant"
+        ],
+        [
+          "human cytomegalovirus infection treatment and prophylaxis."
+        ],
+        [
+          "cytomegalovirus infection and disease"
+        ],
+        [
+          "cytomegalovirus infection and disease after stem cell transplant;"
+        ],
+        [
+          "for prophylaxis of cytomegalovirus infection and disease"
+        ],
+        [
+          "for prophylaxis of cytomegalovirus infection and disease after stem cell transplant;"
+        ],
+        [
+          "prophylaxis"
+        ],
+        [
+          "prophylaxis of cytomegalovirus infection and disease after stem cell transplant; benralizumab"
+        ],
+        [
+          "for human cytomegalovirus infection treatment and prophylaxis"
+        ]
+      ],
+      "id": "5c6e01af7c78d69471000048"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "inflammatory"
+        ],
+        [
+          "metabolic"
+        ],
+        [
+          "inflammation"
+        ],
+        [
+          "metabolism"
+        ],
+        [
+          "inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic cues"
+        ],
+        [
+          "integration of inflammatory and metabolic"
+        ],
+        [
+          "inflammatory and metabolic signals"
+        ],
+        [
+          "inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic"
+        ],
+        [
+          "nutritional and metabolic cues"
+        ],
+        [
+          "integration of inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic cues"
+        ],
+        [
+          "inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic cues."
+        ],
+        [
+          "nutritional and metabolic"
+        ],
+        [
+          "integration of inflammatory and metabolic signals"
+        ],
+        [
+          "integration of inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic"
+        ],
+        [
+          "nutritional and metabolic cues."
+        ],
+        [
+          "integration of inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic cues."
+        ],
+        [
+          "inflammation"
+        ],
+        [
+          "metabolic"
+        ],
+        [
+          "inflammation and metabolism in adipocytes. Lack of STAMP2 in adipocytes results in aberrant inflammatory responses"
+        ],
+        [
+          "metabolism"
+        ]
+      ],
+      "id": "5c57041807647bbc4b000015"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "dolutegravir (DTG)"
+        ],
+        [
+          "lamivudine (3TC)"
+        ],
+        [
+          "abacavir (ABC)"
+        ],
+        [
+          "tenofovir"
+        ],
+        [
+          "emtricitabine"
+        ],
+        [
+          "elvitegravir"
+        ],
+        [
+          "cobicistat"
+        ],
+        [
+          "Newer STRs"
+        ],
+        [
+          "Many single-tablet regimens (STRs), including newer fixed-dose combination (FDC) tablets"
+        ],
+        [
+          "single-tablet regimens (STRs), including newer fixed-dose combination (FDC) tablets"
+        ],
+        [
+          "fixed-dose combination (FDC) tablets"
+        ],
+        [
+          "dolutegravir"
+        ],
+        [
+          "Many single-tablet regimens (STRs"
+        ],
+        [
+          "single-tablet regimens (STRs"
+        ],
+        [
+          "newer fixed-dose combination (FDC) tablets"
+        ],
+        [
+          "Many single-tablet regimens"
+        ],
+        [
+          "(tenofovir, emtricitabine, elvitegravir and cobicistat"
+        ],
+        [
+          "single-tablet regimens"
+        ],
+        [
+          "Regimen Stribild (tenofovir, emtricitabine, elvitegravir and cobicistat"
+        ],
+        [
+          "STRs and FDCs"
+        ]
+      ],
+      "id": "5c7034ae7c78d69471000063"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "The tmVar 2.0"
+        ],
+        [
+          "tmVar 2.0"
+        ],
+        [
+          "The tmVar 2.0 source code"
+        ],
+        [
+          "zhiyong.lu@nih.gov."
+        ],
+        [
+          "The tmVar 2.0 source code and corpus"
+        ],
+        [
+          "corpus"
+        ],
+        [
+          "tmVar software and its corpus of 500 manually curated abstracts are available for download"
+        ],
+        [
+          "2.0"
+        ],
+        [
+          "The tmVar"
+        ],
+        [
+          "zhiyong.lu@nih.gov"
+        ],
+        [
+          "tmVar 2.0 source code"
+        ],
+        [
+          "tmvar/.zhiyong.lu@nih.gov."
+        ],
+        [
+          "source code"
+        ],
+        [
+          "available for download"
+        ],
+        [
+          "ClinVar"
+        ],
+        [
+          "Tools/tmvar/.zhiyong.lu@nih.gov."
+        ],
+        [
+          "software and its corpus of 500 manually curated abstracts are available for download"
+        ],
+        [
+          "."
+        ],
+        [
+          "500 manually curated abstracts are available for download"
+        ],
+        [
+          "tmvar/.zhiyong.lu@nih.gov"
+        ]
+      ],
+      "id": "5c561da707647bbc4b00000f"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "Gram-positive"
+        ],
+        [
+          "Gram-negative"
+        ],
+        [
+          "Gram-positive and Gram-negative bacteria"
+        ],
+        [
+          "Streptococcus pneumoniae."
+        ],
+        [
+          "Staphylococcus aureus"
+        ],
+        [
+          "Klebsiella pneumoniae"
+        ],
+        [
+          "Gram-negative bacteria"
+        ],
+        [
+          "a broad range of Gram-positive and Gram-negative"
+        ],
+        [
+          "negative"
+        ],
+        [
+          "positive and Gram-negative"
+        ],
+        [
+          "Gram-positive"
+        ],
+        [
+          "Gram-negative bacteria."
+        ],
+        [
+          "Gram"
+        ],
+        [
+          "Gram-positive and Gram"
+        ],
+        [
+          "active against a broad range of Gram-positive and Gram-negative"
+        ],
+        [
+          "broad range of Gram-positive and Gram-negative bacteria"
+        ],
+        [
+          "Gram-positive and Gram-negative bacteria. In this study, 200 Streptococcus pneumoniae"
+        ],
+        [
+          "a broad range of Gram-positive and Gram-negative bacteria"
+        ],
+        [
+          "-positive and Gram-negative"
+        ],
+        [
+          "Klebsiella pneumoniae"
+        ]
+      ],
+      "id": "5c0119f3133db5eb7800002b"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "dimethylxanthenone-4-acetic acid (DMXAA)"
+        ],
+        [
+          "dimethylxanthenone-4-acetic acid (DMXAA"
+        ],
+        [
+          "dimethylxanthenone-4-acetic acid"
+        ],
+        [
+          "dimethylxanthenone-4-acetic acid (DMXAA)."
+        ],
+        [
+          "DMXAA)"
+        ],
+        [
+          "DMXAA"
+        ],
+        [
+          "DMXAA)."
+        ],
+        [
+          "(DMXAA)"
+        ],
+        [
+          "(DMXAA"
+        ],
+        [
+          "dimethylxanthenone-4-acetic acid ("
+        ],
+        [
+          "a STING agonist, dimethylxanthenone-4-acetic acid (DMXAA)"
+        ],
+        [
+          "dim"
+        ],
+        [
+          "dimethylxanthenone-4-acetic acid (D"
+        ],
+        [
+          "a STING agonist, dimethylxanthenone-4-acetic acid (DMXAA"
+        ],
+        [
+          "a STING agonist, dimethylxanthenone-4-acetic acid"
+        ],
+        [
+          "(DMXAA)."
+        ],
+        [
+          "STING agonist, dimethylxanthenone-4-acetic acid (DMXAA)"
+        ],
+        [
+          "dimethylxanthenone-4-acetic acid (DMX"
+        ],
+        [
+          "agonist, dimethylxanthenone-4-acetic acid (DMXAA)"
+        ],
+        [
+          "STING agonist, dimethylxanthenone-4-acetic acid (DMXAA"
+        ]
+      ],
+      "id": "5c7ab080d774d0424000000b"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "Trifluridine"
+        ],
+        [
+          "tipiracil"
+        ],
+        [
+          "Trifluridine/tipiracil (TAS-102"
+        ],
+        [
+          "Trifluridine/tipiracil (TAS-102, Lonsurf®)"
+        ],
+        [
+          "Trifluridine/tipiracil (TAS-102, Lonsurf®"
+        ],
+        [
+          "Tri"
+        ],
+        [
+          "Trifluridine/tipiracil (TAS-102,"
+        ],
+        [
+          "l"
+        ],
+        [
+          "Trifluridine/tipiracil (TAS-102, Lonsurf®),"
+        ],
+        [
+          "Trifluridine/tipiracil (TAS-102, Lonsurf®), a novel oral anti-tumor agent"
+        ],
+        [
+          "Trifluridine"
+        ],
+        [
+          "trifluridine/tipiracil (TAS-102, Lonsurf®)"
+        ],
+        [
+          "tipiracil"
+        ],
+        [
+          "trifluridine/tipiracil (TAS-102, Lonsurf®), an antimetabolite"
+        ],
+        [
+          "ine/tipiracil"
+        ],
+        [
+          "trifluridine and tipiracil"
+        ],
+        [
+          "trifluridine"
+        ],
+        [
+          "trifluridine/tipiracil (TAS-102, Lonsurf®),"
+        ],
+        [
+          "trifluridine/tipiracil (TAS-102"
+        ],
+        [
+          "such as trifluridine/tipiracil"
+        ]
+      ],
+      "id": "5c72a9147c78d6947100006e"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "deep genetic"
+        ],
+        [
+          "phenotypic"
+        ],
+        [
+          "phenotypic data"
+        ],
+        [
+          "deep genetic and phenotypic data"
+        ],
+        [
+          "genetic and phenotypic"
+        ],
+        [
+          "genetic and phenotypic data"
+        ],
+        [
+          "phenotypic"
+        ],
+        [
+          "deep genetic"
+        ],
+        [
+          "phenotypic data"
+        ],
+        [
+          "genetic"
+        ],
+        [
+          "phenotypic and health-related information"
+        ],
+        [
+          "deep genetic and phenotypic data collected on approximately 500,000 individuals"
+        ],
+        [
+          "deep genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom"
+        ],
+        [
+          "deep"
+        ],
+        [
+          "genetic and phenotypic data collected on approximately 500,000 individuals"
+        ],
+        [
+          "data"
+        ],
+        [
+          "genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom"
+        ],
+        [
+          "deep genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom, aged between 40 and 69 at recruitment."
+        ],
+        [
+          "phenotypic and health-related information is available on each participant"
+        ],
+        [
+          "deep genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom, aged between 40 and 69"
+        ]
+      ],
+      "id": "5c5205137e3cb0e231000001"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "telangiectasias"
+        ],
+        [
+          "monoclonal gammopathy"
+        ],
+        [
+          "elevated erythropoietin level"
+        ],
+        [
+          "perinephric fluid collections"
+        ],
+        [
+          "intrapulmonary shunting"
+        ],
+        [
+          "telangiectasias,"
+        ],
+        [
+          "elevated erythropoietin level and erythrocytosis,"
+        ],
+        [
+          "monoclonal gammopathy, perinephric fluid collections, and intrapulmonary shunting)"
+        ],
+        [
+          "telangiectasias, erythrocytosis with elevated erythropoietin"
+        ],
+        [
+          "te"
+        ],
+        [
+          "telangiectasias"
+        ],
+        [
+          "(telangiectasias,"
+        ],
+        [
+          "perinephric fluid collections, and intrapulmonary shunting"
+        ],
+        [
+          "elevated erythropoietin level and erythrocytosis"
+        ],
+        [
+          "elevated erythropoietin and normal vascular endothelial growth factor level"
+        ],
+        [
+          "intrapulmonary shunting"
+        ],
+        [
+          "telangiectasias, elevated"
+        ],
+        [
+          "telangiectasias, erythrocytosis with elevated erythropoietin,"
+        ],
+        [
+          "monoclonal gammopathy,"
+        ],
+        [
+          ", monoclonal gammopathy, perinephric fluid collections, and intrapulmonary shunting"
+        ]
+      ],
+      "id": "5c6b7daa7c78d6947100002b"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "primarily target standard (ST) mutation mentions"
+        ],
+        [
+          "target standard (ST) mutation mentions"
+        ],
+        [
+          "primarily target standard (ST) mutation mentions (e.g. 'E6V')"
+        ],
+        [
+          "target standard (ST) mutation mentions (e.g. 'E6V')"
+        ],
+        [
+          "primarily target standard (ST) mutation mentions (e.g. 'E6V'),"
+        ],
+        [
+          "methods primarily target standard (ST) mutation mentions"
+        ],
+        [
+          "primarily target standard (ST) mutation"
+        ],
+        [
+          "Existing methods primarily target standard (ST) mutation mentions"
+        ],
+        [
+          "target standard (ST) mutation mentions (e.g. 'E6V'),"
+        ],
+        [
+          "primarily target"
+        ],
+        [
+          "(ST) mutation mentions"
+        ],
+        [
+          "methods primarily target standard (ST) mutation mentions (e.g. 'E6V')"
+        ],
+        [
+          "primarily target standard"
+        ],
+        [
+          "conditional random field (CRF)"
+        ],
+        [
+          "target standard (ST) mutation"
+        ],
+        [
+          "primarily"
+        ],
+        [
+          "standard (ST) mutation mentions"
+        ],
+        [
+          "Existing methods primarily target standard (ST) mutation mentions (e.g. 'E6V')"
+        ],
+        [
+          "automatic approaches"
+        ],
+        [
+          "target"
+        ]
+      ],
+      "id": "5c56bbb107647bbc4b000011"
+    },
+    {
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "type": "list",
+      "exact_answer": [
+        [
+          "gynecological cancers"
+        ],
+        [
+          "gynecological cancers remains unknown. This study was to identify the prognostic value of uc.189 expression in gynecological cancers"
+        ],
+        [
+          "gynecological cancers remains unknown"
+        ],
+        [
+          "human cancers remains undefined"
+        ],
+        [
+          "the clinical significance of uc.189 in gynecological cancers"
+        ],
+        [
+          "gynecological"
+        ],
+        [
+          "in gynecological cancers"
+        ],
+        [
+          "s"
+        ],
+        [
+          "clinicopathological features"
+        ],
+        [
+          "clinicopathological features and prognosis"
+        ],
+        [
+          "human cancers"
+        ],
+        [
+          "human cancers remains undefined and the clinical significance of uc.189 in esophageal cancers"
+        ],
+        [
+          "CSCCs"
+        ],
+        [
+          "ovarian cystoadenocarcinomas"
+        ],
+        [
+          "116 cervical squamous cell carcinomas (CSCCs"
+        ],
+        [
+          "advanced clinical stage (p=0.000), lymph node metastasis (p=0.000), and poor prognosis"
+        ],
+        [
+          "unknown. This study was to identify the prognostic value of uc.189 expression in gynecological cancers"
+        ],
+        [
+          "CSCCs), 98 endometrial adenocarcinomas (EACs)"
+        ],
+        [
+          "cervical squamous cell carcinomas (CSCCs"
+        ],
+        [
+          "116 cervical squamous cell carcinomas"
+        ]
+      ],
+      "id": "5c580fe107647bbc4b00001b"
+    },
+    {
+      "exact_answer": [
+        [
+          "neuronal ceroid lipofuscinosis type 2"
+        ],
+        [
+          "neuronal ceroid lipofuscinosis type 2 (CLN2)"
+        ],
+        [
+          "neuronal ceroid lipofuscinosis type 2 (CLN2) disease"
+        ],
+        [
+          "neuronal ceroid lipofuscinosis"
+        ],
+        [
+          "neuronal ceroid lipofuscinosis type 2 (CLN2"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c6b810e7c78d6947100002e"
+    },
+    {
+      "exact_answer": [
+        [
+          "DeepVariant"
+        ],
+        [
+          "DeepVariant,"
+        ],
+        [
+          "DeepVarian"
+        ],
+        [
+          "Deep"
+        ],
+        [
+          "t"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c51fb7a07ef653866000006"
+    },
+    {
+      "exact_answer": [
+        [
+          "cystic fibrosis"
+        ],
+        [
+          "bona fide CF"
+        ],
+        [
+          "cystic fibrosis (CF)"
+        ],
+        [
+          "bona fide"
+        ],
+        [
+          "cystic fibrosis (CF"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c6e16eb7c78d6947100004e"
+    },
+    {
+      "exact_answer": [
+        [
+          "DSMNC"
+        ],
+        [
+          "DSMNC:"
+        ],
+        [
+          "DSMNC: a database of somatic mutations in normal cells"
+        ],
+        [
+          "DS"
+        ],
+        [
+          "DSM"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c5b268986df2b9174000019"
+    },
+    {
+      "exact_answer": [
+        [
+          "calcitonin gene-related peptide receptor"
+        ],
+        [
+          "the calcitonin gene-related peptide receptor"
+        ],
+        [
+          "calcitonin"
+        ],
+        [
+          "gene-related peptide receptor"
+        ],
+        [
+          "calcitonin gene-related peptide"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c71d7ca7c78d6947100006b"
+    },
+    {
+      "exact_answer": [
+        [
+          "mutations in TGM1"
+        ],
+        [
+          "mutations in TGM1."
+        ],
+        [
+          "mainly by mutations in TGM1"
+        ],
+        [
+          "TGM1"
+        ],
+        [
+          "novel mutation of the transglutaminase 1 gene (TGM1)"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c531d8f7e3cb0e231000017"
+    },
+    {
+      "exact_answer": [
+        [
+          "June 2017"
+        ],
+        [
+          "2017"
+        ],
+        [
+          "in June 2017"
+        ],
+        [
+          "June"
+        ],
+        [
+          "June 2017 received approval in the USA"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c0117fd133db5eb7800002a"
+    },
+    {
+      "exact_answer": [
+        [
+          "PIK3CA"
+        ],
+        [
+          "PIK3CA gene"
+        ],
+        [
+          "the PIK3CA"
+        ],
+        [
+          "the PIK3CA gene"
+        ],
+        [
+          "PIK3"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c5b4a941a4c55d80b000002"
+    },
+    {
+      "exact_answer": [
+        [
+          "ALK G1202R"
+        ],
+        [
+          "G1202R"
+        ],
+        [
+          "ALK G1202R, the most frequent plasma mutation detected after progression on a second-generation TKI"
+        ],
+        [
+          "ALK G1202R, the most frequent plasma mutation detected after progression on a second-generation TKI,"
+        ],
+        [
+          "ALK G1202R,"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c72ade07c78d69471000070"
+    },
+    {
+      "exact_answer": [
+        [
+          "Clostridium difficile"
+        ],
+        [
+          "C. difficile"
+        ],
+        [
+          "recurrent Clostridium difficile"
+        ],
+        [
+          "Clostridium difficile,"
+        ],
+        [
+          "Clostridium"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c71d6d27c78d6947100006a"
+    },
+    {
+      "exact_answer": [
+        [
+          "CNEFinder"
+        ],
+        [
+          "C"
+        ],
+        [
+          "CNEFinder;"
+        ],
+        [
+          "CNEF"
+        ],
+        [
+          "presenting CNEFinder"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c51f01e07ef653866000002"
+    },
+    {
+      "exact_answer": [
+        [
+          "defective activity of β-hexosaminidase"
+        ],
+        [
+          "the defective activity of β-hexosaminidase"
+        ],
+        [
+          "defective activity of β-hexosaminidase, leading to accumulation of ganglioside GM2"
+        ],
+        [
+          "β-hexosaminidase"
+        ],
+        [
+          "a mutation of the β-subunit gene β-hexosaminidase B (HexB)"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c78080e7c78d694710000ae"
+    },
+    {
+      "exact_answer": [
+        [
+          "1 month after hepatectomy."
+        ],
+        [
+          "(P = 0.07).Post-hepatectomy"
+        ],
+        [
+          "just before and 1 month after hepatectomy."
+        ],
+        [
+          "before and 1 month after hepatectomy."
+        ],
+        [
+          "(P = 0.07).Post-hepatectomy HLs of AFP and DCP are predictors of long-term outcome"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c7839edd774d04240000003"
+    },
+    {
+      "exact_answer": [
+        [
+          "copy number variation-random forest (CNV-RF)"
+        ],
+        [
+          "CNV-RF)"
+        ],
+        [
+          "copy number variation-random forest (CNV-RF"
+        ],
+        [
+          "CNV-RF"
+        ],
+        [
+          "copy number variation"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c51f9dd07ef653866000005"
+    },
+    {
+      "exact_answer": [
+        [
+          "by binding to GM1"
+        ],
+        [
+          "binding to GM1"
+        ],
+        [
+          "by binding to GM1, a monosialoganglioside widely distributed on the plasma membrane surface of various animal epithelial cells"
+        ],
+        [
+          "by binding to GM1, a monosialoganglioside widely distributed on the plasma membrane surface"
+        ],
+        [
+          "can enter host cells by binding to GM1"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c7813f57c78d694710000b0"
+    },
+    {
+      "exact_answer": [
+        [
+          "mogamulizumab"
+        ],
+        [
+          "mogamulizumab,"
+        ],
+        [
+          "m"
+        ],
+        [
+          "mogamulizumab, a humanized anti-CCR4"
+        ],
+        [
+          "mogamulizumab, a humanized anti-CCR4 monoclonal antibody"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c65468ce842deac6700001e"
+    },
+    {
+      "exact_answer": [
+        [
+          "Capillaria hepatica"
+        ],
+        [
+          "parasite Capillaria hepatica"
+        ],
+        [
+          "parasite"
+        ],
+        [
+          "parasite Capillaria hepatica,"
+        ],
+        [
+          "the parasite Capillaria hepatica"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c571dd307647bbc4b000016"
+    },
+    {
+      "exact_answer": [
+        [
+          "X-linked hypophosphatemia"
+        ],
+        [
+          "XLH"
+        ],
+        [
+          "hypophosphatemia"
+        ],
+        [
+          "children with X-linked hypophosphatemia"
+        ],
+        [
+          "X-linked"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c6b7fb27c78d6947100002d"
+    },
+    {
+      "exact_answer": [
+        [
+          "activation of type I interferons in response to cytosolic nucleic acid ligands"
+        ],
+        [
+          "plays an important role in the activation of type I interferons in response to cytosolic nucleic acid ligands"
+        ],
+        [
+          "important role in the activation of type I interferons in response to cytosolic nucleic acid ligands"
+        ],
+        [
+          "a cytosolic sensor for cyclic dinucleotides"
+        ],
+        [
+          "a cytosolic sensor"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c7aae9dd774d0424000000a"
+    },
+    {
+      "exact_answer": [
+        [
+          "PrEP"
+        ],
+        [
+          "supplemental indication for Truvada as PrEP"
+        ],
+        [
+          "the supplemental indication for Truvada as PrEP"
+        ],
+        [
+          "PrEP) and the recent approval by the FDA of the supplemental indication for Truvada as PrEP"
+        ],
+        [
+          "Truvada as PrEP"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c5f29a81a4c55d80b00001f"
+    },
+    {
+      "exact_answer": [
+        [
+          "severe rotavirus disease"
+        ],
+        [
+          "rotavirus"
+        ],
+        [
+          "rotavirus disease"
+        ],
+        [
+          "severe rotavirus"
+        ],
+        [
+          "severe"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c6e05f37c78d69471000049"
+    },
+    {
+      "exact_answer": [
+        [
+          "tofacitinib"
+        ],
+        [
+          "Janus kinase 1"
+        ],
+        [
+          "filgotinib"
+        ],
+        [
+          "tofaci"
+        ],
+        [
+          "tofacitin"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c7039207c78d69471000065"
+    },
+    {
+      "exact_answer": [
+        [
+          "Pilocytic astrocytoma"
+        ],
+        [
+          "Pilocytic astrocytoma (PA)"
+        ],
+        [
+          "Pilocytic astrocytoma (PA"
+        ],
+        [
+          "PA)"
+        ],
+        [
+          "Pilocytic astrocytoma (PA) is the most common glioma"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c6bec987c78d69471000033"
+    },
+    {
+      "exact_answer": [
+        [
+          "Periodic leaf-movement"
+        ],
+        [
+          "Periodic leaf-movement of legumes"
+        ],
+        [
+          "leaf-movement"
+        ],
+        [
+          "circadian leaf movement"
+        ],
+        [
+          "Period"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c54d1a207647bbc4b000007"
+    },
+    {
+      "exact_answer": [
+        [
+          "heterozygous loss-of-function variants in NFKB1"
+        ],
+        [
+          "heterozygous loss-of-function variants"
+        ],
+        [
+          "NFKB1"
+        ],
+        [
+          "loss-of-function variants in NFKB1"
+        ],
+        [
+          "loss-of-function variants"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c629937e842deac67000008"
+    },
+    {
+      "exact_answer": [
+        [
+          "malformations of the eye"
+        ],
+        [
+          "the malformations of the eye"
+        ],
+        [
+          "malformations of the eye, referring to a congenital absence, and a reduced size of the eyeball"
+        ],
+        [
+          "the malformations of the eye, referring to a congenital absence, and a reduced size of the eyeball"
+        ],
+        [
+          "malformations of the eye,"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c674c287c78d6947100001a"
+    },
+    {
+      "exact_answer": [
+        [
+          "pembrolizumab"
+        ],
+        [
+          "TRK kinases"
+        ],
+        [
+          "TRK"
+        ],
+        [
+          "LOXO-101), Loxooncology's oral, potent, and selective inhibitor of tropomyosin receptor kinases"
+        ],
+        [
+          "potent, and selective inhibitor of tropomyosin receptor kinases (TRK)"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c6e0f537c78d6947100004a"
+    },
+    {
+      "exact_answer": [
+        [
+          "Porphyromonas gingivalis or Treponema denticola"
+        ],
+        [
+          "Porphyromonas gingivalis"
+        ],
+        [
+          "Treponema denticola"
+        ],
+        [
+          "P. gingivalis"
+        ],
+        [
+          "spirochetes family and on periodontal pathogens such as Porphyromonas gingivalis"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c53191a7e3cb0e231000016"
+    },
+    {
+      "exact_answer": [
+        [
+          "2.7%"
+        ],
+        [
+          "2.7"
+        ],
+        [
+          "(2.7%"
+        ],
+        [
+          "2.7%)"
+        ],
+        [
+          "1 in 38 healthy individuals (2.7%"
+        ]
+      ],
+      "type": "factoid",
+      "ideal_answer": [
+        "Dummy"
+      ],
+      "id": "5c51fe8907ef653866000007"
+    },
+    {"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c663c547c78d69471000014"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c6d8f4c7c78d6947100003f"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c53143b7e3cb0e231000013"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c663e277c78d69471000015"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6d97497c78d69471000040"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c5317e77e3cb0e231000015"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c6641ea7c78d69471000016"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6da11e7c78d69471000042"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c6b78b77c78d69471000028"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c65484ee842deac6700001f"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6b7a9e7c78d69471000029"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c51f16307ef653866000003"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c65495be842deac67000021"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c536c427e3cb0e23100001d"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6b7bee7c78d6947100002a"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c51f44c07ef653866000004"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c54d00e07647bbc4b000005"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6b82a17c78d6947100002f"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c52028807ef653866000009"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c57216e07647bbc4b000018"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6df86b7c78d69471000045"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c5723a007647bbc4b000019"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c6dfba77c78d69471000046"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c52c8b07e3cb0e23100000c"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c5f2cef1a4c55d80b000022"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c52cde87e3cb0e23100000e"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c5f39011a4c55d80b000027"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c5410647e3cb0e23100001e"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c6e12247c78d6947100004b"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c6bedd57c78d69471000034"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6d441d7c78d69471000037"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c6f0ebf7c78d69471000050"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c6dbda27c78d69471000044"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c56c5e107647bbc4b000012"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c6ffc5b7c78d69471000057"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6f15577c78d69471000053"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c71648b7c78d69471000067"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6f6ae37c78d69471000054"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c5839e707647bbc4b00001f"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c6f6d997c78d69471000055"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c58db1386df2b9174000014"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c5b2f4b1a4c55d80b000001"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c5b52731a4c55d80b000003"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c72b4897c78d69471000071"},
+{"exact_answer": "Dummy", "ideal_answer": "Dummy", "type": "summary", "id": "5c608f0cc01990ff41000003"},
+{"exact_answer": "yes", "ideal_answer": "Dummy", "type": "yesno", "id": "5c72ba807c78d69471000076"}
+  ]
+}

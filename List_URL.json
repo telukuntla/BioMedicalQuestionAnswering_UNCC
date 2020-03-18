@@ -1,0 +1,3192 @@
+{
+    "5c76e6d27c78d694710000ac": [
+        {
+            "text": "CD63", 
+            "probability": 0.9099075746821033, 
+            "start_logit": 0.8768941164016724, 
+            "end_logit": 2.223186492919922
+        }, 
+        {
+            "text": "Rab7.", 
+            "probability": 0.026900865597411287, 
+            "start_logit": 0.8768941164016724, 
+            "end_logit": -1.297998070716858
+        }, 
+        {
+            "text": "mannose-6-phosphate receptor (M6PR)", 
+            "probability": 0.02518543290501559, 
+            "start_logit": -2.7101831436157227, 
+            "end_logit": 2.223186492919922
+        }, 
+        {
+            "text": "early endosome antigen 1", 
+            "probability": 0.02113383038699732, 
+            "start_logit": -0.16145099699497223, 
+            "end_logit": -0.5009363293647766
+        }, 
+        {
+            "text": "mannose-6-phosphate receptor (M6PR) and Rab7", 
+            "probability": 0.006347542565490163, 
+            "start_logit": -1.2463252544403076, 
+            "end_logit": -0.618869423866272
+        }, 
+        {
+            "text": "CD63", 
+            "probability": 0.003302260512712328, 
+            "start_logit": 0.8768941164016724, 
+            "end_logit": -3.3955492973327637
+        }, 
+        {
+            "text": "early phagosomal marker early endosome antigen 1", 
+            "probability": 0.0013437184229347216, 
+            "start_logit": -2.9168853759765625, 
+            "end_logit": -0.5009363293647766
+        }, 
+        {
+            "text": "Rab7, Lysosomal Associated Membrane Protein 1,", 
+            "probability": 0.001181872686274298, 
+            "start_logit": 0.013332756236195564, 
+            "end_logit": -3.559494972229004
+        }, 
+        {
+            "text": "Rab7", 
+            "probability": 0.0008823355480029505, 
+            "start_logit": 0.013332756236195564, 
+            "end_logit": -3.851778030395508
+        }, 
+        {
+            "text": "late phagosomal markers CD63 and Rab7.", 
+            "probability": 0.0007445920491728487, 
+            "start_logit": -2.7101831436157227, 
+            "end_logit": -1.297998070716858
+        }, 
+        {
+            "text": "Rab7,", 
+            "probability": 0.0007051155460115436, 
+            "start_logit": 0.013332756236195564, 
+            "end_logit": -4.07598876953125
+        }, 
+        {
+            "text": "7", 
+            "probability": 0.0003168402871434076, 
+            "start_logit": -7.085806369781494, 
+            "end_logit": 2.223186492919922
+        }, 
+        {
+            "text": "they could nevertheless acquire the late phagosomal markers CD63 and Rab7", 
+            "probability": 0.00031576039010938517, 
+            "start_logit": -7.0892205238342285, 
+            "end_logit": 2.223186492919922
+        }, 
+        {
+            "text": "early endosome antigen 1 colocalized with all isolates tested", 
+            "probability": 0.0002876879279690971, 
+            "start_logit": -0.16145099699497223, 
+            "end_logit": -4.797690391540527
+        }, 
+        {
+            "text": "the late phagosomal markers CD63 and Rab7", 
+            "probability": 0.0002843162347748949, 
+            "start_logit": -7.194117069244385, 
+            "end_logit": 2.223186492919922
+        }, 
+        {
+            "text": "Lysosomal Associated Membrane Protein 1, Cathepsin D, Rab9, and V-ATPase", 
+            "probability": 0.00026852671119756427, 
+            "start_logit": -5.207558631896973, 
+            "end_logit": 0.179491326212883
+        }, 
+        {
+            "text": "markers CD63 and Rab7", 
+            "probability": 0.00025843503562301057, 
+            "start_logit": -7.289559841156006, 
+            "end_logit": 2.223186492919922
+        }, 
+        {
+            "text": "the early phagosomal marker early endosome antigen 1", 
+            "probability": 0.00024491218932197136, 
+            "start_logit": -4.6191816329956055, 
+            "end_logit": -0.5009363293647766
+        }, 
+        {
+            "text": "early endosome antigen 1 colocalized with all isolates tested,", 
+            "probability": 0.0002345253085931777, 
+            "start_logit": -0.16145099699497223, 
+            "end_logit": -5.002003192901611
+        }, 
+        {
+            "text": "marker early endosome antigen 1", 
+            "probability": 0.00015385501314105397, 
+            "start_logit": -5.084070682525635, 
+            "end_logit": -0.5009363293647766
+        }
+    ], 
+    "5c0119f3133db5eb7800002b": [
+        {
+            "text": "Gram-positive", 
+            "probability": 0.8973856526071455, 
+            "start_logit": 2.8528497219085693, 
+            "end_logit": 3.51580548286438
+        }, 
+        {
+            "text": "Gram-negative", 
+            "probability": 0.0538231097566077, 
+            "start_logit": 0.3553604185581207, 
+            "end_logit": 3.199512004852295
+        }, 
+        {
+            "text": "Streptococcus pneumoniae.", 
+            "probability": 0.0066844487922761925, 
+            "start_logit": 2.8528497219085693, 
+            "end_logit": -1.3838964700698853
+        }, 
+        {
+            "text": "Staphylococcus aureus", 
+            "probability": 0.004141262453057021, 
+            "start_logit": 0.2983701229095459, 
+            "end_logit": 0.691800057888031
+        }, 
+        {
+            "text": "Klebsiella pneumoniae", 
+            "probability": 0.0019961747087904485, 
+            "start_logit": -3.2554032802581787, 
+            "end_logit": 3.51580548286438
+        }, 
+		  {
+            "text": "Gram-positive and Gram-negative bacteria", 
+            "probability": 0.03051507595760439, 
+            "start_logit": 2.8528497219085693, 
+            "end_logit": 0.1345406323671341
+        }, 
+        {
+            "text": "Gram-negative bacteria", 
+            "probability": 0.0018889734106596265, 
+            "start_logit": 0.3553604185581207, 
+            "end_logit": -0.1501574069261551
+        }, 
+        {
+            "text": "a broad range of Gram-positive and Gram-negative", 
+            "probability": 0.0011003347542212455, 
+            "start_logit": -3.8510215282440186, 
+            "end_logit": 3.51580548286438
+        }, 
+        {
+            "text": "negative", 
+            "probability": 0.000686198835560405, 
+            "start_logit": -4.006930351257324, 
+            "end_logit": 3.199512004852295
+        }, 
+        {
+            "text": "positive and Gram-negative", 
+            "probability": 0.0006097933907389072, 
+            "start_logit": -4.1249775886535645, 
+            "end_logit": 3.199512004852295
+        }, 
+        {
+            "text": "Gram-positive", 
+            "probability": 0.0003921745541782601, 
+            "start_logit": 2.8528497219085693, 
+            "end_logit": -4.219728469848633
+        }, 
+        {
+            "text": "Gram-negative bacteria.", 
+            "probability": 0.00022594028906923442, 
+            "start_logit": 0.3553604185581207, 
+            "end_logit": -2.2736754417419434
+        }, 
+        {
+            "text": "Gram", 
+            "probability": 0.0001873089071043755, 
+            "start_logit": 2.8528497219085693, 
+            "end_logit": -4.958676338195801
+        }, 
+        {
+            "text": "Gram-positive and Gram", 
+            "probability": 8.349842257945653e-05, 
+            "start_logit": 2.8528497219085693, 
+            "end_logit": -5.766607761383057
+        }, 
+        {
+            "text": "active against a broad range of Gram-positive and Gram-negative", 
+            "probability": 8.258547213333553e-05, 
+            "start_logit": -6.440557479858398, 
+            "end_logit": 3.51580548286438
+        }, 
+        {
+            "text": "broad range of Gram-positive and Gram-negative bacteria", 
+            "probability": 6.787875723934248e-05, 
+            "start_logit": -3.2554032802581787, 
+            "end_logit": 0.1345406323671341
+        }, 
+        {
+            "text": "Gram-positive and Gram-negative bacteria. In this study, 200 Streptococcus pneumoniae", 
+            "probability": 3.7419664770487615e-05, 
+            "start_logit": 2.8528497219085693, 
+            "end_logit": -6.569239139556885
+        }, 
+        {
+            "text": "a broad range of Gram-positive and Gram-negative bacteria", 
+            "probability": 3.741624184240485e-05, 
+            "start_logit": -3.8510215282440186, 
+            "end_logit": 0.1345406323671341
+        }, 
+        {
+            "text": "-positive and Gram-negative", 
+            "probability": 3.0493986775968145e-05, 
+            "start_logit": -7.12056827545166, 
+            "end_logit": 3.199512004852295
+        }, 
+        {
+            "text": "Klebsiella pneumoniae", 
+            "probability": 2.425903764593194e-05, 
+            "start_logit": -4.841596603393555, 
+            "end_logit": 0.691800057888031
+        }
+    ], 
+    "5c78174b7c78d694710000b1": [
+        {
+            "text": "MS Amanda", 
+            "probability": 0.7001164849819775, 
+            "start_logit": -1.3913146257400513, 
+            "end_logit": 0.9567697644233704
+        },  
+        {
+            "text": "MyriMatch", 
+            "probability": 0.031265156068625156, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -2.905003786087036
+        }, 
+        {
+            "text": "Comet", 
+            "probability": 0.031155318099297048, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -2.9085230827331543
+        }, 
+        {
+            "text": "Andromeda", 
+            "probability": 0.02566644831646251, 
+            "start_logit": -4.697376728057861, 
+            "end_logit": 0.9567697644233704
+        }, 
+        {
+            "text": "Tide", 
+            "probability": 0.021277586200875484, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -3.289853811264038
+        }, 
+		{
+            "text": "OMSSA", 
+            "probability": 0.056214234196978144, 
+            "start_logit": -3.913391351699829, 
+            "end_logit": 0.9567697644233704
+        },
+        {
+            "text": "X!Tandem, MS-GF[Formula: see text]", 
+            "probability": 0.017858102763658342, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -3.46505069732666
+        }, 
+        {
+            "text": "MS Amanda, MyriMatch,", 
+            "probability": 0.014672190233187736, 
+            "start_logit": -1.3913146257400513, 
+            "end_logit": -2.9085230827331543
+        }, 
+        {
+            "text": "MS Amanda,", 
+            "probability": 0.010020401378901, 
+            "start_logit": -1.3913146257400513, 
+            "end_logit": -3.289853811264038
+        }, 
+        {
+            "text": "X!Tandem, MS-GF", 
+            "probability": 0.009801272980476294, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -4.064995765686035
+        }, 
+        {
+            "text": "X!Tandem, MS-GF[Formula: see text], MS Amanda, MyriMatch, Comet, Tide,", 
+            "probability": 0.009754601605927123, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -4.069768905639648
+        }, 
+        {
+            "text": "(X!Tandem, MS-GF[Formula: see text],", 
+            "probability": 0.009735648902945789, 
+            "start_logit": -1.8049935102462769, 
+            "end_logit": -2.905003786087036
+        }, 
+        {
+            "text": "(X!Tandem, MS-GF[Formula: see text], MS Amanda, MyriMatch,", 
+            "probability": 0.009701446485940613, 
+            "start_logit": -1.8049935102462769, 
+            "end_logit": -2.9085230827331543
+        }, 
+        {
+            "text": "X!Tandem, MS-GF[Formula: see text], MS Amanda, MyriMatch", 
+            "probability": 0.009559264102063427, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -4.089997291564941
+        }, 
+        {
+            "text": "X!Tandem, MS-GF[Formula: see text], MS Amanda", 
+            "probability": 0.008546825034584172, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -4.201948165893555
+        }, 
+        {
+            "text": "X!Tandem,", 
+            "probability": 0.007624337646454293, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -4.316162586212158
+        }, 
+        {
+            "text": "MyriMatch, Comet, Tide, Andromeda, and OMSSA", 
+            "probability": 0.007242057368416945, 
+            "start_logit": -5.962656021118164, 
+            "end_logit": 0.9567697644233704
+        }, 
+        {
+            "text": "MaxQuant, Proteome Discoverer, or Mascot", 
+            "probability": 0.00715505344000907, 
+            "start_logit": -2.902188301086426, 
+            "end_logit": -2.1157844066619873
+        }, 
+        {
+            "text": "(X!Tandem, MS-GF[Formula: see text], MS Amanda,", 
+            "probability": 0.006625622091864934, 
+            "start_logit": -1.8049935102462769, 
+            "end_logit": -3.289853811264038
+        }, 
+        {
+            "text": "X!Tandem, MS-GF[Formula: see text], MS Amanda, MyriMatch, Comet,", 
+            "probability": 0.006007948101354502, 
+            "start_logit": -0.6382835507392883, 
+            "end_logit": -4.55442476272583
+        }
+    ], 
+    "5c6b7daa7c78d6947100002b": [
+        {
+            "text": "telangiectasias", 
+            "probability": 0.5305131728270998, 
+            "start_logit": 7.375252723693848, 
+            "end_logit": 2.7836191654205322
+        }, 
+        {
+            "text": "monoclonal gammopathy", 
+            "probability": 0.20966560206460852, 
+            "start_logit": 3.6263272762298584, 
+            "end_logit": 5.604213714599609
+        }, 
+        {
+            "text": "elevated erythropoietin level", 
+            "probability": 0.1776562757070673, 
+            "start_logit": 7.375252723693848, 
+            "end_logit": 1.6896250247955322
+        }, 
+        {
+            "text": "perinephric fluid collections", 
+            "probability": 0.04211388498467886, 
+            "start_logit": 4.841785430908203, 
+            "end_logit": 2.7836191654205322
+        }, 
+        {
+            "text": "intrapulmonary shunting", 
+            "probability": 0.01410294097329084, 
+            "start_logit": 4.841785430908203, 
+            "end_logit": 1.6896250247955322
+        }, 
+        {
+            "text": "telangiectasias,", 
+            "probability": 0.01222258801143363, 
+            "start_logit": 7.375252723693848, 
+            "end_logit": -0.9869399070739746
+        }, 
+        {
+            "text": "elevated erythropoietin level and erythrocytosis,", 
+            "probability": 0.0027393568397019877, 
+            "start_logit": 2.109131097793579, 
+            "end_logit": 2.7836191654205322
+        }, 
+        {
+            "text": "monoclonal gammopathy, perinephric fluid collections, and intrapulmonary shunting)", 
+            "probability": 0.0019090616142751957, 
+            "start_logit": 3.6263272762298584, 
+            "end_logit": 0.905311644077301
+        }, 
+        {
+            "text": "telangiectasias, erythrocytosis with elevated erythropoietin", 
+            "probability": 0.0012028182669453688, 
+            "start_logit": 3.79201602935791, 
+            "end_logit": 0.2776784300804138
+        }, 
+        {
+            "text": "te", 
+            "probability": 0.0011968136986603673, 
+            "start_logit": 7.375252723693848, 
+            "end_logit": -3.3105628490448
+        }, 
+        {
+            "text": "telangiectasias", 
+            "probability": 0.0011686676140888084, 
+            "start_logit": 7.375252723693848, 
+            "end_logit": -3.3343613147735596
+        }, 
+        {
+            "text": "(telangiectasias,", 
+            "probability": 0.0009702693393748967, 
+            "start_logit": 4.841785430908203, 
+            "end_logit": -0.9869399070739746
+        }, 
+        {
+            "text": "perinephric fluid collections, and intrapulmonary shunting", 
+            "probability": 0.000947107950587998, 
+            "start_logit": -1.773528814315796, 
+            "end_logit": 5.604213714599609
+        }, 
+        {
+            "text": "elevated erythropoietin level and erythrocytosis", 
+            "probability": 0.0009173456172270131, 
+            "start_logit": 2.109131097793579, 
+            "end_logit": 1.6896250247955322
+        }, 
+        {
+            "text": "elevated erythropoietin and normal vascular endothelial growth factor level", 
+            "probability": 0.0008805116224269592, 
+            "start_logit": 1.606164574623108, 
+            "end_logit": 2.1516103744506836
+        }, 
+        {
+            "text": "intrapulmonary shunting", 
+            "probability": 0.0005614157477253309, 
+            "start_logit": -2.296480178833008, 
+            "end_logit": 5.604213714599609
+        }, 
+        {
+            "text": "telangiectasias, elevated", 
+            "probability": 0.0004359423859653433, 
+            "start_logit": 7.375252723693848, 
+            "end_logit": -4.320470809936523
+        }, 
+        {
+            "text": "telangiectasias, erythrocytosis with elevated erythropoietin,", 
+            "probability": 0.00036622245619300083, 
+            "start_logit": 3.79201602935791, 
+            "end_logit": -0.911503255367279
+        }, 
+        {
+            "text": "monoclonal gammopathy,", 
+            "probability": 0.00023832642085774446, 
+            "start_logit": 3.6263272762298584, 
+            "end_logit": -1.1754142045974731
+        }, 
+        {
+            "text": ", monoclonal gammopathy, perinephric fluid collections, and intrapulmonary shunting", 
+            "probability": 0.00019167585779093926, 
+            "start_logit": -3.37113618850708, 
+            "end_logit": 5.604213714599609
+        }
+    ], 
+    "5c7ab080d774d0424000000b": [
+        {
+            "text": "dimethylxanthenone-4-acetic acid (DMXAA)", 
+            "probability": 0.41729712199245683, 
+            "start_logit": 2.6164376735687256, 
+            "end_logit": 1.6338133811950684
+        }, 
+        {
+            "text": "dimethylxanthenone-4-acetic acid (DMXAA", 
+            "probability": 0.24345130682155874, 
+            "start_logit": 2.6164376735687256, 
+            "end_logit": 1.0949318408966064
+        }, 
+        {
+            "text": "dimethylxanthenone-4-acetic acid", 
+            "probability": 0.2347014904864192, 
+            "start_logit": 2.6164376735687256, 
+            "end_logit": 1.0583293437957764
+        }, 
+        {
+            "text": "dimethylxanthenone-4-acetic acid (DMXAA).", 
+            "probability": 0.060041903515215385, 
+            "start_logit": 2.6164376735687256, 
+            "end_logit": -0.30494239926338196
+        }, 
+        {
+            "text": "DMXAA)", 
+            "probability": 0.02423151811353043, 
+            "start_logit": -0.22970663011074066, 
+            "end_logit": 1.6338133811950684
+        }, 
+        {
+            "text": "DMXAA", 
+            "probability": 0.014136677298042546, 
+            "start_logit": -0.22970663011074066, 
+            "end_logit": 1.0949318408966064
+        }, 
+        {
+            "text": "DMXAA).", 
+            "probability": 0.0034865001360495536, 
+            "start_logit": -0.22970663011074066, 
+            "end_logit": -0.30494239926338196
+        }, 
+        {
+            "text": "(DMXAA)", 
+            "probability": 0.0007432253413225193, 
+            "start_logit": -3.7141168117523193, 
+            "end_logit": 1.6338133811950684
+        }, 
+        {
+            "text": "(DMXAA", 
+            "probability": 0.0004335979595160905, 
+            "start_logit": -3.7141168117523193, 
+            "end_logit": 1.0949318408966064
+        }, 
+        {
+            "text": "dimethylxanthenone-4-acetic acid (", 
+            "probability": 0.0003073278174966531, 
+            "start_logit": 2.6164376735687256, 
+            "end_logit": -5.579825401306152
+        }, 
+        {
+            "text": "a STING agonist, dimethylxanthenone-4-acetic acid (DMXAA)", 
+            "probability": 0.00021223043248655402, 
+            "start_logit": -4.967443466186523, 
+            "end_logit": 1.6338133811950684
+        }, 
+        {
+            "text": "dim", 
+            "probability": 0.00017337761802764333, 
+            "start_logit": 2.6164376735687256, 
+            "end_logit": -6.152268409729004
+        }, 
+        {
+            "text": "dimethylxanthenone-4-acetic acid (D", 
+            "probability": 0.00014271674476505354, 
+            "start_logit": 2.6164376735687256, 
+            "end_logit": -6.346878528594971
+        }, 
+        {
+            "text": "a STING agonist, dimethylxanthenone-4-acetic acid (DMXAA", 
+            "probability": 0.00012381531866181942, 
+            "start_logit": -4.967443466186523, 
+            "end_logit": 1.0949318408966064
+        }, 
+        {
+            "text": "a STING agonist, dimethylxanthenone-4-acetic acid", 
+            "probability": 0.00011936530641127207, 
+            "start_logit": -4.967443466186523, 
+            "end_logit": 1.0583293437957764
+        }, 
+        {
+            "text": "(DMXAA).", 
+            "probability": 0.00010693738797114533, 
+            "start_logit": -3.7141168117523193, 
+            "end_logit": -0.30494239926338196
+        }, 
+        {
+            "text": "STING agonist, dimethylxanthenone-4-acetic acid (DMXAA)", 
+            "probability": 9.908638317868836e-05, 
+            "start_logit": -5.729124069213867, 
+            "end_logit": 1.6338133811950684
+        }, 
+        {
+            "text": "dimethylxanthenone-4-acetic acid (DMX", 
+            "probability": 6.84237907897689e-05, 
+            "start_logit": 2.6164376735687256, 
+            "end_logit": -7.082019805908203
+        }, 
+        {
+            "text": "agonist, dimethylxanthenone-4-acetic acid (DMXAA)", 
+            "probability": 6.557050077263142e-05, 
+            "start_logit": -6.1419901847839355, 
+            "end_logit": 1.6338133811950684
+        }, 
+        {
+            "text": "STING agonist, dimethylxanthenone-4-acetic acid (DMXAA", 
+            "probability": 5.7807035327479315e-05, 
+            "start_logit": -5.729124069213867, 
+            "end_logit": 1.0949318408966064
+        }
+    ], 
+    "5c57041807647bbc4b000015": [
+        {
+            "text": "inflammatory", 
+            "probability": 0.318368348255526, 
+            "start_logit": -0.8239741921424866, 
+            "end_logit": -1.1891165971755981
+        }, 
+		 {
+            "text": "metabolic", 
+            "probability": 0.1838997020861358, 
+            "start_logit": -0.8917731046676636, 
+            "end_logit": -1.6701362133026123
+        }, 
+        {
+            "text": "inflammation", 
+            "probability": 0.1838997020861358, 
+            "start_logit": -0.8917731046676636, 
+            "end_logit": -1.6701362133026123
+        }, 
+		{
+            "text": "metabolism", 
+            "probability": 0.1838997020861358, 
+            "start_logit": -0.8917731046676636, 
+            "end_logit": -1.6701362133026123
+        }, 
+        {
+            "text": "inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic cues", 
+            "probability": 0.12519707728465412, 
+            "start_logit": -0.8239741921424866, 
+            "end_logit": -2.1224365234375
+        }, 
+        {
+            "text": "integration of inflammatory and metabolic", 
+            "probability": 0.07701295326894049, 
+            "start_logit": -2.2432096004486084, 
+            "end_logit": -1.1891165971755981
+        }, 
+        {
+            "text": "inflammatory and metabolic signals", 
+            "probability": 0.0695122706869312, 
+            "start_logit": -0.8239741921424866, 
+            "end_logit": -2.710822343826294
+        }, 
+        {
+            "text": "inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic", 
+            "probability": 0.05605807591665715, 
+            "start_logit": -0.8239741921424866, 
+            "end_logit": -2.9259374141693115
+        }, 
+        {
+            "text": "nutritional and metabolic cues", 
+            "probability": 0.03803675840780024, 
+            "start_logit": -2.015310287475586, 
+            "end_logit": -2.1224365234375
+        }, 
+        {
+            "text": "integration of inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic cues", 
+            "probability": 0.030285035290607425, 
+            "start_logit": -2.2432096004486084, 
+            "end_logit": -2.1224365234375
+        }, 
+        {
+            "text": "inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic cues.", 
+            "probability": 0.022539363704587752, 
+            "start_logit": -0.8239741921424866, 
+            "end_logit": -3.837062358856201
+        }, 
+        {
+            "text": "nutritional and metabolic", 
+            "probability": 0.017031288083506825, 
+            "start_logit": -2.015310287475586, 
+            "end_logit": -2.9259374141693115
+        }, 
+        {
+            "text": "integration of inflammatory and metabolic signals", 
+            "probability": 0.01681494182246383, 
+            "start_logit": -2.2432096004486084, 
+            "end_logit": -2.710822343826294
+        }, 
+        {
+            "text": "integration of inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic", 
+            "probability": 0.013560386905834004, 
+            "start_logit": -2.2432096004486084, 
+            "end_logit": -2.9259374141693115
+        }, 
+        {
+            "text": "nutritional and metabolic cues.", 
+            "probability": 0.0068477982912308055, 
+            "start_logit": -2.015310287475586, 
+            "end_logit": -3.837062358856201
+        }, 
+        {
+            "text": "integration of inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic cues.", 
+            "probability": 0.0054522472890423095, 
+            "start_logit": -2.2432096004486084, 
+            "end_logit": -3.837062358856201
+        }, 
+        {
+            "text": "inflammation", 
+            "probability": 0.004543887728186554, 
+            "start_logit": -0.8917731046676636, 
+            "end_logit": -5.370743751525879
+        }, 
+        {
+            "text": "metabolic", 
+            "probability": 0.0036483100978431326, 
+            "start_logit": -5.292919158935547, 
+            "end_logit": -1.1891165971755981
+        }, 
+        {
+            "text": "inflammation and metabolism in adipocytes. Lack of STAMP2 in adipocytes results in aberrant inflammatory responses", 
+            "probability": 0.0036188443783046332, 
+            "start_logit": -0.8917731046676636, 
+            "end_logit": -5.598371982574463
+        }, 
+        {
+            "text": "metabolism", 
+            "probability": 0.0030600819488807852, 
+            "start_logit": -4.987721920013428, 
+            "end_logit": -1.6701362133026123
+        }, 
+        {
+            "text": "the integration of inflammatory and metabolic", 
+            "probability": 0.0024768153347203073, 
+            "start_logit": -5.680209636688232, 
+            "end_logit": -1.1891165971755981
+        }, 
+        {
+            "text": "inflammatory", 
+            "probability": 0.002035813218146971, 
+            "start_logit": -0.8239741921424866, 
+            "end_logit": -6.241430282592773
+        }
+    ], 
+    "5c5205137e3cb0e231000001": [
+        {
+            "text": "deep genetic", 
+            "probability": 0.32696062652189284, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": 1.3648476600646973
+        }, 
+		 {
+            "text": "phenotypic", 
+            "probability": 0.32696062652189284, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": 1.3648476600646973
+        }, 
+        {
+            "text": "phenotypic data", 
+            "probability": 0.2411304570856103, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": 1.060346007347107
+        }, 
+		{
+            "text": "deep genetic and phenotypic data", 
+            "probability": 0.2411304570856103, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": 1.060346007347107
+        }, 
+        {
+            "text": "genetic and phenotypic", 
+            "probability": 0.2094508006604731, 
+            "start_logit": 1.6776232719421387, 
+            "end_logit": 1.3648476600646973
+        }, 
+        {
+            "text": "genetic and phenotypic data", 
+            "probability": 0.1544680405021954, 
+            "start_logit": 1.6776232719421387, 
+            "end_logit": 1.060346007347107
+        }, 
+        {
+            "text": "phenotypic", 
+            "probability": 0.016140513919926408, 
+            "start_logit": -0.8855330944061279, 
+            "end_logit": 1.3648476600646973
+        }, 
+        {
+            "text": "deep genetic", 
+            "probability": 0.01606045510370805, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": -1.6486320495605469
+        }, 
+        {
+            "text": "phenotypic data", 
+            "probability": 0.011903480674447232, 
+            "start_logit": -0.8855330944061279, 
+            "end_logit": 1.060346007347107
+        }, 
+        {
+            "text": "genetic", 
+            "probability": 0.010288318860368934, 
+            "start_logit": 1.6776232719421387, 
+            "end_logit": -1.6486320495605469
+        }, 
+        {
+            "text": "phenotypic and health-related information", 
+            "probability": 0.0043230905071996815, 
+            "start_logit": 0.056450892239809036, 
+            "end_logit": -0.8944982886314392
+        }, 
+        {
+            "text": "deep genetic and phenotypic data collected on approximately 500,000 individuals", 
+            "probability": 0.0016320823761668648, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": -3.9351353645324707
+        }, 
+        {
+            "text": "deep genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom", 
+            "probability": 0.0011895186259960745, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": -4.251443386077881
+        }, 
+        {
+            "text": "deep", 
+            "probability": 0.001054479405952018, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": -4.371944904327393
+        }, 
+        {
+            "text": "genetic and phenotypic data collected on approximately 500,000 individuals", 
+            "probability": 0.0010455110881955327, 
+            "start_logit": 1.6776232719421387, 
+            "end_logit": -3.9351353645324707
+        }, 
+        {
+            "text": "data", 
+            "probability": 0.0009746930011544459, 
+            "start_logit": -3.3879966735839844, 
+            "end_logit": 1.060346007347107
+        }, 
+        {
+            "text": "genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom", 
+            "probability": 0.0007620049889974786, 
+            "start_logit": 1.6776232719421387, 
+            "end_logit": -4.251443386077881
+        }, 
+        {
+            "text": "deep genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom, aged between 40 and 69 at recruitment.", 
+            "probability": 0.0005932394416237642, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": -4.947149276733398
+        }, 
+        {
+            "text": "phenotypic and health-related information is available on each participant", 
+            "probability": 0.0005790199366488092, 
+            "start_logit": 0.056450892239809036, 
+            "end_logit": -2.9048871994018555
+        }, 
+        {
+            "text": "deep genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom, aged between 40 and 69", 
+            "probability": 0.0005550553674715321, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": -5.013679504394531
+        }, 
+        {
+            "text": "rich variety of phenotypic and health-related information", 
+            "probability": 0.00045929119598249127, 
+            "start_logit": -2.1855905055999756, 
+            "end_logit": -0.8944982886314392
+        }, 
+        {
+            "text": "deep genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom, aged between 40 and 69 at recruitment", 
+            "probability": 0.0004293207359890948, 
+            "start_logit": 2.122974157333374, 
+            "end_logit": -5.270543098449707
+        }
+    ], 
+    "5c5214207e3cb0e231000003": [
+        {
+            "text": "gene-specific bias", 
+            "probability": 0.2968549942736981, 
+            "start_logit": 4.945413112640381, 
+            "end_logit": 6.890191078186035
+        }, 
+        {
+            "text": "By explicitly identifying the reasons for gene-specific bias", 
+            "probability": 0.22658200935939912, 
+            "start_logit": 4.675276279449463, 
+            "end_logit": 6.890191078186035
+        }, 
+        {
+            "text": "explicitly identifying the reasons for gene-specific bias", 
+            "probability": 0.19870878434896527, 
+            "start_logit": 4.544009685516357, 
+            "end_logit": 6.890191078186035
+        }, 
+        {
+            "text": "reasons for gene-specific bias", 
+            "probability": 0.06916538664210256, 
+            "start_logit": 3.4886698722839355, 
+            "end_logit": 6.890191078186035
+        }, 
+        {
+            "text": "gene-specific bias", 
+            "probability": 0.06080157858014345, 
+            "start_logit": 4.945413112640381, 
+            "end_logit": 5.304563045501709
+        }, 
+	 {
+            "text": "performing a meta-analysis of existing computational", 
+            "probability": 0.06080157858014345, 
+            "start_logit": 4.945413112640381, 
+            "end_logit": 5.304563045501709
+        },
+        {
+            "text": "experimental knowledge bases", 
+            "probability": 0.04640832767735224, 
+            "start_logit": 4.675276279449463, 
+            "end_logit": 5.304563045501709
+        }, 
+        {
+            "text": "explicitly identifying the reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases", 
+            "probability": 0.0406993582699136, 
+            "start_logit": 4.544009685516357, 
+            "end_logit": 5.304563045501709
+        }, 
+        {
+            "text": "identifying the reasons for gene-specific bias", 
+            "probability": 0.01666958499328008, 
+            "start_logit": 2.0657551288604736, 
+            "end_logit": 6.890191078186035
+        }, 
+        {
+            "text": "reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases", 
+            "probability": 0.014166393599794007, 
+            "start_logit": 3.4886698722839355, 
+            "end_logit": 5.304563045501709
+        }, 
+        {
+            "text": "gene-specific strategies for the identification of important but hitherto ignored genes that can open novel directions for future investigation.", 
+            "probability": 0.0044314333296929026, 
+            "start_logit": 3.0254435539245605, 
+            "end_logit": 4.605639934539795
+        }, 
+        {
+            "text": "gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases,", 
+            "probability": 0.004171562426983462, 
+            "start_logit": 4.945413112640381, 
+            "end_logit": 2.6252379417419434
+        }, 
+        {
+            "text": "the reasons for gene-specific bias", 
+            "probability": 0.003890814817204179, 
+            "start_logit": 0.6107879281044006, 
+            "end_logit": 6.890191078186035
+        }, 
+        {
+            "text": "identifying the reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases", 
+            "probability": 0.0034142497226535636, 
+            "start_logit": 2.0657551288604736, 
+            "end_logit": 5.304563045501709
+        }, 
+        {
+            "text": "By explicitly identifying the reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases,", 
+            "probability": 0.0031840495026424116, 
+            "start_logit": 4.675276279449463, 
+            "end_logit": 2.6252379417419434
+        }, 
+        {
+            "text": "we describe gene-specific strategies for the identification of important but hitherto ignored genes that can open novel directions for future investigation.", 
+            "probability": 0.002954511418799239, 
+            "start_logit": 2.620053768157959, 
+            "end_logit": 4.605639934539795
+        }, 
+        {
+            "text": "explicitly identifying the reasons for gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases,", 
+            "probability": 0.0027923602927072176, 
+            "start_logit": 4.544009685516357, 
+            "end_logit": 2.6252379417419434
+        }, 
+        {
+            "text": "gene-specific strategies for the identification of important but hitherto ignored genes", 
+            "probability": 0.0013742411036688237, 
+            "start_logit": 3.0254435539245605, 
+            "end_logit": 3.4348185062408447
+        }, 
+        {
+            "text": "gene-specific strategies for the identification of important but hitherto ignored genes that can open novel directions for future investigation", 
+            "probability": 0.00133621594126405, 
+            "start_logit": 3.0254435539245605, 
+            "end_logit": 3.4067585468292236
+        }, 
+        {
+            "text": "gene-specific bias and performing a meta-analysis of existing computational and experimental knowledge bases, we describe gene-specific strategies", 
+            "probability": 0.0012017458188492553, 
+            "start_logit": 4.945413112640381, 
+            "end_logit": 1.3807226419448853
+        }, 
+        {
+            "text": "performing a meta-analysis of existing computational and experimental knowledge bases", 
+            "probability": 0.001192397880886574, 
+            "start_logit": 1.013763666152954, 
+            "end_logit": 5.304563045501709
+        }
+    ], 
+    "5c6dfdf27c78d69471000047": [
+        {
+            "text": "combined checkpoint inhibitors", 
+            "probability": 0.9387331368324471, 
+            "start_logit": 1.6459882259368896, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "combined checkpoint inhibitors compared to sunitinib", 
+            "probability": 0.027173951542070012, 
+            "start_logit": 1.6459882259368896, 
+            "end_logit": 0.21504515409469604
+        }, 
+        {
+            "text": "checkpoint inhibitors", 
+            "probability": 0.009809065580486998, 
+            "start_logit": -2.915235996246338, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "superior overall survival and objective response with combined checkpoint inhibitors", 
+            "probability": 0.008215908762005921, 
+            "start_logit": -3.092470645904541, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "inhibitors", 
+            "probability": 0.004855558259257048, 
+            "start_logit": -3.6184189319610596, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "combined", 
+            "probability": 0.002512958661923353, 
+            "start_logit": 1.6459882259368896, 
+            "end_logit": -2.16575288772583
+        }, 
+        {
+            "text": "sunitinib", 
+            "probability": 0.0024874245324451355, 
+            "start_logit": -0.7450227737426758, 
+            "end_logit": 0.21504515409469604
+        }, 
+        {
+            "text": "demonstrated superior overall survival and objective response with combined checkpoint inhibitors", 
+            "probability": 0.0019702005445956764, 
+            "start_logit": -4.520407676696777, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "objective response with combined checkpoint inhibitors", 
+            "probability": 0.0009659854423146788, 
+            "start_logit": -5.233149528503418, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "s", 
+            "probability": 0.0006420093022780071, 
+            "start_logit": -5.641695499420166, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "combined checkpoint inhibitors compared to sunitinib in Treatment-Na\u00efve Advanced RCC among intermediate- and poor-risk group", 
+            "probability": 0.0006047225412543647, 
+            "start_logit": 1.6459882259368896, 
+            "end_logit": -3.5901992321014404
+        }, 
+        {
+            "text": "with combined checkpoint inhibitors", 
+            "probability": 0.00043344784067405055, 
+            "start_logit": -6.034526824951172, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "phase III trial, demonstrated superior overall survival and objective response with combined checkpoint inhibitors", 
+            "probability": 0.0003477970393933184, 
+            "start_logit": -6.254679203033447, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "CheckMate 214, a phase III trial, demonstrated superior overall survival and objective response with combined checkpoint inhibitors", 
+            "probability": 0.00034004924356070495, 
+            "start_logit": -6.277207851409912, 
+            "end_logit": 3.757317543029785
+        }, 
+        {
+            "text": "checkpoint inhibitors compared to sunitinib", 
+            "probability": 0.00028394765487512217, 
+            "start_logit": -2.915235996246338, 
+            "end_logit": 0.21504515409469604
+        }, 
+        {
+            "text": "superior overall survival and objective response with combined checkpoint inhibitors compared to sunitinib", 
+            "probability": 0.00023782979188969054, 
+            "start_logit": -3.092470645904541, 
+            "end_logit": 0.21504515409469604
+        }, 
+        {
+            "text": "inhibitors compared to sunitinib", 
+            "probability": 0.00014055613855495488, 
+            "start_logit": -3.6184189319610596, 
+            "end_logit": 0.21504515409469604
+        }, 
+        {
+            "text": "combined immunotherapy with nivolumab plus ipilimumab", 
+            "probability": 0.00012107645532029047, 
+            "start_logit": -2.2053539752960205, 
+            "end_logit": -1.347204566001892
+        }, 
+        {
+            "text": "combined checkpoint inhibitors compared to sunitinib in Treatment-Na\u00efve Advanced RCC", 
+            "probability": 6.608488073965204e-05, 
+            "start_logit": 1.6459882259368896, 
+            "end_logit": -5.8040289878845215
+        }, 
+        {
+            "text": "combined checkpoint inhibitors compared to sunitinib in Treatment-Na\u00efve Advanced RCC among intermediate- and poor-risk", 
+            "probability": 5.8288953913900576e-05, 
+            "start_logit": 1.6459882259368896, 
+            "end_logit": -5.929556369781494
+        }
+    ], 
+    "5c6e01af7c78d69471000048": [
+        {
+            "text": "prophylaxis of cytomegalovirus infection", 
+            "probability": 0.2770083175801823, 
+            "start_logit": 0.27807721495628357, 
+            "end_logit": -0.27145469188690186
+        }, 
+		 {
+            "text": "disease after stem cell transplant", 
+            "probability": 0.2770083175801823, 
+            "start_logit": 0.27807721495628357, 
+            "end_logit": -0.27145469188690186
+        }, 
+        {
+            "text": "human cytomegalovirus infection treatment", 
+            "probability": 0.164576191347135, 
+            "start_logit": -1.4616879224777222, 
+            "end_logit": 0.9476365447044373
+        }, 
+	 {
+            "text": "prophylaxis", 
+            "probability": 0.164576191347135, 
+            "start_logit": -1.4616879224777222, 
+            "end_logit": 0.9476365447044373
+        }, 
+		
+        {
+            "text": "prophylaxis of cytomegalovirus infection and disease", 
+            "probability": 0.14281366153333508, 
+            "start_logit": 0.27807721495628357, 
+            "end_logit": -0.9339615106582642
+        }, 
+        {
+            "text": "prophylaxis of cytomegalovirus infection and disease after stem cell transplant;", 
+            "probability": 0.13648322673691865, 
+            "start_logit": 0.27807721495628357, 
+            "end_logit": -0.9793004989624023
+        }, 
+        {
+            "text": "orally or intravenously", 
+            "probability": 0.0520385245822788, 
+            "start_logit": -0.31480851769447327, 
+            "end_logit": -1.3506321907043457
+        }, 
+        {
+            "text": "cytomegalovirus infection treatment and prophylaxis", 
+            "probability": 0.034434694986229045, 
+            "start_logit": -3.0259969234466553, 
+            "end_logit": 0.9476365447044373
+        }, 
+        {
+            "text": "cytomegalovirus infection and disease after stem cell transplant", 
+            "probability": 0.0319713090216647, 
+            "start_logit": -1.8811314105987549, 
+            "end_logit": -0.27145469188690186
+        }, 
+        {
+            "text": "orally or intravenously administered", 
+            "probability": 0.024766710857477555, 
+            "start_logit": -0.31480851769447327, 
+            "end_logit": -2.093116044998169
+        }, 
+        {
+            "text": "treatment and prophylaxis", 
+            "probability": 0.023682412407624517, 
+            "start_logit": -3.4003288745880127, 
+            "end_logit": 0.9476365447044373
+        }, 
+        {
+            "text": "for prophylaxis of cytomegalovirus infection and disease after stem cell transplant", 
+            "probability": 0.019437163030033976, 
+            "start_logit": -2.3787834644317627, 
+            "end_logit": -0.27145469188690186
+        }, 
+        {
+            "text": "human cytomegalovirus infection treatment and prophylaxis.", 
+            "probability": 0.016568359207975076, 
+            "start_logit": -1.4616879224777222, 
+            "end_logit": -1.3482422828674316
+        }, 
+        {
+            "text": "cytomegalovirus infection and disease", 
+            "probability": 0.016483041900270872, 
+            "start_logit": -1.8811314105987549, 
+            "end_logit": -0.9339615106582642
+        }, 
+        {
+            "text": "cytomegalovirus infection and disease after stem cell transplant;", 
+            "probability": 0.01575240576311176, 
+            "start_logit": -1.8811314105987549, 
+            "end_logit": -0.9793004989624023
+        }, 
+        {
+            "text": "for prophylaxis of cytomegalovirus infection and disease", 
+            "probability": 0.010020971378724113, 
+            "start_logit": -2.3787834644317627, 
+            "end_logit": -0.9339615106582642
+        }, 
+        {
+            "text": "for prophylaxis of cytomegalovirus infection and disease after stem cell transplant;", 
+            "probability": 0.009576776438067394, 
+            "start_logit": -2.3787834644317627, 
+            "end_logit": -0.9793004989624023
+        }, 
+        {
+            "text": "prophylaxis", 
+            "probability": 0.007447423890351615, 
+            "start_logit": 0.27807721495628357, 
+            "end_logit": -3.887634038925171
+        }, 
+        {
+            "text": "prophylaxis of cytomegalovirus infection and disease after stem cell transplant; benralizumab", 
+            "probability": 0.0061062186930402294, 
+            "start_logit": 0.27807721495628357, 
+            "end_logit": -4.0861945152282715
+        }, 
+        {
+            "text": "for human cytomegalovirus infection treatment and prophylaxis", 
+            "probability": 0.00376060803184854, 
+            "start_logit": -5.240480899810791, 
+            "end_logit": 0.9476365447044373
+        }, 
+        {
+            "text": "letermovir (Prevymis) for prophylaxis of cytomegalovirus infection and disease after stem cell transplant", 
+            "probability": 0.0035754018656598864, 
+            "start_logit": -4.071892738342285, 
+            "end_logit": -0.27145469188690186
+        }, 
+        {
+            "text": "cytomegalovirus infection and disease after stem cell transplant; benralizumab (Fasenra)", 
+            "probability": 0.003496580748071025, 
+            "start_logit": -1.8811314105987549, 
+            "end_logit": -2.4845080375671387
+        }
+    ], 
+    "5c54224807647bbc4b000001": [
+        {
+            "text": "acts at the midbody", 
+            "probability": 0.3634399194210423, 
+            "start_logit": 0.21421296894550323, 
+            "end_logit": 2.466644763946533
+        }, 
+	 {
+            "text": "the structure where abscission occurs at the end of cytokinesis", 
+            "probability": 0.3634399194210423, 
+            "start_logit": 0.21421296894550323, 
+            "end_logit": 2.466644763946533
+        }, 
+        {
+            "text": "genetically interacts with slx-1 and mus-81 mutants", 
+            "probability": 0.19362915079199947, 
+            "start_logit": 1.8768243789672852, 
+            "end_logit": 0.1743640899658203
+        }, 
+		 {
+            "text": "mus-81 mutants", 
+            "probability": 0.19362915079199947, 
+            "start_logit": 1.8768243789672852, 
+            "end_logit": 0.1743640899658203
+        }, 
+        {
+            "text": "depends on factors needed for midbody assembly", 
+            "probability": 0.10053862090585586, 
+            "start_logit": 0.16707228124141693, 
+            "end_logit": 1.2287133932113647
+        }, 
+        {
+            "text": "LEM-3 localization depends on factors needed for midbody assembly", 
+            "probability": 0.07555146073055101, 
+            "start_logit": -0.11865563690662384, 
+            "end_logit": 1.2287133932113647
+        }, 
+        {
+            "text": "LEM-3 acts at the midbody, the structure where abscission occurs at the end of cytokinesis", 
+            "probability": 0.05678835086023793, 
+            "start_logit": -1.6420698165893555, 
+            "end_logit": 2.466644763946533
+        }, 
+        {
+            "text": "localization depends on factors needed for midbody assembly", 
+            "probability": 0.029446145286319145, 
+            "start_logit": -1.0609066486358643, 
+            "end_logit": 1.2287133932113647
+        }, 
+        {
+            "text": "factors needed for midbody assembly", 
+            "probability": 0.0264012230504501, 
+            "start_logit": -1.170059323310852, 
+            "end_logit": 1.2287133932113647
+        }, 
+        {
+            "text": "acts at the midbody", 
+            "probability": 0.024160982530981832, 
+            "start_logit": 0.21421296894550323, 
+            "end_logit": -0.24423019587993622
+        }, 
+        {
+            "text": "genetically interacts with slx-1 and mus-81", 
+            "probability": 0.020114602124131048, 
+            "start_logit": 1.8768243789672852, 
+            "end_logit": -2.090134620666504
+        }, 
+        {
+            "text": "Proper LEM-3 midbody localization and function is regulated by AIR-2/Aurora B kinase", 
+            "probability": 0.01666815497114255, 
+            "start_logit": -0.33639147877693176, 
+            "end_logit": -0.06486477702856064
+        }, 
+        {
+            "text": "process erroneous recombination intermediates that persist into the second meiotic division", 
+            "probability": 0.014681794713111105, 
+            "start_logit": -0.8996554613113403, 
+            "end_logit": 0.371507465839386
+        }, 
+        {
+            "text": "acts at the midbody, the structure where abscission occurs at the end of cytokinesis.", 
+            "probability": 0.012200075083952593, 
+            "start_logit": 0.21421296894550323, 
+            "end_logit": -0.927527129650116
+        }, 
+        {
+            "text": "factors needed for midbody assembly, and LEM-3 accumulation is increased and prolonged when chromatin bridges are trapped at the cleavage plane", 
+            "probability": 0.010876856304927367, 
+            "start_logit": -1.170059323310852, 
+            "end_logit": 0.341940313577652
+        }, 
+        {
+            "text": "regulated by AIR-2/Aurora B kinase", 
+            "probability": 0.010761010564362863, 
+            "start_logit": -0.7739620208740234, 
+            "end_logit": -0.06486477702856064
+        }, 
+        {
+            "text": "depends on factors needed for midbody assembly, and LEM-3 accumulation is increased and prolonged", 
+            "probability": 0.010108285634893618, 
+            "start_logit": 0.16707228124141693, 
+            "end_logit": -1.0684731006622314
+        }, 
+        {
+            "text": "process erroneous recombination intermediates that persist into the second meiotic division.", 
+            "probability": 0.008913249244328474, 
+            "start_logit": -0.8996554613113403, 
+            "end_logit": -0.12756195664405823
+        }, 
+        {
+            "text": "LEM-3 localization depends on factors needed for midbody assembly, and LEM-3 accumulation is increased and prolonged", 
+            "probability": 0.007596043573275001, 
+            "start_logit": -0.11865563690662384, 
+            "end_logit": -1.0684731006622314
+        }, 
+        {
+            "text": "accumulation is increased and prolonged when chromatin bridges are trapped at the cleavage plane", 
+            "probability": 0.00648844910486854, 
+            "start_logit": -1.6866730451583862, 
+            "end_logit": 0.341940313577652
+        }, 
+        {
+            "text": "interacts with slx-1 and mus-81 mutants", 
+            "probability": 0.006297333516687963, 
+            "start_logit": -1.5489940643310547, 
+            "end_logit": 0.1743640899658203
+        }, 
+        {
+            "text": "human breast cancer", 
+            "probability": 0.0053382915868810865, 
+            "start_logit": -3.5084035396575928, 
+            "end_logit": 1.9685529470443726
+        }
+    ], 
+    "5c544c1707647bbc4b000003": [
+        {
+            "text": "UPDtool", 
+            "probability": 0.9306036964394386, 
+            "start_logit": 2.465799331665039, 
+            "end_logit": 2.282740592956543
+        }, 
+        {
+            "text": "trio SNP-microarray experiments", 
+            "probability": 0.029453811953017772, 
+            "start_logit": -0.4478815495967865, 
+            "end_logit": 1.7434113025665283
+        }, 
+        {
+            "text": "UPDtool is a computational tool", 
+            "probability": 0.007304106037520746, 
+            "start_logit": 2.465799331665039, 
+            "end_logit": -2.5646562576293945
+        }, 
+        {
+            "text": "trio SNP-microarray experiments.", 
+            "probability": 0.005411815553508741, 
+            "start_logit": -0.4478815495967865, 
+            "end_logit": 0.04917259141802788
+        }, 
+        {
+            "text": "SNP-microarray experiments", 
+            "probability": 0.004306643312714008, 
+            "start_logit": -2.3705461025238037, 
+            "end_logit": 1.7434113025665283
+        }, 
+        {
+            "text": "UPDtool is a computational tool for detection and classification", 
+            "probability": 0.0039314516785563264, 
+            "start_logit": 2.465799331665039, 
+            "end_logit": -3.184084177017212
+        }, 
+        {
+            "text": "UPDtool is a computational tool for detection and classification of uniparental disomy (UPD) in trio", 
+            "probability": 0.0037524532656107246, 
+            "start_logit": 2.465799331665039, 
+            "end_logit": -3.2306830883026123
+        }, 
+        {
+            "text": "in trio SNP-microarray experiments", 
+            "probability": 0.003487993588686748, 
+            "start_logit": -2.581378221511841, 
+            "end_logit": 1.7434113025665283
+        }, 
+        {
+            "text": "detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments", 
+            "probability": 0.0027225851977613663, 
+            "start_logit": -2.829123020172119, 
+            "end_logit": 1.7434113025665283
+        }, 
+        {
+            "text": "computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments", 
+            "probability": 0.0024161512567905646, 
+            "start_logit": -2.948529005050659, 
+            "end_logit": 1.7434113025665283
+        }, 
+        {
+            "text": "UPDtool is a computational tool for detection and classification of uniparental disomy", 
+            "probability": 0.0009986795188446787, 
+            "start_logit": 2.465799331665039, 
+            "end_logit": -4.55441427230835
+        }, 
+        {
+            "text": "a computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments", 
+            "probability": 0.0009829550129921507, 
+            "start_logit": -3.8478968143463135, 
+            "end_logit": 1.7434113025665283
+        }, 
+        {
+            "text": "SNP-microarray experiments.", 
+            "probability": 0.0007912985694461907, 
+            "start_logit": -2.3705461025238037, 
+            "end_logit": 0.04917259141802788
+        }, 
+        {
+            "text": "UPDtool is a computational tool for detection and classification of uniparental disomy (UPD) in trio SNP", 
+            "probability": 0.0007845864058108951, 
+            "start_logit": 2.465799331665039, 
+            "end_logit": -4.79569149017334
+        }, 
+        {
+            "text": "in trio SNP-microarray experiments.", 
+            "probability": 0.0006408806433579366, 
+            "start_logit": -2.581378221511841, 
+            "end_logit": 0.04917259141802788
+        }, 
+        {
+            "text": "classification of uniparental disomy (UPD) in trio SNP-microarray experiments", 
+            "probability": 0.0005659497948529682, 
+            "start_logit": -4.399954795837402, 
+            "end_logit": 1.7434113025665283
+        }, 
+        {
+            "text": "is a computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments", 
+            "probability": 0.0005342494756483681, 
+            "start_logit": -4.457597255706787, 
+            "end_logit": 1.7434113025665283
+        }, 
+        {
+            "text": "detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments.", 
+            "probability": 0.0005002452294630069, 
+            "start_logit": -2.829123020172119, 
+            "end_logit": 0.04917259141802788
+        }, 
+        {
+            "text": "computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments.", 
+            "probability": 0.00044394134694640617, 
+            "start_logit": -2.948529005050659, 
+            "end_logit": 0.04917259141802788
+        }, 
+        {
+            "text": "trio SNP-microarray", 
+            "probability": 0.0003665057190316919, 
+            "start_logit": -0.4478815495967865, 
+            "end_logit": -2.643153190612793
+        }
+    ], 
+    "5c561da707647bbc4b00000f": [
+        {
+            "text": "The tmVar 2.0", 
+            "probability": 0.5948235349972544, 
+            "start_logit": -1.111812710762024, 
+            "end_logit": -1.6784685850143433
+        }, 
+        {
+            "text": "tmVar 2.0", 
+            "probability": 0.08367379985350298, 
+            "start_logit": -3.0731515884399414, 
+            "end_logit": -1.6784685850143433
+        }, 
+        {
+            "text": "The tmVar 2.0 source code", 
+            "probability": 0.08012780249731861, 
+            "start_logit": -1.111812710762024, 
+            "end_logit": -3.683110475540161
+        }, 
+        {
+            "text": "zhiyong.lu@nih.gov.", 
+            "probability": 0.03462032273651838, 
+            "start_logit": -4.308493614196777, 
+            "end_logit": -1.3256115913391113
+        }, 
+        {
+            "text": "The tmVar 2.0 source code and corpus", 
+            "probability": 0.03175020239843787, 
+            "start_logit": -1.111812710762024, 
+            "end_logit": -4.608834266662598
+        }, 
+		{
+            "text": "corpus", 
+            "probability": 0.03175020239843787, 
+            "start_logit": -1.111812710762024, 
+            "end_logit": -4.608834266662598
+        }, 
+        {
+            "text": "tmVar software and its corpus of 500 manually curated abstracts are available for download", 
+            "probability": 0.029437939160901715, 
+            "start_logit": -3.512974977493286, 
+            "end_logit": -2.2832868099212646
+        }, 
+        {
+            "text": "2.0", 
+            "probability": 0.028051974073932683, 
+            "start_logit": -4.166018486022949, 
+            "end_logit": -1.6784685850143433
+        }, 
+        {
+            "text": "The tmVar", 
+            "probability": 0.02259710272078536, 
+            "start_logit": -1.111812710762024, 
+            "end_logit": -4.948911666870117
+        }, 
+        {
+            "text": "zhiyong.lu@nih.gov", 
+            "probability": 0.017019131189662407, 
+            "start_logit": -4.308493614196777, 
+            "end_logit": -2.0357143878936768
+        }, 
+        {
+            "text": "tmVar 2.0 source code", 
+            "probability": 0.01127157436514781, 
+            "start_logit": -3.0731515884399414, 
+            "end_logit": -3.683110475540161
+        }, 
+        {
+            "text": "tmvar/.zhiyong.lu@nih.gov.", 
+            "probability": 0.011067736600836452, 
+            "start_logit": -5.44890022277832, 
+            "end_logit": -1.3256115913391113
+        }, 
+        {
+            "text": "source code", 
+            "probability": 0.009452854855800035, 
+            "start_logit": -3.2491188049316406, 
+            "end_logit": -3.683110475540161
+        }, 
+        {
+            "text": "available for download", 
+            "probability": 0.007022966699079905, 
+            "start_logit": -4.946073532104492, 
+            "end_logit": -2.2832868099212646
+        }, 
+        {
+            "text": "ClinVar", 
+            "probability": 0.006331623138229268, 
+            "start_logit": -4.867053508758545, 
+            "end_logit": -2.4659359455108643
+        }, 
+        {
+            "text": "Tools/tmvar/.zhiyong.lu@nih.gov.", 
+            "probability": 0.005856183678382462, 
+            "start_logit": -6.0854363441467285, 
+            "end_logit": -1.3256115913391113
+        }, 
+        {
+            "text": "software and its corpus of 500 manually curated abstracts are available for download", 
+            "probability": 0.005734014975466522, 
+            "start_logit": -5.148843288421631, 
+            "end_logit": -2.2832868099212646
+        }, 
+        {
+            "text": ".", 
+            "probability": 0.0057218893717057035, 
+            "start_logit": -6.108635425567627, 
+            "end_logit": -1.3256115913391113
+        }, 
+        {
+            "text": "500 manually curated abstracts are available for download", 
+            "probability": 0.005532217995354857, 
+            "start_logit": -5.184670448303223, 
+            "end_logit": -2.2832868099212646
+        }, 
+        {
+            "text": "tmvar/.zhiyong.lu@nih.gov", 
+            "probability": 0.005440829151588861, 
+            "start_logit": -5.44890022277832, 
+            "end_logit": -2.0357143878936768
+        }, 
+        {
+            "text": "tmVar 2.0 source code and corpus", 
+            "probability": 0.004466299540093624, 
+            "start_logit": -3.0731515884399414, 
+            "end_logit": -4.608834266662598
+        }
+    ], 
+    "5c56bbb107647bbc4b000011": [
+        {
+            "text": "primarily target standard (ST) mutation mentions", 
+            "probability": 0.5826996793950978, 
+            "start_logit": 0.6162829995155334, 
+            "end_logit": 0.707171618938446
+        }, 
+        {
+            "text": "target standard (ST) mutation mentions", 
+            "probability": 0.15842727475208288, 
+            "start_logit": -0.686093270778656, 
+            "end_logit": 0.707171618938446
+        }, 
+        {
+            "text": "primarily target standard (ST) mutation mentions (e.g. 'E6V')", 
+            "probability": 0.14132600480171062, 
+            "start_logit": 0.6162829995155334, 
+            "end_logit": -0.709430992603302
+        }, 
+        {
+            "text": "target standard (ST) mutation mentions (e.g. 'E6V')", 
+            "probability": 0.03842441412629197, 
+            "start_logit": -0.686093270778656, 
+            "end_logit": -0.709430992603302
+        }, 
+        {
+            "text": "primarily target standard (ST) mutation mentions (e.g. 'E6V'),", 
+            "probability": 0.020319619995382506, 
+            "start_logit": 0.6162829995155334, 
+            "end_logit": -2.6489133834838867
+        }, 
+        {
+            "text": "methods primarily target standard (ST) mutation mentions", 
+            "probability": 0.012972469644415206, 
+            "start_logit": -3.1885595321655273, 
+            "end_logit": 0.707171618938446
+        }, 
+        {
+            "text": "primarily target standard (ST) mutation", 
+            "probability": 0.008017200041786195, 
+            "start_logit": 0.6162829995155334, 
+            "end_logit": -3.578911066055298
+        }, 
+        {
+            "text": "Existing methods primarily target standard (ST) mutation mentions", 
+            "probability": 0.006014799213651284, 
+            "start_logit": -3.9571659564971924, 
+            "end_logit": 0.707171618938446
+        }, 
+        {
+            "text": "target standard (ST) mutation mentions (e.g. 'E6V'),", 
+            "probability": 0.005524598920679385, 
+            "start_logit": -0.686093270778656, 
+            "end_logit": -2.6489133834838867
+        }, 
+        {
+            "text": "primarily target", 
+            "probability": 0.0045189797742781045, 
+            "start_logit": 0.6162829995155334, 
+            "end_logit": -4.152214050292969
+        }, 
+        {
+            "text": "(ST) mutation mentions", 
+            "probability": 0.00372650068667255, 
+            "start_logit": -4.435919284820557, 
+            "end_logit": 0.707171618938446
+        }, 
+        {
+            "text": "methods primarily target standard (ST) mutation mentions (e.g. 'E6V')", 
+            "probability": 0.003146298808950559, 
+            "start_logit": -3.1885595321655273, 
+            "end_logit": -0.709430992603302
+        }, 
+        {
+            "text": "primarily target standard", 
+            "probability": 0.0029361231125575, 
+            "start_logit": 0.6162829995155334, 
+            "end_logit": -4.583410263061523
+        }, 
+        {
+            "text": "conditional random field (CRF)", 
+            "probability": 0.0026073674671970885, 
+            "start_logit": -1.9370369911193848, 
+            "end_logit": -2.148839235305786
+        }, 
+        {
+            "text": "target standard (ST) mutation", 
+            "probability": 0.002179756053892137, 
+            "start_logit": -0.686093270778656, 
+            "end_logit": -3.578911066055298
+        }, 
+        {
+            "text": "primarily", 
+            "probability": 0.0016472812685458704, 
+            "start_logit": 0.6162829995155334, 
+            "end_logit": -5.161374092102051
+        }, 
+        {
+            "text": "standard (ST) mutation mentions", 
+            "probability": 0.0015019351723111116, 
+            "start_logit": -5.344634532928467, 
+            "end_logit": 0.707171618938446
+        }, 
+        {
+            "text": "Existing methods primarily target standard (ST) mutation mentions (e.g. 'E6V')", 
+            "probability": 0.00145880901021302, 
+            "start_logit": -3.9571659564971924, 
+            "end_logit": -0.709430992603302
+        }, 
+        {
+            "text": "automatic approaches", 
+            "probability": 0.0013222451522461065, 
+            "start_logit": -2.6832830905914307, 
+            "end_logit": -2.0816030502319336
+        }, 
+        {
+            "text": "target", 
+            "probability": 0.0012286426020379337, 
+            "start_logit": -0.686093270778656, 
+            "end_logit": -4.152214050292969
+        }
+    ], 
+    "5c6f107c7c78d69471000051": [
+        {
+            "text": "Fak-mediated cell migration", 
+            "probability": 0.2976385133600813, 
+            "start_logit": 1.0355737209320068, 
+            "end_logit": 3.956472396850586
+        }, 
+		 {
+            "text": "invasion", 
+            "probability": 0.2976385133600813, 
+            "start_logit": 1.0355737209320068, 
+            "end_logit": 3.956472396850586
+        }, 
+        {
+            "text": "cell migration", 
+            "probability": 0.24470764300873576, 
+            "start_logit": 0.8397582173347473, 
+            "end_logit": 3.956472396850586
+        }, 
+
+        {
+            "text": "focal adhesion kinase (FAK)", 
+            "probability": 0.1468887725445434, 
+            "start_logit": 0.7504490613937378, 
+            "end_logit": 3.535392999649048
+        }, 
+		{
+            "text": "proline-rich tyrosine kinase-2 (Pyk2)", 
+            "probability": 0.1468887725445434, 
+            "start_logit": 0.7504490613937378, 
+            "end_logit": 3.535392999649048
+        }, 
+        {
+            "text": "Fak activation as well as Fak-mediated cell migration and invasion", 
+            "probability": 0.07910004098521413, 
+            "start_logit": -0.28959259390830994, 
+            "end_logit": 3.956472396850586
+        }, 
+        {
+            "text": "focal adhesion kinase (FAK) and proline-rich tyrosine kinase-2", 
+            "probability": 0.06441933025144406, 
+            "start_logit": 0.7504490613937378, 
+            "end_logit": 2.7111310958862305
+        }, 
+	   {
+            "text": "invasion", 
+            "probability": 0.24470764300873576, 
+            "start_logit": 0.8397582173347473, 
+            "end_logit": 3.956472396850586
+        }, 
+        {
+            "text": "proline-rich tyrosine kinase-2 (Pyk2)", 
+            "probability": 0.030682809541420802, 
+            "start_logit": -0.8155240416526794, 
+            "end_logit": 3.535392999649048
+        }, 
+        {
+            "text": "PF-562271", 
+            "probability": 0.02354788074336494, 
+            "start_logit": 2.2115914821624756, 
+            "end_logit": 0.24361075460910797
+        }, 
+        {
+            "text": "focal adhesion kinase (FAK) and proline-rich tyrosine kinase-2 (Pyk2).", 
+            "probability": 0.015839519394418623, 
+            "start_logit": 0.7504490613937378, 
+            "end_logit": 1.308225393295288
+        }, 
+        {
+            "text": "(FAK) and proline-rich tyrosine kinase-2 (Pyk2)", 
+            "probability": 0.015547620132909338, 
+            "start_logit": -1.4953190088272095, 
+            "end_logit": 3.535392999649048
+        }, 
+        {
+            "text": "proline-rich tyrosine kinase-2", 
+            "probability": 0.013456209121031083, 
+            "start_logit": -0.8155240416526794, 
+            "end_logit": 2.7111310958862305
+        }, 
+        {
+            "text": "integrins", 
+            "probability": 0.01100491928926194, 
+            "start_logit": 0.8739272952079773, 
+            "end_logit": 0.8205814957618713
+        }, 
+        {
+            "text": "Fak-mediated cell migration and invasion.", 
+            "probability": 0.008110810751821792, 
+            "start_logit": 1.0355737209320068, 
+            "end_logit": 0.3537905216217041
+        }, 
+        {
+            "text": "integrins with FAK inhibitors", 
+            "probability": 0.007689623264634196, 
+            "start_logit": 0.8739272952079773, 
+            "end_logit": 0.4621109068393707
+        }, 
+        {
+            "text": "migration and invasion", 
+            "probability": 0.006894963031286577, 
+            "start_logit": -2.7295148372650146, 
+            "end_logit": 3.956472396850586
+        }, 
+        {
+            "text": "(FAK) and proline-rich tyrosine kinase-2", 
+            "probability": 0.006818542075175733, 
+            "start_logit": -1.4953190088272095, 
+            "end_logit": 2.7111310958862305
+        }, 
+        {
+            "text": "cell migration and invasion.", 
+            "probability": 0.006668415856408512, 
+            "start_logit": 0.8397582173347473, 
+            "end_logit": 0.3537905216217041
+        }, 
+        {
+            "text": "second-generation inhibitor of focal adhesion kinase (FAK) and proline-rich tyrosine kinase-2 (Pyk2)", 
+            "probability": 0.006572727284943746, 
+            "start_logit": -2.356297731399536, 
+            "end_logit": 3.535392999649048
+        }, 
+        {
+            "text": "integrins with FAK inhibitors PF-562271", 
+            "probability": 0.006180329825037066, 
+            "start_logit": 0.8739272952079773, 
+            "end_logit": 0.24361075460910797
+        }, 
+        {
+            "text": "FAK) and proline-rich tyrosine kinase-2 (Pyk2)", 
+            "probability": 0.004184768269009625, 
+            "start_logit": -2.8077752590179443, 
+            "end_logit": 3.535392999649048
+        }, 
+        {
+            "text": "(Pyk2)", 
+            "probability": 0.004046561269257441, 
+            "start_logit": -2.8413591384887695, 
+            "end_logit": 3.535392999649048
+        }
+    ], 
+    "5c6ffa257c78d69471000056": [
+        {
+            "text": "dysfunctions of one of genes coding for lysosomal enzymes involved in degradation of heparan sulfate", 
+            "probability": 0.14673025266632572, 
+            "start_logit": -4.165929317474365, 
+            "end_logit": -3.132473945617676
+        }, 
+        {
+            "text": "MPS IIID", 
+            "probability": 0.11506041445285815, 
+            "start_logit": -4.308943271636963, 
+            "end_logit": -3.2325985431671143
+        }, 
+        {
+            "text": "SGSH (coding for heparan N-sulfatase) - causing MPS IIIA,", 
+            "probability": 0.09406463854572694, 
+            "start_logit": -3.8709194660186768, 
+            "end_logit": -3.8720974922180176
+        }, 
+        {
+            "text": "SGSH (coding for heparan N-sulfatase) - causing MPS IIIA", 
+            "probability": 0.07486963310589272, 
+            "start_logit": -3.8709194660186768, 
+            "end_logit": -4.1003313064575195
+        }, 
+        {
+            "text": "dysfunctions", 
+            "probability": 0.06964454041155557, 
+            "start_logit": -4.165929317474365, 
+            "end_logit": -3.8776655197143555
+        }, 
+        {
+            "text": "MPS IIIA", 
+            "probability": 0.06842310452819232, 
+            "start_logit": -4.40089225769043, 
+            "end_logit": -3.6603963375091553
+        }, 
+        {
+            "text": "MPS IIIB,", 
+            "probability": 0.05985780284833691, 
+            "start_logit": -4.322929859161377, 
+            "end_logit": -3.8720974922180176
+        }, 
+        {
+            "text": "MPS IIIC", 
+            "probability": 0.04764310804852847, 
+            "start_logit": -4.322929859161377, 
+            "end_logit": -4.1003313064575195
+        }, 
+        {
+            "text": "MPS IIID.", 
+            "probability": 0.0472022952274952, 
+            "start_logit": -4.308943271636963, 
+            "end_logit": -4.123613357543945
+        }, 
+        {
+            "text": "MPS IIIA, MPS IIIB, MPS IIIC and MPS IIID.", 
+            "probability": 0.04041847006780851, 
+            "start_logit": -4.40089225769043, 
+            "end_logit": -4.186820030212402
+        }, 
+        {
+            "text": "NAGLU (coding for alpha-N-acetylglucosaminidase) - causing MPS IIIB,", 
+            "probability": 0.03869213050570257, 
+            "start_logit": -5.4417033195495605, 
+            "end_logit": -3.189659595489502
+        }, 
+        {
+            "text": "MPS IIIB,", 
+            "probability": 0.03475420826319777, 
+            "start_logit": -5.549038887023926, 
+            "end_logit": -3.189659595489502
+        }, 
+        {
+            "text": "SGSH", 
+            "probability": 0.023910792326296355, 
+            "start_logit": -3.8709194660186768, 
+            "end_logit": -5.2417497634887695
+        }, 
+        {
+            "text": "mucopolysaccharidosis type III, MPS III", 
+            "probability": 0.022754001046238388, 
+            "start_logit": -4.670564651489258, 
+            "end_logit": -4.491693496704102
+        }, 
+        {
+            "text": "caused by dysfunctions of one of genes coding for lysosomal enzymes involved in degradation of heparan sulfate", 
+            "probability": 0.02254251536580558, 
+            "start_logit": -6.039122104644775, 
+            "end_logit": -3.132473945617676
+        }, 
+        {
+            "text": "MPS III", 
+            "probability": 0.020065308241713868, 
+            "start_logit": -4.796313285827637, 
+            "end_logit": -4.491693496704102
+        }, 
+        {
+            "text": "MPS IIIC and MPS IIID", 
+            "probability": 0.018722844414299514, 
+            "start_logit": -5.6968584060668945, 
+            "end_logit": -3.6603963375091553
+        }, 
+        {
+            "text": "dysfunctions of one of genes coding for lysosomal enzymes involved in degradation of heparan sulfate:", 
+            "probability": 0.01868383959413888, 
+            "start_logit": -4.165929317474365, 
+            "end_logit": -5.193410873413086
+        }, 
+        {
+            "text": "MPS IIIB, MPS IIIC and MPS IIID", 
+            "probability": 0.017991988844957, 
+            "start_logit": -5.736676216125488, 
+            "end_logit": -3.6603963375091553
+        }, 
+        {
+            "text": "GNS (coding for N-acetylglucosamine-6-sulfatase) - causing MPS IIID", 
+            "probability": 0.017968111494929828, 
+            "start_logit": -6.165802001953125, 
+            "end_logit": -3.2325985431671143
+        }
+    ], 
+    "5c6f14297c78d69471000052": [
+        {
+            "text": "orofacial edema, recurrent facial paralysis and lingua plicata", 
+            "probability": 0.5602933660073207, 
+            "start_logit": 9.910236358642578, 
+            "end_logit": 8.81694507598877
+        }, 
+	 {
+            "text": "recurrent facial paralysis", 
+            "probability": 0.5602933660073207, 
+            "start_logit": 9.910236358642578, 
+            "end_logit": 8.81694507598877
+        }, 
+			 {
+            "text": "lingua plicata", 
+            "probability": 0.5602933660073207, 
+            "start_logit": 9.910236358642578, 
+            
+        {
+            "text": "relapsing facial paralysis", 
+            "probability": 0.32757041685183086, 
+            "start_logit": 9.573918342590332, 
+            "end_logit": 8.61650562286377
+        }, 
+        {
+            "text": "orofacial swelling", 
+            "probability": 0.08094578225742301, 
+            "start_logit": 8.675309181213379, 
+            "end_logit": 8.117191314697266
+        }, 
+        {
+            "text": "fissured tongue.", 
+            "probability": 0.013526726710507626, 
+            "start_logit": 9.573918342590332, 
+            "end_logit": 5.429470062255859
+        }, 
+        {
+            "text": "facial swelling, recurrent facial nerve palsy and fissured tongue.", 
+            "probability": 0.007572978859914816, 
+            "start_logit": 8.675309181213379, 
+            "end_logit": 5.747998237609863
+        }, 
+        {
+            "text": "orofacial edema, recurrent facial paralysis and lingua plicata.", 
+            "probability": 0.005241980990488326, 
+            "start_logit": 9.910236358642578, 
+            "end_logit": 4.14518404006958
+        }, 
+        {
+            "text": "persistent or recurrent orofacial edema, relapsing facial paralysis and fissured tongue", 
+            "probability": 0.001199678811501509, 
+            "start_logit": 7.662192344665527, 
+            "end_logit": 4.918582439422607
+        }, 
+        {
+            "text": "persistent or recurrent orofacial edema, relapsing facial paralysis and fissured tongue.", 
+            "probability": 0.0009541000309113943, 
+            "start_logit": 7.662192344665527, 
+            "end_logit": 4.689541816711426
+        }, 
+        {
+            "text": "persistent or recurrent orofacial edema", 
+            "probability": 0.0008621199126863545, 
+            "start_logit": 7.662192344665527, 
+            "end_logit": 4.588167667388916
+        }, 
+        {
+            "text": "facial paralysis, orofacial swelling, and fissured tongue", 
+            "probability": 0.00041597188651701665, 
+            "start_logit": 2.9050776958465576, 
+            "end_logit": 8.61650562286377
+        }, 
+        {
+            "text": "triad of relapsing facial paralysis, orofacial swelling, and fissured tongue", 
+            "probability": 0.00039495021902985494, 
+            "start_logit": 2.853219747543335, 
+            "end_logit": 8.61650562286377
+        }, 
+        {
+            "text": "the classic triad of facial swelling, recurrent facial nerve palsy and fissured tongue", 
+            "probability": 0.00028328847986120706, 
+            "start_logit": 3.020240068435669, 
+            "end_logit": 8.117191314697266
+        }, 
+        {
+            "text": "facial nerve palsy, lip swelling, and fissured or furrowed tongue", 
+            "probability": 0.00021138120657754163, 
+            "start_logit": 4.295844554901123, 
+            "end_logit": 6.548784255981445
+        }, 
+        {
+            "text": "relapsing facial paralysis,", 
+            "probability": 0.00014475796897806255, 
+            "start_logit": 9.573918342590332, 
+            "end_logit": 0.8921104669570923
+        }, 
+        {
+            "text": "the triad of relapsing facial paralysis, orofacial swelling, and fissured tongue", 
+            "probability": 0.00014117412404315144, 
+            "start_logit": 1.8244540691375732, 
+            "end_logit": 8.61650562286377
+        }, 
+        {
+            "text": "facial swelling", 
+            "probability": 6.066765674463754e-05, 
+            "start_logit": 8.675309181213379, 
+            "end_logit": 0.9210671782493591
+        }, 
+        {
+            "text": "triad of facial swelling, recurrent facial nerve palsy and fissured tongue", 
+            "probability": 5.2442207495192324e-05, 
+            "start_logit": 1.3334860801696777, 
+            "end_logit": 8.117191314697266
+        }, 
+        {
+            "text": "relapsing facial paralysis", 
+            "probability": 4.832913558134889e-05, 
+            "start_logit": 9.573918342590332, 
+            "end_logit": -0.20491810142993927
+        }, 
+        {
+            "text": "facial swelling, recurrent facial nerve palsy", 
+            "probability": 4.1633235843138604e-05, 
+            "start_logit": 8.675309181213379, 
+            "end_logit": 0.5445552468299866
+        }, 
+        {
+            "text": "persistent or recurrent orofacial edema,", 
+            "probability": 3.825344674429348e-05, 
+            "start_logit": 7.662192344665527, 
+            "end_logit": 1.4730069637298584
+        }
+    ], 
+    "5c580fe107647bbc4b00001b": [
+        {
+            "text": "gynecological cancers", 
+            "probability": 0.976285342684192, 
+            "start_logit": -0.28219738602638245, 
+            "end_logit": 0.6102202534675598
+        }, 
+        {
+            "text": "gynecological cancers remains unknown. This study was to identify the prognostic value of uc.189 expression in gynecological cancers", 
+            "probability": 0.007377912098765887, 
+            "start_logit": -0.28219738602638245, 
+            "end_logit": -4.275043964385986
+        }, 
+        {
+            "text": "gynecological cancers remains unknown", 
+            "probability": 0.004301335684524163, 
+            "start_logit": -0.28219738602638245, 
+            "end_logit": -4.814609050750732
+        }, 
+        {
+            "text": "human cancers remains undefined", 
+            "probability": 0.003993663438782721, 
+            "start_logit": -5.781243324279785, 
+            "end_logit": 0.6102202534675598
+        }, 
+        {
+            "text": "the clinical significance of uc.189 in gynecological cancers", 
+            "probability": 0.0021173908918403718, 
+            "start_logit": -6.415767669677734, 
+            "end_logit": 0.6102202534675598
+        }, 
+        {
+            "text": "gynecological", 
+            "probability": 0.0018697830700978232, 
+            "start_logit": -0.28219738602638245, 
+            "end_logit": -5.647712230682373
+        }, 
+        {
+            "text": "in gynecological cancers", 
+            "probability": 0.0018590334693692728, 
+            "start_logit": -6.545895576477051, 
+            "end_logit": 0.6102202534675598
+        }, 
+        {
+            "text": "s", 
+            "probability": 0.0012162962753440125, 
+            "start_logit": -6.970141887664795, 
+            "end_logit": 0.6102202534675598
+        }, 
+        {
+            "text": "clinicopathological features", 
+            "probability": 0.0004106815679413978, 
+            "start_logit": -3.3317089080810547, 
+            "end_logit": -4.113960266113281
+        }, 
+        {
+            "text": "clinicopathological features and prognosis", 
+            "probability": 0.00011199439273369403, 
+            "start_logit": -3.3317089080810547, 
+            "end_logit": -5.413329601287842
+        }, 
+        {
+            "text": "human cancers", 
+            "probability": 0.00010122840049512169, 
+            "start_logit": -4.52811861038208, 
+            "end_logit": -4.317989349365234
+        }, 
+        {
+            "text": "human cancers remains undefined and the clinical significance of uc.189 in esophageal cancers", 
+            "probability": 9.266341603560575e-05, 
+            "start_logit": -4.52811861038208, 
+            "end_logit": -4.406394958496094
+        }, 
+        {
+            "text": "CSCCs", 
+            "probability": 5.519377189596315e-05, 
+            "start_logit": -4.615546703338623, 
+            "end_logit": -4.837090492248535
+        }, 
+        {
+            "text": "ovarian cystoadenocarcinomas", 
+            "probability": 4.8203066721994885e-05, 
+            "start_logit": -5.365025520324707, 
+            "end_logit": -4.223039150238037
+        }, 
+        {
+            "text": "116 cervical squamous cell carcinomas (CSCCs", 
+            "probability": 3.278275656217636e-05, 
+            "start_logit": -5.136494159698486, 
+            "end_logit": -4.837090492248535
+        }, 
+        {
+            "text": "advanced clinical stage (p=0.000), lymph node metastasis (p=0.000), and poor prognosis", 
+            "probability": 2.7416682288339297e-05, 
+            "start_logit": -5.285158634185791, 
+            "end_logit": -4.8671770095825195
+        }, 
+        {
+            "text": "unknown. This study was to identify the prognostic value of uc.189 expression in gynecological cancers", 
+            "probability": 2.5195338250725096e-05, 
+            "start_logit": -5.961784362792969, 
+            "end_logit": -4.275043964385986
+        }, 
+        {
+            "text": "CSCCs), 98 endometrial adenocarcinomas (EACs)", 
+            "probability": 2.5140733473268897e-05, 
+            "start_logit": -4.615546703338623, 
+            "end_logit": -5.623451232910156
+        }, 
+        {
+            "text": "cervical squamous cell carcinomas (CSCCs", 
+            "probability": 2.458831059396213e-05, 
+            "start_logit": -5.424125671386719, 
+            "end_logit": -4.837090492248535
+        }, 
+        {
+            "text": "116 cervical squamous cell carcinomas", 
+            "probability": 2.4153950091733546e-05, 
+            "start_logit": -5.136494159698486, 
+            "end_logit": -5.142545223236084
+        }
+    ], 
+    "5c58282e07647bbc4b00001e": [
+        {
+            "text": "Methods have been developed that use weighted allocation of read counts", 
+            "probability": 0.8327220760849322, 
+            "start_logit": 0.5544586777687073, 
+            "end_logit": 2.052107334136963
+        }, 
+        {
+            "text": "weighted allocation of read counts", 
+            "probability": 0.09129175959450743, 
+            "start_logit": -1.656180739402771, 
+            "end_logit": 2.052107334136963
+        }, 
+        {
+            "text": "Methods that align RNA-seq reads to a diploid transcriptome incorporating known genetic variants", 
+            "probability": 0.014787596234958258, 
+            "start_logit": 0.13887089490890503, 
+            "end_logit": -1.5632160902023315
+        }, 
+        {
+            "text": "Weighted allocation methods", 
+            "probability": 0.012344255043649032, 
+            "start_logit": -0.9726021885871887, 
+            "end_logit": -0.6323409676551819
+        }, 
+        {
+            "text": "Methods have been developed that use weighted allocation of read counts but these methods treat the different types of multi-reads equivalently.", 
+            "probability": 0.012060174560149337, 
+            "start_logit": 0.5544586777687073, 
+            "end_logit": -2.1826839447021484
+        }, 
+        {
+            "text": "developed that use weighted allocation of read counts", 
+            "probability": 0.007480273889759196, 
+            "start_logit": -4.1579718589782715, 
+            "end_logit": 2.052107334136963
+        }, 
+        {
+            "text": "use weighted allocation of read counts", 
+            "probability": 0.007168250509133417, 
+            "start_logit": -4.200579643249512, 
+            "end_logit": 2.052107334136963
+        }, 
+        {
+            "text": "Methods have been developed that use weighted allocation", 
+            "probability": 0.006059389240388267, 
+            "start_logit": 0.5544586777687073, 
+            "end_logit": -2.870983600616455
+        }, 
+        {
+            "text": "Methods that align RNA-seq reads to a diploid transcriptome", 
+            "probability": 0.004530849313811509, 
+            "start_logit": 0.13887089490890503, 
+            "end_logit": -2.7460954189300537
+        }, 
+        {
+            "text": "Methods have been developed that use weighted allocation of read counts but these methods treat the different types of multi-reads equivalently", 
+            "probability": 0.0033929918463104255, 
+            "start_logit": 0.5544586777687073, 
+            "end_logit": -3.450880527496338
+        }, 
+        {
+            "text": "have been developed that use weighted allocation of read counts", 
+            "probability": 0.0029941347135209826, 
+            "start_logit": -5.0735859870910645, 
+            "end_logit": 2.052107334136963
+        }, 
+        {
+            "text": "weighted allocation of read counts but these methods treat the different types of multi-reads equivalently.", 
+            "probability": 0.0013221632862062535, 
+            "start_logit": -1.656180739402771, 
+            "end_logit": -2.1826839447021484
+        }, 
+        {
+            "text": "htseq-count and featureCounts", 
+            "probability": 0.0007868891730156416, 
+            "start_logit": -2.9728951454162598, 
+            "end_logit": -1.3849066495895386
+        }, 
+        {
+            "text": "weighted allocation", 
+            "probability": 0.0006642940324385621, 
+            "start_logit": -1.656180739402771, 
+            "end_logit": -2.870983600616455
+        }, 
+        {
+            "text": "Weighted allocation", 
+            "probability": 0.0005690389212341127, 
+            "start_logit": -0.9726021885871887, 
+            "end_logit": -3.7093381881713867
+        }, 
+        {
+            "text": "methods treat the different types of multi-reads equivalently.", 
+            "probability": 0.00038942449523219973, 
+            "start_logit": -2.878535270690918, 
+            "end_logit": -2.1826839447021484
+        }, 
+        {
+            "text": "weighted allocation of read counts but these methods treat the different types of multi-reads equivalently. We propose a hierarchical approach", 
+            "probability": 0.000378386755254126, 
+            "start_logit": -1.656180739402771, 
+            "end_logit": -3.4337916374206543
+        }, 
+        {
+            "text": "weighted allocation of read counts but these methods treat the different types of multi-reads equivalently", 
+            "probability": 0.0003719754823791925, 
+            "start_logit": -1.656180739402771, 
+            "end_logit": -3.450880527496338
+        }, 
+        {
+            "text": "Weighted allocation methods outperform methods that discard multi-reads", 
+            "probability": 0.00034776243138614333, 
+            "start_logit": -0.9726021885871887, 
+            "end_logit": -4.201767444610596
+        }, 
+        {
+            "text": "htseq-count and featureCounts that handles multi-mapping reads in an unabiased way.", 
+            "probability": 0.00033831439173398524, 
+            "start_logit": -2.9728951454162598, 
+            "end_logit": -2.229018449783325
+        }
+    ], 
+    "5c7034ae7c78d69471000063": [
+        {
+            "text": "dolutegravir (DTG)", 
+            "probability": 0.9283217321248642, 
+            "start_logit": -1.8165768384933472, 
+            "end_logit": -2.788909912109375
+        }, 
+        {
+            "text": "lamivudine (3TC)", 
+            "probability": 0.0275468178988679, 
+            "start_logit": -1.8165768384933472, 
+            "end_logit": -6.306401252746582
+        }, 
+		{
+            "text": "abacavir (ABC)", 
+            "probability": 0.0275468178988679, 
+            "start_logit": -1.8165768384933472, 
+            "end_logit": -6.306401252746582
+        }, 
+        {
+            "text": "tenofovir", 
+            "probability": 0.0057047985300540845, 
+            "start_logit": -4.941025257110596, 
+            "end_logit": -4.756532192230225
+        }, 
+        {
+            "text": "emtricitabine", 
+            "probability": 0.0032572967882149527, 
+            "start_logit": -5.181292533874512, 
+            "end_logit": -5.076674938201904
+        }, 
+        {
+            "text": "elvitegravir", 
+            "probability": 0.0029912136730513303, 
+            "start_logit": -5.181292533874512, 
+            "end_logit": -5.161893367767334
+        }, 
+        {
+            "text": "cobicistat", 
+            "probability": 0.00294679310574307, 
+            "start_logit": -7.56923770904541, 
+            "end_logit": -2.788909912109375
+        }, 
+        {
+            "text": "Newer STRs", 
+            "probability": 0.0029245637439052684, 
+            "start_logit": -5.356611728668213, 
+            "end_logit": -5.009108066558838
+        }, 
+        {
+            "text": "Many single-tablet regimens (STRs), including newer fixed-dose combination (FDC) tablets", 
+            "probability": 0.002883723787413793, 
+            "start_logit": -5.3191070556640625, 
+            "end_logit": -5.060675621032715
+        }, 
+        {
+            "text": "single-tablet regimens (STRs), including newer fixed-dose combination (FDC) tablets", 
+            "probability": 0.0027708470031076785, 
+            "start_logit": -5.359036445617676, 
+            "end_logit": -5.060675621032715
+        }, 
+        {
+            "text": "fixed-dose combination (FDC) tablets", 
+            "probability": 0.002714247048914066, 
+            "start_logit": -5.379674911499023, 
+            "end_logit": -5.060675621032715
+        }, 
+        {
+            "text": "dolutegravir", 
+            "probability": 0.0023725434916870534, 
+            "start_logit": -5.181292533874512, 
+            "end_logit": -5.393610000610352
+        }, 
+        {
+            "text": "Many single-tablet regimens (STRs", 
+            "probability": 0.0021711646289171715, 
+            "start_logit": -5.3191070556640625, 
+            "end_logit": -5.344494342803955
+        }, 
+        {
+            "text": "single-tablet regimens (STRs", 
+            "probability": 0.0020861793461446018, 
+            "start_logit": -5.359036445617676, 
+            "end_logit": -5.344494342803955
+        }, 
+        {
+            "text": "newer fixed-dose combination (FDC) tablets", 
+            "probability": 0.0018265280507893172, 
+            "start_logit": -5.775772571563721, 
+            "end_logit": -5.060675621032715
+        }, 
+        {
+            "text": "Many single-tablet regimens", 
+            "probability": 0.001762742965289118, 
+            "start_logit": -5.3191070556640625, 
+            "end_logit": -5.552886962890625
+        }, 
+        {
+            "text": "(tenofovir, emtricitabine, elvitegravir and cobicistat", 
+            "probability": 0.0017600762656598413, 
+            "start_logit": -6.116975784301758, 
+            "end_logit": -4.756532192230225
+        }, 
+        {
+            "text": "single-tablet regimens", 
+            "probability": 0.0016937444161394077, 
+            "start_logit": -5.359036445617676, 
+            "end_logit": -5.552886962890625
+        }, 
+        {
+            "text": "Regimen Stribild (tenofovir, emtricitabine, elvitegravir and cobicistat", 
+            "probability": 0.001482983261203591, 
+            "start_logit": -6.2882771492004395, 
+            "end_logit": -4.756532192230225
+        }, 
+        {
+            "text": "STRs and FDCs", 
+            "probability": 0.0014790920255084686, 
+            "start_logit": -6.428588390350342, 
+            "end_logit": -4.6188483238220215
+        }, 
+        {
+            "text": "Triumeq", 
+            "probability": 0.0013029118445252884, 
+            "start_logit": -6.097588539123535, 
+            "end_logit": -5.076674938201904
+        }
+    ], 
+    "5c596ad686df2b9174000015": [
+        {
+            "text": "ITGA4 and ITGB8", 
+            "probability": 0.999526073387333, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": 10.115096092224121
+        }, 
+		{
+            "text": "ITGB8", 
+            "probability": 0.999526073387333, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": 10.115096092224121
+        }, 
+        {
+            "text": "(ITGA4 and ITGB8", 
+            "probability": 0.00020719685841947164, 
+            "start_logit": 0.5111522078514099, 
+            "end_logit": 10.115096092224121
+        }, 
+        {
+            "text": "ITGA4 and ITGB8) and at previously implicated loci (ITGAL and ICAM1", 
+            "probability": 0.0001929465116245305, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": 1.5624725818634033
+        }, 
+        {
+            "text": "ITGA4", 
+            "probability": 2.4615235435928573e-05, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": -0.49657484889030457
+        }, 
+        {
+            "text": "8", 
+            "probability": 1.4429205130084607e-05, 
+            "start_logit": -2.1532628536224365, 
+            "end_logit": 10.115096092224121
+        }, 
+        {
+            "text": "ITGB8", 
+            "probability": 1.140002093066435e-05, 
+            "start_logit": -2.388901948928833, 
+            "end_logit": 10.115096092224121
+        }, 
+        {
+            "text": "ITGA4 and ITGB8) and at previously implicated loci (ITGAL and ICAM1)", 
+            "probability": 7.361044633550627e-06, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": -1.7037385702133179
+        }, 
+        {
+            "text": "ITGA4 and ITGB8)", 
+            "probability": 5.788855361990158e-06, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": -1.9440058469772339
+        }, 
+        {
+            "text": "two of these genes (ITGA4 and ITGB8", 
+            "probability": 2.7861489359752475e-06, 
+            "start_logit": -3.7978568077087402, 
+            "end_logit": 10.115096092224121
+        }, 
+        {
+            "text": "IT", 
+            "probability": 1.6204380549033206e-06, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": -3.2172439098358154
+        }, 
+        {
+            "text": "4 and ITGB8", 
+            "probability": 1.320650680077765e-06, 
+            "start_logit": -4.5443925857543945, 
+            "end_logit": 10.115096092224121
+        }, 
+        {
+            "text": "expression changes in response to immune stimulus at two of these genes (ITGA4 and ITGB8", 
+            "probability": 1.1719736925024447e-06, 
+            "start_logit": -4.663827896118164, 
+            "end_logit": 10.115096092224121
+        }, 
+        {
+            "text": "ITGA4 and ITGB8) and at previously implicated loci (ITGAL", 
+            "probability": 7.848303870064449e-07, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": -3.942228078842163
+        }, 
+        {
+            "text": "ITGA4 and ITGB8) and at previously implicated loci (ITGAL and ICAM1).", 
+            "probability": 6.95135705724117e-07, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": -4.063588619232178
+        }, 
+        {
+            "text": "ITGA4 and", 
+            "probability": 5.984645813761596e-07, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": -4.2133283615112305
+        }, 
+        {
+            "text": "ITGA4 and ITGB", 
+            "probability": 5.238110019858232e-07, 
+            "start_logit": 8.99251937866211, 
+            "end_logit": -4.346564769744873
+        }, 
+        {
+            "text": "associated variants are correlated with expression changes in response to immune stimulus at two of these genes (ITGA4 and ITGB8", 
+            "probability": 3.512681811258122e-07, 
+            "start_logit": -5.868722438812256, 
+            "end_logit": 10.115096092224121
+        }, 
+        {
+            "text": "The associated variants are correlated with expression changes in response to immune stimulus at two of these genes (ITGA4 and ITGB8", 
+            "probability": 2.8911194806259436e-07, 
+            "start_logit": -6.063458442687988, 
+            "end_logit": 10.115096092224121
+        }, 
+        {
+            "text": "(ITGA4 and ITGB8) and at previously implicated loci (ITGAL and ICAM1", 
+            "probability": 3.999686663111856e-08, 
+            "start_logit": 0.5111522078514099, 
+            "end_logit": 1.5624725818634033
+        }, 
+        {
+            "text": "ITGAL and ICAM1", 
+            "probability": 7.051095132808725e-09, 
+            "start_logit": -1.2244659662246704, 
+            "end_logit": 1.5624725818634033
+        }
+    ], 
+    "5c7036127c78d69471000064": [
+        {
+            "text": "open radical cystectomy (ORC)", 
+            "probability": 0.19974828052907376, 
+            "start_logit": 0.8494643568992615, 
+            "end_logit": -1.109009861946106
+        }, 
+	   {
+            "text": "robot-assisted RC (RARC)", 
+            "probability": 0.19974828052907376, 
+            "start_logit": 0.8494643568992615, 
+            "end_logit": -1.109009861946106
+        }, 
+        {
+            "text": "robot-assisted RC (RARC)", 
+            "probability": 0.18758921193619507, 
+            "start_logit": -0.7703108191490173, 
+            "end_logit": 0.44796186685562134
+        }, 
+		{
+            "text": "pelvic lymph node dissection (PLND)", 
+            "probability": 0.18758921193619507, 
+            "start_logit": -0.7703108191490173, 
+            "end_logit": 0.44796186685562134
+        }, 
+		{
+            "text": "urinary diversion", 
+            "probability": 0.18758921193619507, 
+            "start_logit": -0.7703108191490173, 
+            "end_logit": 0.44796186685562134
+        }, 
+        {
+            "text": "ORC vs RARC, PLND and urinary diversion", 
+            "probability": 0.15713270292727308, 
+            "start_logit": -0.8511028289794922, 
+            "end_logit": 0.35159003734588623
+        }, 
+        {
+            "text": "RARC, PLND and urinary diversion", 
+            "probability": 0.12293729225436865, 
+            "start_logit": -1.096519112586975, 
+            "end_logit": 0.35159003734588623
+        }, 
+        {
+            "text": "open cystectomy and robot-assisted cystectomy", 
+            "probability": 0.10654061745378775, 
+            "start_logit": -0.20457564294338226, 
+            "end_logit": -0.6835015416145325
+        }, 
+        {
+            "text": "open radical cystectomy (ORC) vs robot-assisted RC (RARC),", 
+            "probability": 0.05537680710265611, 
+            "start_logit": 0.8494643568992615, 
+            "end_logit": -2.391906976699829
+        }, 
+        {
+            "text": "pelvic lymph node dissection (PLND) and urinary diversion", 
+            "probability": 0.04887331552986667, 
+            "start_logit": -2.1153337955474854, 
+            "end_logit": 0.44796186685562134
+        }, 
+        {
+            "text": "robot-assisted RC (RARC)", 
+            "probability": 0.039538813133921984, 
+            "start_logit": -0.7703108191490173, 
+            "end_logit": -1.109009861946106
+        }, 
+        {
+            "text": "open radical cystectomy (ORC) vs robot-assisted RC", 
+            "probability": 0.023089182846023213, 
+            "start_logit": 0.8494643568992615, 
+            "end_logit": -3.2667036056518555
+        }, 
+        {
+            "text": "(RARC), pelvic lymph node dissection (PLND) and urinary diversion", 
+            "probability": 0.011157241422430056, 
+            "start_logit": -3.5924766063690186, 
+            "end_logit": 0.44796186685562134
+        }, 
+        {
+            "text": "robot-assisted RC (RARC),", 
+            "probability": 0.010961462207262766, 
+            "start_logit": -0.7703108191490173, 
+            "end_logit": -2.391906976699829
+        }, 
+        {
+            "text": "ORC vs RARC, PLND and urinary diversion.", 
+            "probability": 0.0053274951586521156, 
+            "start_logit": -0.8511028289794922, 
+            "end_logit": -3.0326194763183594
+        }, 
+        {
+            "text": "open radical cystectomy", 
+            "probability": 0.005195274249546414, 
+            "start_logit": 0.8494643568992615, 
+            "end_logit": -4.7583184242248535
+        }, 
+        {
+            "text": "robot-assisted RC", 
+            "probability": 0.004570346656030371, 
+            "start_logit": -0.7703108191490173, 
+            "end_logit": -3.2667036056518555
+        }, 
+        {
+            "text": "ORC vs RARC", 
+            "probability": 0.004273050677516133, 
+            "start_logit": -0.8511028289794922, 
+            "end_logit": -3.2531726360321045
+        }, 
+        {
+            "text": "RARC, PLND and urinary diversion.", 
+            "probability": 0.004168119157258332, 
+            "start_logit": -1.096519112586975, 
+            "end_logit": -3.0326194763183594
+        }, 
+        {
+            "text": "open radical cystectomy (ORC)", 
+            "probability": 0.003941906597714508, 
+            "start_logit": 0.8494643568992615, 
+            "end_logit": -5.034403324127197
+        }, 
+        {
+            "text": "RARC", 
+            "probability": 0.0033431441716029373, 
+            "start_logit": -1.096519112586975, 
+            "end_logit": -3.2531726360321045
+        }, 
+        {
+            "text": "to ORC vs RARC, PLND and urinary diversion", 
+            "probability": 0.0032522543414686294, 
+            "start_logit": -4.728845119476318, 
+            "end_logit": 0.35159003734588623
+        }, 
+        {
+            "text": "open cystectomy and robot-assisted cystectomy.", 
+            "probability": 0.0029834816473515015, 
+            "start_logit": -0.20457564294338226, 
+            "end_logit": -4.258936882019043
+        }
+    ], 
+    "5c72a9147c78d6947100006e": [
+        {
+            "text": "Trifluridine", 
+            "probability": 0.995735770258119, 
+            "start_logit": 8.075950622558594, 
+            "end_logit": 7.351914405822754
+        }, 
+        {
+            "text": "tipiracil", 
+            "probability": 0.00385301310405782, 
+            "start_logit": 4.4511237144470215, 
+            "end_logit": 5.422114849090576
+        }, 
+        {
+            "text": "Trifluridine/tipiracil (TAS-102", 
+            "probability": 0.00019555845756288962, 
+            "start_logit": 8.075950622558594, 
+            "end_logit": -1.183463454246521
+        }, 
+        {
+            "text": "Trifluridine/tipiracil (TAS-102, Lonsurf\u00ae)", 
+            "probability": 0.00016453325240727728, 
+            "start_logit": 8.075950622558594, 
+            "end_logit": -1.3562101125717163
+        }, 
+        {
+            "text": "Trifluridine/tipiracil (TAS-102, Lonsurf\u00ae", 
+            "probability": 2.09415113605008e-05, 
+            "start_logit": 8.075950622558594, 
+            "end_logit": -3.4175894260406494
+        }, 
+        {
+            "text": "Tri", 
+            "probability": 1.1550057723344794e-05, 
+            "start_logit": 8.075950622558594, 
+            "end_logit": -4.012632369995117
+        }, 
+        {
+            "text": "Trifluridine/tipiracil (TAS-102,", 
+            "probability": 3.2582286547334496e-06, 
+            "start_logit": 8.075950622558594, 
+            "end_logit": -5.278139114379883
+        }, 
+        {
+            "text": "l", 
+            "probability": 3.203460566293413e-06, 
+            "start_logit": -4.571054935455322, 
+            "end_logit": 7.351914405822754
+        }, 
+        {
+            "text": "Trifluridine/tipiracil (TAS-102, Lonsurf\u00ae),", 
+            "probability": 2.6911167447114455e-06, 
+            "start_logit": 8.075950622558594, 
+            "end_logit": -5.469366550445557
+        }, 
+        {
+            "text": "Trifluridine/tipiracil (TAS-102, Lonsurf\u00ae), a novel oral anti-tumor agent", 
+            "probability": 2.266184242477518e-06, 
+            "start_logit": 8.075950622558594, 
+            "end_logit": -5.641225337982178
+        }, 
+        {
+            "text": "Trifluridine", 
+            "probability": 1.775415652821226e-06, 
+            "start_logit": 8.075950622558594, 
+            "end_logit": -5.885288238525391
+        }, 
+        {
+            "text": "trifluridine/tipiracil (TAS-102, Lonsurf\u00ae)", 
+            "probability": 1.3357099102258687e-06, 
+            "start_logit": 4.4511237144470215, 
+            "end_logit": -2.5450329780578613
+        }, 
+        {
+            "text": "tipiracil", 
+            "probability": 1.1444397627934205e-06, 
+            "start_logit": -5.600371360778809, 
+            "end_logit": 7.351914405822754
+        }, 
+        {
+            "text": "trifluridine/tipiracil (TAS-102, Lonsurf\u00ae), an antimetabolite", 
+            "probability": 1.1419575616638175e-06, 
+            "start_logit": 4.4511237144470215, 
+            "end_logit": -2.701751947402954
+        }, 
+        {
+            "text": "ine/tipiracil", 
+            "probability": 7.658477275475132e-07, 
+            "start_logit": -6.002058506011963, 
+            "end_logit": 7.351914405822754
+        }, 
+        {
+            "text": "trifluridine and tipiracil", 
+            "probability": 2.55643891154101e-07, 
+            "start_logit": 0.47958096861839294, 
+            "end_logit": -0.22692300379276276
+        }, 
+        {
+            "text": "trifluridine", 
+            "probability": 2.48787697258008e-07, 
+            "start_logit": 4.4511237144470215, 
+            "end_logit": -4.225651264190674
+        }, 
+        {
+            "text": "trifluridine/tipiracil (TAS-102, Lonsurf\u00ae),", 
+            "probability": 2.4097066081998404e-07, 
+            "start_logit": 4.4511237144470215, 
+            "end_logit": -4.257575988769531
+        }, 
+        {
+            "text": "trifluridine/tipiracil (TAS-102", 
+            "probability": 1.5286629999911508e-07, 
+            "start_logit": 4.4511237144470215, 
+            "end_logit": -4.7126874923706055
+        }, 
+        {
+            "text": "such as trifluridine/tipiracil", 
+            "probability": 1.5272939664743024e-07, 
+            "start_logit": -5.684574604034424, 
+            "end_logit": 5.422114849090576
+        }
+    ], 
+    "5c72b6be7c78d69471000072": [
+        {
+            "text": "phosphoinositide-3-kinase (PI3K)-\u03b4, 
+            "probability": 0.4827149003140181, 
+            "start_logit": 6.607537269592285, 
+            "end_logit": 7.991111755371094
+        }, 
+		  {
+            "text": "-\u03b3"", 
+            "probability": 0.23082326142160864, 
+            "start_logit": 7.6120805740356445, 
+            "end_logit": 6.2487945556640625
+        }, 
+
+        {
+            "text": "phospho-AKT (S473)", 
+            "probability": 0.23082326142160864, 
+            "start_logit": 7.6120805740356445, 
+            "end_logit": 6.2487945556640625
+        }, 
+        {
+            "text": "phospho-AKT", 
+            "probability": 0.21880715343215026, 
+            "start_logit": 7.6120805740356445, 
+            "end_logit": 6.195333003997803
+        }, 
+        {
+            "text": "PI3K)-\u03b4 and -\u03b3", 
+            "probability": 0.037085213237280014, 
+            "start_logit": 4.041329383850098, 
+            "end_logit": 7.991111755371094
+        }, 
+        {
+            "text": "(PI3K)-\u03b4 and -\u03b3", 
+            "probability": 0.012756869082462612, 
+            "start_logit": 2.9741809368133545, 
+            "end_logit": 7.991111755371094
+        }, 
+        {
+            "text": "phospho-AKT (S473) in CLL tumor cells", 
+            "probability": 0.006144144790814021, 
+            "start_logit": 7.6120805740356445, 
+            "end_logit": 2.6226418018341064
+        }, 
+        {
+            "text": "PI3K\u03b3 and PI3K\u03b4", 
+            "probability": 0.0027746470939600597, 
+            "start_logit": 6.152830123901367, 
+            "end_logit": 3.2869162559509277
+        }, 
+        {
+            "text": "phosphoinositide 3-kinase-\u03b4 (PI3K-\u03b4) and PI3K-\u03b3", 
+            "probability": 0.002660709696109968, 
+            "start_logit": 5.272634506225586, 
+            "end_logit": 4.125181198120117
+        }, 
+        {
+            "text": "phosphoinositide-3-kinase (PI3K)-\u03b4 and -\u03b3,", 
+            "probability": 0.0020432670786453178, 
+            "start_logit": 6.607537269592285, 
+            "end_logit": 2.526235580444336
+        }, 
+        {
+            "text": "inhibition of phospho-AKT (S473)", 
+            "probability": 0.0008145998086888708, 
+            "start_logit": 1.9653699398040771, 
+            "end_logit": 6.2487945556640625
+        }, 
+        {
+            "text": "inhibition of phospho-AKT", 
+            "probability": 0.0007721936871865893, 
+            "start_logit": 1.9653699398040771, 
+            "end_logit": 6.195333003997803
+        }, 
+        {
+            "text": "AKT (S473)", 
+            "probability": 0.0006569656404665571, 
+            "start_logit": 1.7503046989440918, 
+            "end_logit": 6.2487945556640625
+        }, 
+        {
+            "text": "AKT", 
+            "probability": 0.0006227655774720793, 
+            "start_logit": 1.7503046989440918, 
+            "end_logit": 6.195333003997803
+        }, 
+        {
+            "text": "kinase (PI3K)-\u03b4 and -\u03b3", 
+            "probability": 0.00038686396534781485, 
+            "start_logit": -0.5215710997581482, 
+            "end_logit": 7.991111755371094
+        }, 
+        {
+            "text": "phosphatidylinositol 3-kinase (PI3K)-\u03b4/\u03b3 isoforms", 
+            "probability": 0.0002721875872003011, 
+            "start_logit": 3.4696879386901855, 
+            "end_logit": 3.648271083831787
+        }, 
+        {
+            "text": "phospho-AKT (S473", 
+            "probability": 0.00019942081306045944, 
+            "start_logit": 7.6120805740356445, 
+            "end_logit": -0.8051958084106445
+        }, 
+        {
+            "text": "PI3K)-\u03b4 and -\u03b3,", 
+            "probability": 0.00015697670667091959, 
+            "start_logit": 4.041329383850098, 
+            "end_logit": 2.526235580444336
+        }, 
+        {
+            "text": "phospho-AKT (S473) in CLL", 
+            "probability": 0.00014014484093374235, 
+            "start_logit": 7.6120805740356445, 
+            "end_logit": -1.1579365730285645
+        }, 
+        {
+            "text": "phosphoinositide-3-kinase", 
+            "probability": 9.820825108951988e-05, 
+            "start_logit": 6.607537269592285, 
+            "end_logit": -0.5089794993400574
+        }, 
+        {
+            "text": "\u03b4 and -\u03b3", 
+            "probability": 6.950697483421837e-05, 
+            "start_logit": -2.2382171154022217, 
+            "end_logit": 7.991111755371094
+        }
+    ], 
+    "5c62a276e842deac6700000a": [
+        {
+            "text": "DNMT3A", 
+            "probability": 0.264564646773139, 
+            "start_logit": -0.9374390244483948, 
+            "end_logit": -0.1774275153875351
+        }, 
+       {
+            "text": "PRKCD", 
+            "probability": 0.264564646773139, 
+            "start_logit": -0.9374390244483948, 
+            "end_logit": -0.1774275153875351
+        }, 
+		 {
+            "text": "C1QTNF4", 
+            "probability": 0.264564646773139, 
+            "start_logit": -0.9374390244483948, 
+            "end_logit": -0.1774275153875351
+        }, 
+        {
+            "text": "missense de novo mutations (DNM)", 
+            "probability": 0.16949559542140824, 
+            "start_logit": -0.3879098892211914, 
+            "end_logit": -1.1722153425216675
+        }, 
+        {
+            "text": "missense de novo mutations (DNM", 
+            "probability": 0.11838784899290385, 
+            "start_logit": -0.3879098892211914, 
+            "end_logit": -1.531076192855835
+        }, 
+        {
+            "text": "missense", 
+            "probability": 0.06864364675087943, 
+            "start_logit": -0.3879098892211914, 
+            "end_logit": -2.076113700866699
+        }, 
+        {
+            "text": "missense de novo mutations", 
+            "probability": 0.0658955262401226, 
+            "start_logit": -0.3879098892211914, 
+            "end_logit": -2.116971731185913
+        }, 
+        {
+            "text": "DNM)", 
+            "probability": 0.049925053665270475, 
+            "start_logit": -1.6102138757705688, 
+            "end_logit": -1.1722153425216675
+        }, 
+        {
+            "text": "(DNM), none of which are within the\u2009&gt;80 SLE susceptibility loci", 
+            "probability": 0.0471283407209233, 
+            "start_logit": -1.6102138757705688, 
+            "end_logit": -1.2298637628555298
+        }, 
+        {
+            "text": "DNM", 
+            "probability": 0.034871228951947913, 
+            "start_logit": -1.6102138757705688, 
+            "end_logit": -1.531076192855835
+        }, 
+        {
+            "text": "(DNM)", 
+            "probability": 0.02881215372542267, 
+            "start_logit": -2.1599395275115967, 
+            "end_logit": -1.1722153425216675
+        }, 
+        {
+            "text": "missense de novo mutations (DNM), none of which are within the\u2009&gt;80", 
+            "probability": 0.02226591255695219, 
+            "start_logit": -0.3879098892211914, 
+            "end_logit": -3.2019853591918945
+        }, 
+        {
+            "text": "missense de novo mutations (DNM), none of which are within the\u2009&gt;80 SLE", 
+            "probability": 0.021996346190398516, 
+            "start_logit": -0.3879098892211914, 
+            "end_logit": -3.2141659259796143
+        }, 
+        {
+            "text": "(DNM", 
+            "probability": 0.020124469287387994, 
+            "start_logit": -2.1599395275115967, 
+            "end_logit": -1.531076192855835
+        }, 
+        {
+            "text": "DNMT3A, PRKCD, and C1QTNF4.", 
+            "probability": 0.018845560075071287, 
+            "start_logit": -0.9374390244483948, 
+            "end_logit": -2.8192358016967773
+        }, 
+        {
+            "text": "none of which are within the\u2009&gt;80 SLE susceptibility loci", 
+            "probability": 0.016492149436261042, 
+            "start_logit": -2.6602039337158203, 
+            "end_logit": -1.2298637628555298
+        }, 
+        {
+            "text": "14 genes with missense de novo mutations (DNM)", 
+            "probability": 0.012973802736087569, 
+            "start_logit": -2.9578046798706055, 
+            "end_logit": -1.1722153425216675
+        }, 
+        {
+            "text": "missense de novo mutations (DNM),", 
+            "probability": 0.011426639580880686, 
+            "start_logit": -0.3879098892211914, 
+            "end_logit": -3.8690948486328125
+        }, 
+        {
+            "text": "14 genes with missense de novo mutations (DNM", 
+            "probability": 0.00906183193353743, 
+            "start_logit": -2.9578046798706055, 
+            "end_logit": -1.531076192855835
+        }, 
+        {
+            "text": "(DNM), none of which are within the\u2009&gt;80", 
+            "probability": 0.006558441100184797, 
+            "start_logit": -1.6102138757705688, 
+            "end_logit": -3.2019853591918945
+        }, 
+        {
+            "text": "(DNM), none of which are within the\u2009&gt;80 SLE", 
+            "probability": 0.00647904012647168, 
+            "start_logit": -1.6102138757705688, 
+            "end_logit": -3.2141659259796143
+        }, 
+        {
+            "text": "the\u2009&gt;80 SLE susceptibility loci", 
+            "probability": 0.006051765734749196, 
+            "start_logit": -3.66273832321167, 
+            "end_logit": -1.2298637628555298
+        }
+    ]
+}

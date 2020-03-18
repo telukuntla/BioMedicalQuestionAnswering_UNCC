@@ -1,0 +1,178 @@
+{
+    "version": "BioASQ6b",
+    "data": [
+        {
+            "title": "BioASQ6b",
+            "paragraphs": [
+                {
+                    "context": "We conclude that lactotransferrin represents a late stage differentiation marker of neutrophils, macrophages and distinct subtypes of dendritic cells.",
+                    "qas": [
+                        {
+                            "question": "Which cells secrete lactotransferrin?",
+                            "id": "5c8c095e0101eac870000002",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Patient phenotypes in pharmacological pain treatment varies between individuals, which could be partly assigned to their genotypes regarding the targets of classical analgesics (OPRM1, PTGS2) Morphine is the current gold standard analgesic acting at MOP receptors but produces a range of variably troublesome side-effects, in particular tolerance.",
+                    "qas": [
+                        {
+                            "question": "List targets of classical analgesics.",
+                            "id": "5c9d18f1ecadf2e73f000033",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "o assess clinical outcomes including imaging findings on computed tomography (CT), pulmonary function testing (PFT), and glucocorticoid (GC) use in patients with the antisynthetase syndrome (AS) and interstitial lung disease (ILD) treated with rituximab (RTX). RIX is the preferred off-label biologic drug for poly- and dermatomyositis in Germany.Rituximab (RTX) may be a treatment option for children and young people with JIA, although it is not licensed for this indication rituximab in children and young people with juvenile idiopathic arthritischronic lymphocytic leukemia (CLL) patients, including the Bruton's tyrosine kinase (BTK) inhibitor ibrutinib, phosphatidylinositol-3-kinase (PI3K) delta isoform inhibitor idelalisib combined with rituximabrituximab's efficacy has been well-documented in adults with refractory PFRituximab in the management of juvenile pemphigus foliaceus",
+                    "qas": [
+                        {
+                            "question": "List 3 indications for rituximab.",
+                            "id": "5c961281ecadf2e73f000021",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Analysis of the data of the GRAID-2 registry for poly- and dermatomyositis.RESULTS: In 22\u00a0of the 23\u00a0patients in the GRAID-2 registry, rituximab (RIX) was administered, while 1\u00a0patient was given tocilizumab as off-label therapyOff-label use of rituximab to treat MS patients in Sweden is highOff-label use of rituximab in autoimmune disease in the Top End of the Northern Territory, 2008-2016.immune thrombocytopenia who do not adequately respond to first-line therapy, there is no clear consensus on which second-line therapy to initiate and when. This situation leads to suboptimal approaches, including prolonged exposure to treatments that are not intended for long-term use (eg, corticosteroids) and overuse of off-label therapies (eg, rituximab) Conventional treatment of systemic lupus erythematosus (SLE) and lupus nephritis (LN) is associated with damage accrual, hence increased morbidity rate. Off-label use of rituximab (RTX) has shown significant promise in this patient group; however, data are still controversial.Outcomes of rituximab therapy in refractory lupus: A meta-analysis.",
+                    "qas": [
+                        {
+                            "question": "List off label uses for Rituximab.",
+                            "id": "5c961603ecadf2e73f000022",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "It is used in traditional medicine as a loosening agent in bronchitis and bronchial asthma; against the common cold and lung emphysema; in the treatment of inflammation, gastrointestinal disorders and coughs; and as an active constituent of dietary supplements for the prevention of anemia.A broad range of activities of plant extracts and fractions as antimicrobial, anti-inflammatory, cytotoxic, antioxidant, gastroprotective, antiglioma, and triple monoamine reuptake inhibition as well as cultivation of the species as an approach for conservation of the natural habitats and provision of herb with high and permanent quality has also been presented.",
+                    "qas": [
+                        {
+                            "question": "Name the uses of Sideritis scardica in traditional medicine.",
+                            "id": "5c890ff475a4a5d219000010",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Human toxocariasis, a worldwide parasitic disease, is caused by the larval stage of intestinal nematodes of dogs and cats, namely Toxocara canis and Toxocara cati",
+                    "qas": [
+                        {
+                            "question": "What are 2 organisms that can cause Human toxocariasis?",
+                            "id": "5c979ffcecadf2e73f000028",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Somatostatin (SST) is a neuromodulator which is abundant throughout the central nervous system (CNS)Somatostatin (SST) is abundantly produced by the human retina, and the main source is the retinal pigment epithelium (RPE).Somatostatin (Som), one of the most concentrated neuropeptides in the brain, is highly expressed in the olfactory bulb (OB)The production of somatostatin interneurons in the olfactory bulb is regulated by the transcription factor sp8Somatostatin expression in human hair follicles and its potential role in immune privilegeThe kinetics of insulin, glucagon and somatostatin release was studied in human pancreatic islets.Glucose generates coincident insulin and somatostatin pulses and antisynchronous glucagon pulses from human pancreatic islets.",
+                    "qas": [
+                        {
+                            "question": "List places in the body where somatostatin is produced.",
+                            "id": "5c97f579ecadf2e73f00002a",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "This is a descriptive cross-sectional study of a convenience sample of 67 donated colostrum samples at different days after delivery, both raw and pasteurized. Antibody profiles were analyzed at different times during breastfeeding, and total and specific antibodies (IgM, IgA, and IgG subclasses)",
+                    "qas": [
+                        {
+                            "question": "What are the 3 types of immunoglobulin heavy chain containing antibodies found in human breast milk?",
+                            "id": "5c9f79c3ecadf2e73f00003d",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "the five key questions of human performance modeling: 1) Why we build models of human performance; 2) What the expectations of a good human performance model are; 3) What the procedures and requirements in building and verifying a human performance model are; 4) How we integrate a human performance model with system design; and 5) What the possible future directions of human performance modeling research are. ",
+                    "qas": [
+                        {
+                            "question": "What are 5 key questions in human performance modeling?",
+                            "id": "5c9fb583ecadf2e73f000042",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "ezrin/radixin/moesin (ERM) proteinsezrin, radixin and moesin (ERM proteins)Ezrin/radixin/moesin (ERM) proteins",
+                    "qas": [
+                        {
+                            "question": "List the ERM proteins.",
+                            "id": "5ca64b5becadf2e73f000051",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Cofilin-2 (Cfl2) was identified as one of the potential targets of miR-301a using prediction databases, which we validated by luciferase assay and mutation of predicted binding sites.Cofilin weakly interacts with 14-3-3 and therefore can only indirectly participate in regulation of cell motility by small heat shock protein HspB6 (Hsp20).In contrast to other isoforms, cofilin-2 efficiently binds and disassembles both ADP- and ATP/ADP-Pi-actin filaments. We mapped surface-exposed cofilin-2-specific residues required for ATP-actin binding and propose that these residues function as an \"actin nucleotide-state sensor\" among ADF/cofilins.",
+                    "qas": [
+                        {
+                            "question": "Name three binding partners of cofilin 2.",
+                            "id": "5c9007460101eac870000012",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": " The RING domain of RING1 was required for its E3 Ub ligase activity. The TRIM proteins are classically characterized by the presence of an amino-terminal RING domain and a B-box domain followed by a coiled coil domainthe detailed mechanism by which the TRAF6 RING dimer promotes ubiquitin transfer was unknown. RING ubiquitin E3 ligases enclose a RING domain for ubiquitin ligase activity UHRF1 RING domain MARCH7, a RING domain-containing ubiquitin E3 ligase,Seven in absentia (SINA) protein is one subgroup of ubiquitin ligases possessing an N-terminal cysteine-rich really interesting new gene (RING) domain,The BRCA1 RING domain is a ubiquitin ligase",
+                    "qas": [
+                        {
+                            "question": "List proteins with RING domain.",
+                            "id": "5c990afbecadf2e73f000030",
+                            "answers": [
+                                {
+                                    "answer_start": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

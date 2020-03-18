@@ -1,0 +1,4272 @@
+{
+    "5c890ad575a4a5d21900000d": [
+        {
+            "text": "Olive", 
+            "probability": 0.6826768567039574, 
+            "start_logit": -0.17790351808071136, 
+            "end_logit": -0.6077017188072205
+        }, 
+        {
+            "text": "Olive leaves", 
+            "probability": 0.2826190943917789, 
+            "start_logit": -0.17790351808071136, 
+            "end_logit": -1.4896233081817627
+        }, 
+        {
+            "text": "leaves", 
+            "probability": 0.012515318934061067, 
+            "start_logit": -3.2950501441955566, 
+            "end_logit": -1.4896233081817627
+        }, 
+        {
+            "text": "olive leaf extract", 
+            "probability": 0.010739635317961323, 
+            "start_logit": -2.323941230773926, 
+            "end_logit": -2.6137444972991943
+        }, 
+        {
+            "text": "olive leaf extract (OLE", 
+            "probability": 0.004269260053542123, 
+            "start_logit": -2.323941230773926, 
+            "end_logit": -3.536245107650757
+        }, 
+        {
+            "text": "OLE", 
+            "probability": 0.002536154587787064, 
+            "start_logit": -3.256782054901123, 
+            "end_logit": -3.1241958141326904
+        }, 
+        {
+            "text": "olive", 
+            "probability": 0.0013900582504205697, 
+            "start_logit": -2.323941230773926, 
+            "end_logit": -4.658339977264404
+        }, 
+        {
+            "text": "olive leaf", 
+            "probability": 0.0011517994098315257, 
+            "start_logit": -2.323941230773926, 
+            "end_logit": -4.846360206604004
+        }, 
+        {
+            "text": "olive leaf extract (OLE)", 
+            "probability": 0.0008577325538428086, 
+            "start_logit": -2.323941230773926, 
+            "end_logit": -5.141148567199707
+        }, 
+        {
+            "text": "OLE)", 
+            "probability": 0.00042475987798662424, 
+            "start_logit": -3.02670955657959, 
+            "end_logit": -5.141148567199707
+        }, 
+        {
+            "text": "extract", 
+            "probability": 0.00018890773355760657, 
+            "start_logit": -6.364378929138184, 
+            "end_logit": -2.6137444972991943
+        }, 
+        {
+            "text": "OLE) is considered as a natural supplement. In this study we evaluated the antibacterial and the anti-inflammatory effect of OLE", 
+            "probability": 0.00014303533594875754, 
+            "start_logit": -3.02670955657959, 
+            "end_logit": -6.229580879211426
+        }, 
+        {
+            "text": "leaf extract", 
+            "probability": 0.00013567368986959946, 
+            "start_logit": -6.695384979248047, 
+            "end_logit": -2.6137444972991943
+        }, 
+        {
+            "text": "O", 
+            "probability": 0.00011535741727565283, 
+            "start_logit": -3.256782054901123, 
+            "end_logit": -6.214564800262451
+        }, 
+        {
+            "text": "extract (OLE", 
+            "probability": 7.50953097386703e-05, 
+            "start_logit": -6.364378929138184, 
+            "end_logit": -3.536245107650757
+        }, 
+        {
+            "text": "leaf extract (OLE", 
+            "probability": 5.39335133203477e-05, 
+            "start_logit": -6.695384979248047, 
+            "end_logit": -3.536245107650757
+        }, 
+        {
+            "text": "polyphenol-rich extract has an anti-inflammatory effect, and oleuropein is the major OLE", 
+            "probability": 3.491507781419892e-05, 
+            "start_logit": -5.814115524291992, 
+            "end_logit": -4.8523478507995605
+        }, 
+        {
+            "text": "oleuropein is the major OLE", 
+            "probability": 3.408693951809493e-05, 
+            "start_logit": -5.838119983673096, 
+            "end_logit": -4.8523478507995605
+        }, 
+        {
+            "text": "OLE. Oleuropein is the only OLE", 
+            "probability": 2.323758197168948e-05, 
+            "start_logit": -5.5130791664123535, 
+            "end_logit": -5.560532093048096
+        }, 
+        {
+            "text": "extract (OLE)", 
+            "probability": 1.5087319815602533e-05, 
+            "start_logit": -6.364378929138184, 
+            "end_logit": -5.141148567199707
+        }
+    ], 
+    "5ca0bf00ecadf2e73f000045": [
+        {
+            "text": "Eosinophilic", 
+            "probability": 0.991700440030756, 
+            "start_logit": 8.448379516601562, 
+            "end_logit": 8.747054100036621
+        }, 
+        {
+            "text": "Eosinophilic asthma", 
+            "probability": 0.007983703987065648, 
+            "start_logit": 8.448379516601562, 
+            "end_logit": 3.9250354766845703
+        }, 
+        {
+            "text": "severe", 
+            "probability": 0.00021460333167486856, 
+            "start_logit": 4.668944835662842, 
+            "end_logit": 4.088103771209717
+        }, 
+        {
+            "text": "eosinophilic", 
+            "probability": 5.2233697310813596e-05, 
+            "start_logit": 3.743596076965332, 
+            "end_logit": 3.600389003753662
+        }, 
+        {
+            "text": "E", 
+            "probability": 3.1205071191636926e-05, 
+            "start_logit": 8.448379516601562, 
+            "end_logit": -1.6195416450500488
+        }, 
+        {
+            "text": "lic", 
+            "probability": 9.59425459997182e-06, 
+            "start_logit": -3.09763240814209, 
+            "end_logit": 8.747054100036621
+        }, 
+        {
+            "text": "Eosinophilic asthma is characterized by the eosinophilic inflammation", 
+            "probability": 2.270183601936862e-06, 
+            "start_logit": 8.448379516601562, 
+            "end_logit": -4.240261554718018
+        }, 
+        {
+            "text": "difficult to treat eosinophilic", 
+            "probability": 1.5321341136634327e-06, 
+            "start_logit": 0.2145298570394516, 
+            "end_logit": 3.600389003753662
+        }, 
+        {
+            "text": "Eosinophilic asthma is characterized by the eosinophilic", 
+            "probability": 1.073963053464627e-06, 
+            "start_logit": 8.448379516601562, 
+            "end_logit": -4.988766670227051
+        }, 
+        {
+            "text": "osinophilic", 
+            "probability": 1.0137674678973327e-06, 
+            "start_logit": -5.345123291015625, 
+            "end_logit": 8.747054100036621
+        }, 
+        {
+            "text": "Eosinophi", 
+            "probability": 9.875113699669452e-07, 
+            "start_logit": 8.448379516601562, 
+            "end_logit": -5.072689533233643
+        }, 
+        {
+            "text": "Eosinophilic as", 
+            "probability": 4.490520429323823e-07, 
+            "start_logit": 8.448379516601562, 
+            "end_logit": -5.860738754272461
+        }, 
+        {
+            "text": "eosinophilic asthma", 
+            "probability": 3.489941813095555e-07, 
+            "start_logit": 3.743596076965332, 
+            "end_logit": -1.408038854598999
+        }, 
+        {
+            "text": "inophilic", 
+            "probability": 2.176990359914953e-07, 
+            "start_logit": -6.883438587188721, 
+            "end_logit": 8.747054100036621
+        }, 
+        {
+            "text": "severe asthma", 
+            "probability": 1.370461276393456e-07, 
+            "start_logit": 3.779703378677368, 
+            "end_logit": -2.3788838386535645
+        }, 
+        {
+            "text": "lic asthma", 
+            "probability": 7.723873622597405e-08, 
+            "start_logit": -3.09763240814209, 
+            "end_logit": 3.9250354766845703
+        }, 
+        {
+            "text": "severe asthma.", 
+            "probability": 4.123286267110358e-08, 
+            "start_logit": 4.668944835662842, 
+            "end_logit": -4.469207286834717
+        }, 
+        {
+            "text": "e", 
+            "probability": 2.7368536169246387e-08, 
+            "start_logit": 4.011402130126953, 
+            "end_logit": -4.221506118774414
+        }, 
+        {
+            "text": "eosinophilic asthma.", 
+            "probability": 2.6062070936881257e-08, 
+            "start_logit": 3.743596076965332, 
+            "end_logit": -4.002613067626953
+        }, 
+        {
+            "text": "asthma", 
+            "probability": 1.737419998963201e-08, 
+            "start_logit": -4.589547157287598, 
+            "end_logit": 3.9250354766845703
+        }
+    ], 
+    "5c92869aecadf2e73f000015": [
+        {
+            "text": "harmonizing the osteogenic differentiation", 
+            "probability": 0.62775590681087, 
+            "start_logit": 4.579290866851807, 
+            "end_logit": 3.780280590057373
+        }, 
+        {
+            "text": "harmonizing the osteogenic differentiation of human mesenchymal stem cells", 
+            "probability": 0.32856707892757925, 
+            "start_logit": 4.579290866851807, 
+            "end_logit": 3.1328701972961426
+        }, 
+        {
+            "text": "harmonizing", 
+            "probability": 0.017836062257448392, 
+            "start_logit": 4.579290866851807, 
+            "end_logit": 0.21935155987739563
+        }, 
+        {
+            "text": "osteogenic differentiation", 
+            "probability": 0.009577331526166539, 
+            "start_logit": 0.39653846621513367, 
+            "end_logit": 3.780280590057373
+        }, 
+        {
+            "text": "osteogenic differentiation of human mesenchymal stem cells", 
+            "probability": 0.0050127697873205675, 
+            "start_logit": 0.39653846621513367, 
+            "end_logit": 3.1328701972961426
+        }, 
+        {
+            "text": "harmonizing the osteogenic differentiation of human mesenchymal stem cells.", 
+            "probability": 0.0032434888326946837, 
+            "start_logit": 4.579290866851807, 
+            "end_logit": -1.485221266746521
+        }, 
+        {
+            "text": "magnesium transporter MagT1 have a role in harmonizing the osteogenic differentiation", 
+            "probability": 0.0020338329688283393, 
+            "start_logit": -1.1529383659362793, 
+            "end_logit": 3.780280590057373
+        }, 
+        {
+            "text": "magnesium transporter MagT1 have a role in harmonizing the osteogenic differentiation of human mesenchymal stem cells", 
+            "probability": 0.0010645070008012908, 
+            "start_logit": -1.1529383659362793, 
+            "end_logit": 3.1328701972961426
+        }, 
+        {
+            "text": "have a role in harmonizing the osteogenic differentiation", 
+            "probability": 0.0010604375303766911, 
+            "start_logit": -1.8041789531707764, 
+            "end_logit": 3.780280590057373
+        }, 
+        {
+            "text": "a role in harmonizing the osteogenic differentiation", 
+            "probability": 0.0010528820102832731, 
+            "start_logit": -1.8113293647766113, 
+            "end_logit": 3.780280590057373
+        }, 
+        {
+            "text": "harmonizing the osteogenic", 
+            "probability": 0.0006357113327048941, 
+            "start_logit": 4.579290866851807, 
+            "end_logit": -3.1148815155029297
+        }, 
+        {
+            "text": "have a role in harmonizing the osteogenic differentiation of human mesenchymal stem cells", 
+            "probability": 0.0005550323907123646, 
+            "start_logit": -1.8041789531707764, 
+            "end_logit": 3.1328701972961426
+        }, 
+        {
+            "text": "a role in harmonizing the osteogenic differentiation of human mesenchymal stem cells", 
+            "probability": 0.0005510778358608069, 
+            "start_logit": -1.8113293647766113, 
+            "end_logit": 3.1328701972961426
+        }, 
+        {
+            "text": "role in harmonizing the osteogenic differentiation", 
+            "probability": 0.00025581379325410013, 
+            "start_logit": -3.226166009902954, 
+            "end_logit": 3.780280590057373
+        }, 
+        {
+            "text": "the magnesium transporter MagT1 have a role in harmonizing the osteogenic differentiation", 
+            "probability": 0.00017848307586423707, 
+            "start_logit": -3.5861220359802246, 
+            "end_logit": 3.780280590057373
+        }, 
+        {
+            "text": "harm", 
+            "probability": 0.00015245595548379713, 
+            "start_logit": 4.579290866851807, 
+            "end_logit": -4.542750358581543
+        }, 
+        {
+            "text": "role in harmonizing the osteogenic differentiation of human mesenchymal stem cells", 
+            "probability": 0.00013389279158819052, 
+            "start_logit": -3.226166009902954, 
+            "end_logit": 3.1328701972961426
+        }, 
+        {
+            "text": "MagT1 have a role in harmonizing the osteogenic differentiation", 
+            "probability": 0.00013177810603022435, 
+            "start_logit": -3.889496326446533, 
+            "end_logit": 3.780280590057373
+        }, 
+        {
+            "text": "in harmonizing the osteogenic differentiation", 
+            "probability": 0.00010803912734673281, 
+            "start_logit": -4.088122367858887, 
+            "end_logit": 3.780280590057373
+        }, 
+        {
+            "text": "the magnesium transporter MagT1 have a role in harmonizing the osteogenic differentiation of human mesenchymal stem cells", 
+            "probability": 9.341793878554463e-05, 
+            "start_logit": -3.5861220359802246, 
+            "end_logit": 3.1328701972961426
+        }
+    ], 
+    "5c990241ecadf2e73f00002d": [
+        {
+            "text": "regulates gene expression by acetylating chromatin", 
+            "probability": 0.6499151570543406, 
+            "start_logit": 4.840566635131836, 
+            "end_logit": 5.89486026763916
+        }, 
+        {
+            "text": "regulates gene expression", 
+            "probability": 0.2322260772144193, 
+            "start_logit": 4.840566635131836, 
+            "end_logit": 4.865729808807373
+        }, 
+        {
+            "text": "by acetylating chromatin", 
+            "probability": 0.051584622526232436, 
+            "start_logit": 2.30694842338562, 
+            "end_logit": 5.89486026763916
+        }, 
+        {
+            "text": "regulates gene expression by acetylating chromatin.", 
+            "probability": 0.030935973984008384, 
+            "start_logit": 4.840566635131836, 
+            "end_logit": 2.849938154220581
+        }, 
+        {
+            "text": "plays an essential role in the pathogenesis of cardiomyocyte hypertrophy", 
+            "probability": 0.006155567540823153, 
+            "start_logit": 4.0087738037109375, 
+            "end_logit": 2.0671682357788086
+        }, 
+        {
+            "text": "acetylating chromatin", 
+            "probability": 0.005474240188647211, 
+            "start_logit": 0.06377829611301422, 
+            "end_logit": 5.89486026763916
+        }, 
+        {
+            "text": "recruited to transcriptional enhancers and regulates gene expression by acetylating chromatin", 
+            "probability": 0.00406056622797065, 
+            "start_logit": -0.23495276272296906, 
+            "end_logit": 5.89486026763916
+        }, 
+        {
+            "text": "plays an essential role in the pathogenesis of cardiomyocyte hypertrophy in response to multiple pro-hypertrophic stimuli", 
+            "probability": 0.0030471313633695847, 
+            "start_logit": 4.0087738037109375, 
+            "end_logit": 1.3640118837356567
+        }, 
+        {
+            "text": "s gene expression by acetylating chromatin", 
+            "probability": 0.003016227043732219, 
+            "start_logit": -0.5322684645652771, 
+            "end_logit": 5.89486026763916
+        }, 
+        {
+            "text": "regulates", 
+            "probability": 0.002502540268468941, 
+            "start_logit": 4.840566635131836, 
+            "end_logit": 0.335324764251709
+        }, 
+        {
+            "text": "by acetylating chromatin.", 
+            "probability": 0.00245542902504271, 
+            "start_logit": 2.30694842338562, 
+            "end_logit": 2.849938154220581
+        }, 
+        {
+            "text": "typically recruited to transcriptional enhancers and regulates gene expression by acetylating chromatin", 
+            "probability": 0.0020493538490891933, 
+            "start_logit": -0.9187506437301636, 
+            "end_logit": 5.89486026763916
+        }, 
+        {
+            "text": "recruited to transcriptional enhancers and regulates gene expression", 
+            "probability": 0.0014509114861466941, 
+            "start_logit": -0.23495276272296906, 
+            "end_logit": 4.865729808807373
+        }, 
+        {
+            "text": "s gene expression", 
+            "probability": 0.0010777507906242173, 
+            "start_logit": -0.5322684645652771, 
+            "end_logit": 4.865729808807373
+        }, 
+        {
+            "text": "regulates gene expression by acetylating", 
+            "probability": 0.0009740052185701443, 
+            "start_logit": 4.840566635131836, 
+            "end_logit": -0.6083201766014099
+        }, 
+        {
+            "text": "essential role in the pathogenesis of cardiomyocyte hypertrophy", 
+            "probability": 0.0007609833892300496, 
+            "start_logit": 1.9182730913162231, 
+            "end_logit": 2.0671682357788086
+        }, 
+        {
+            "text": "typically recruited to transcriptional enhancers and regulates gene expression", 
+            "probability": 0.0007322700509944601, 
+            "start_logit": -0.9187506437301636, 
+            "end_logit": 4.865729808807373
+        }, 
+        {
+            "text": "plays an essential role", 
+            "probability": 0.0006924068386023414, 
+            "start_logit": 4.0087738037109375, 
+            "end_logit": -0.11777030676603317
+        }, 
+        {
+            "text": "plays an essential role in the pathogenesis", 
+            "probability": 0.00051208365562589, 
+            "start_logit": 4.0087738037109375, 
+            "end_logit": -0.41945600509643555
+        }, 
+        {
+            "text": "essential role in the pathogenesis of cardiomyocyte hypertrophy in response to multiple pro-hypertrophic stimuli", 
+            "probability": 0.000376702284062029, 
+            "start_logit": 1.9182730913162231, 
+            "end_logit": 1.3640118837356567
+        }
+    ], 
+    "5c890e6d75a4a5d21900000f": [
+        {
+            "text": "Griseb", 
+            "probability": 0.27888273509298617, 
+            "start_logit": 6.067326545715332, 
+            "end_logit": 5.002008438110352
+        }, 
+        {
+            "text": "Griseb. (ironwort, mountain tea", 
+            "probability": 0.22831271348390753, 
+            "start_logit": 6.067326545715332, 
+            "end_logit": 4.801933288574219
+        }, 
+        {
+            "text": "Griseb.", 
+            "probability": 0.18176586692610505, 
+            "start_logit": 6.067326545715332, 
+            "end_logit": 4.573936462402344
+        }, 
+        {
+            "text": "ironwort, mountain tea", 
+            "probability": 0.1407480118460581, 
+            "start_logit": 5.583581447601318, 
+            "end_logit": 4.801933288574219
+        }, 
+        {
+            "text": "Griseb. (ironwort", 
+            "probability": 0.07566773475850211, 
+            "start_logit": 6.067326545715332, 
+            "end_logit": 3.697568893432617
+        }, 
+        {
+            "text": "ironwort", 
+            "probability": 0.046646912761188396, 
+            "start_logit": 5.583581447601318, 
+            "end_logit": 3.697568893432617
+        }, 
+        {
+            "text": "mountain tea", 
+            "probability": 0.028248492627987166, 
+            "start_logit": 3.9776504039764404, 
+            "end_logit": 4.801933288574219
+        }, 
+        {
+            "text": "Griseb. (ironwort, mountain tea)", 
+            "probability": 0.009073351041063573, 
+            "start_logit": 6.067326545715332, 
+            "end_logit": 1.5765587091445923
+        }, 
+        {
+            "text": "ironwort, mountain tea)", 
+            "probability": 0.005593451631860491, 
+            "start_logit": 5.583581447601318, 
+            "end_logit": 1.5765587091445923
+        }, 
+        {
+            "text": "(ironwort, mountain tea", 
+            "probability": 0.0011772407360324435, 
+            "start_logit": 0.7997836470603943, 
+            "end_logit": 4.801933288574219
+        }, 
+        {
+            "text": "mountain tea)", 
+            "probability": 0.0011226203135319037, 
+            "start_logit": 3.9776504039764404, 
+            "end_logit": 1.5765587091445923
+        }, 
+        {
+            "text": "Sideritis scardica Griseb", 
+            "probability": 0.0006163567067707227, 
+            "start_logit": -0.04739425703883171, 
+            "end_logit": 5.002008438110352
+        }, 
+        {
+            "text": "Sideritis scardica Griseb. (ironwort, mountain tea", 
+            "probability": 0.0005045922693992108, 
+            "start_logit": -0.04739425703883171, 
+            "end_logit": 4.801933288574219
+        }, 
+        {
+            "text": "Sideritis scardica Griseb.", 
+            "probability": 0.00040171942198051507, 
+            "start_logit": -0.04739425703883171, 
+            "end_logit": 4.573936462402344
+        }, 
+        {
+            "text": "(ironwort", 
+            "probability": 0.0003901628534027537, 
+            "start_logit": 0.7997836470603943, 
+            "end_logit": 3.697568893432617
+        }, 
+        {
+            "text": "Griseb. (iron", 
+            "probability": 0.00022659018103189573, 
+            "start_logit": 6.067326545715332, 
+            "end_logit": -2.1133952140808105
+        }, 
+        {
+            "text": "Griseb. (ironwort, mountain tea), an endemic plant of the Balkan Peninsula", 
+            "probability": 0.00019457735255559358, 
+            "start_logit": 6.067326545715332, 
+            "end_logit": -2.2657084465026855
+        }, 
+        {
+            "text": "Sideritis scardica Griseb. (ironwort", 
+            "probability": 0.0001672327108703971, 
+            "start_logit": -0.04739425703883171, 
+            "end_logit": 3.697568893432617
+        }, 
+        {
+            "text": "iron", 
+            "probability": 0.00013968612171185815, 
+            "start_logit": 5.583581447601318, 
+            "end_logit": -2.1133952140808105
+        }, 
+        {
+            "text": "ironwort, mountain tea), an endemic plant of the Balkan Peninsula", 
+            "probability": 0.00011995116305426249, 
+            "start_logit": 5.583581447601318, 
+            "end_logit": -2.2657084465026855
+        }
+    ], 
+    "5c9904eaecadf2e73f00002e": [
+        {
+            "text": "toad venom", 
+            "probability": 0.9889739567331345, 
+            "start_logit": 10.478422164916992, 
+            "end_logit": 11.520369529724121
+        }, 
+        {
+            "text": "from toad venom", 
+            "probability": 0.00804355264061569, 
+            "start_logit": 5.666625022888184, 
+            "end_logit": 11.520369529724121
+        }, 
+        {
+            "text": "venom", 
+            "probability": 0.0025905655333575174, 
+            "start_logit": 4.53363037109375, 
+            "end_logit": 11.520369529724121
+        }, 
+        {
+            "text": "toad venom,", 
+            "probability": 0.0003265091765094632, 
+            "start_logit": 10.478422164916992, 
+            "end_logit": 3.504404306411743
+        }, 
+        {
+            "text": "ad venom", 
+            "probability": 2.1091475601032893e-05, 
+            "start_logit": -0.27713215351104736, 
+            "end_logit": 11.520369529724121
+        }, 
+        {
+            "text": "gamabufotalin (GBT) was isolated from toad venom", 
+            "probability": 1.136958519701121e-05, 
+            "start_logit": -0.8950592875480652, 
+            "end_logit": 11.520369529724121
+        }, 
+        {
+            "text": "isolated from toad venom", 
+            "probability": 8.995739378175678e-06, 
+            "start_logit": -1.1292500495910645, 
+            "end_logit": 11.520369529724121
+        }, 
+        {
+            "text": "toad", 
+            "probability": 6.446869062814061e-06, 
+            "start_logit": 10.478422164916992, 
+            "end_logit": -0.42045915126800537
+        }, 
+        {
+            "text": "to", 
+            "probability": 3.3756663227839474e-06, 
+            "start_logit": 10.478422164916992, 
+            "end_logit": -1.0674610137939453
+        }, 
+        {
+            "text": "from toad venom,", 
+            "probability": 2.6555742252034133e-06, 
+            "start_logit": 5.666625022888184, 
+            "end_logit": 3.504404306411743
+        }, 
+        {
+            "text": "boreas", 
+            "probability": 1.939521230223444e-06, 
+            "start_logit": -0.23247341811656952, 
+            "end_logit": 9.089282989501953
+        }, 
+        {
+            "text": "toad venom, and", 
+            "probability": 1.6134137137441343e-06, 
+            "start_logit": 10.478422164916992, 
+            "end_logit": -1.805701494216919
+        }, 
+        {
+            "text": "the boreal toad, Anaxyrus boreas", 
+            "probability": 1.5304267089099894e-06, 
+            "start_logit": 3.4314217567443848, 
+            "end_logit": 5.188493251800537
+        }, 
+        {
+            "text": "Anaxyrus boreas", 
+            "probability": 1.3209771871710878e-06, 
+            "start_logit": 3.2842469215393066, 
+            "end_logit": 5.188493251800537
+        }, 
+        {
+            "text": "In the current study, gamabufotalin (GBT) was isolated from toad venom", 
+            "probability": 1.2772339979854405e-06, 
+            "start_logit": -3.0813043117523193, 
+            "end_logit": 11.520369529724121
+        }, 
+        {
+            "text": "boreal toad, Anaxyrus boreas", 
+            "probability": 1.0860040305005885e-06, 
+            "start_logit": 3.0883800983428955, 
+            "end_logit": 5.188493251800537
+        }, 
+        {
+            "text": "GBT) was isolated from toad venom", 
+            "probability": 9.67224610465129e-07, 
+            "start_logit": -3.359325647354126, 
+            "end_logit": 11.520369529724121
+        }, 
+        {
+            "text": "venom,", 
+            "probability": 8.552737038540687e-07, 
+            "start_logit": 4.53363037109375, 
+            "end_logit": 3.504404306411743
+        }, 
+        {
+            "text": "toad venom, and its tumor-specific cytotoxicity was investigated in human MM cells.", 
+            "probability": 5.9363245111501e-07, 
+            "start_logit": 10.478422164916992, 
+            "end_logit": -2.805548667907715
+        }, 
+        {
+            "text": "rus boreas", 
+            "probability": 2.972989616060052e-07, 
+            "start_logit": -2.107931613922119, 
+            "end_logit": 9.089282989501953
+        }
+    ], 
+    "5c9a6693ecadf2e73f000031": [
+        {
+            "text": "a relict mitochondrion with a greatly reduced metabolic capability", 
+            "probability": 0.37310330256817187, 
+            "start_logit": 5.244426250457764, 
+            "end_logit": 4.7421040534973145
+        }, 
+        {
+            "text": "a relict mitochondrion with a greatly reduced metabolic capability. This mitosome houses a mitochondrial-type protein import apparatus", 
+            "probability": 0.3000997130152837, 
+            "start_logit": 5.244426250457764, 
+            "end_logit": 4.5243635177612305
+        }, 
+        {
+            "text": "simplest forms of mitochondria", 
+            "probability": 0.10405325410368085, 
+            "start_logit": 3.9591948986053467, 
+            "end_logit": 4.750382900238037
+        }, 
+        {
+            "text": "houses a mitochondrial-type protein import apparatus", 
+            "probability": 0.05847684219617041, 
+            "start_logit": 2.158330202102661, 
+            "end_logit": 5.9749755859375
+        }, 
+        {
+            "text": "mitochondrion-related organelle", 
+            "probability": 0.03282539570347151, 
+            "start_logit": 2.4685003757476807, 
+            "end_logit": 5.087377071380615
+        }, 
+        {
+            "text": "highly divergent mitochondrion-related organelle", 
+            "probability": 0.023034806623036506, 
+            "start_logit": 2.114304304122925, 
+            "end_logit": 5.087377071380615
+        }, 
+        {
+            "text": "a relict mitochondrion with a greatly reduced metabolic capability.", 
+            "probability": 0.021885996904679617, 
+            "start_logit": 5.244426250457764, 
+            "end_logit": 1.9060957431793213
+        }, 
+        {
+            "text": "the simplest forms of mitochondria", 
+            "probability": 0.015037535998005823, 
+            "start_logit": 2.024841547012329, 
+            "end_logit": 4.750382900238037
+        }, 
+        {
+            "text": "a mitochondrial-type protein import apparatus", 
+            "probability": 0.013844114409072721, 
+            "start_logit": 0.7175595760345459, 
+            "end_logit": 5.9749755859375
+        }, 
+        {
+            "text": "the highly divergent mitochondrion-related organelle", 
+            "probability": 0.010607671993066498, 
+            "start_logit": 1.338875412940979, 
+            "end_logit": 5.087377071380615
+        }, 
+        {
+            "text": "organelle", 
+            "probability": 0.010549321860333121, 
+            "start_logit": 1.3333594799041748, 
+            "end_logit": 5.087377071380615
+        }, 
+        {
+            "text": "mitochondrial-type protein import apparatus", 
+            "probability": 0.008964295005738815, 
+            "start_logit": 0.2829488515853882, 
+            "end_logit": 5.9749755859375
+        }, 
+        {
+            "text": "This mitosome houses a mitochondrial-type protein import apparatus", 
+            "probability": 0.008909654458435409, 
+            "start_logit": 1.7274469137191772, 
+            "end_logit": 4.5243635177612305
+        }, 
+        {
+            "text": "a relict mitochondrion", 
+            "probability": 0.003733668112367115, 
+            "start_logit": 5.244426250457764, 
+            "end_logit": 0.1376398801803589
+        }, 
+        {
+            "text": "protein import apparatus", 
+            "probability": 0.00344098828833861, 
+            "start_logit": -0.6745418906211853, 
+            "end_logit": 5.9749755859375
+        }, 
+        {
+            "text": "a relict mitochondrion with a greatly reduced metabolic capability. This mitosome houses a mitochondrial-type protein import apparatus,", 
+            "probability": 0.0029843171733528037, 
+            "start_logit": 5.244426250457764, 
+            "end_logit": -0.08638031035661697
+        }, 
+        {
+            "text": "forms of mitochondria", 
+            "probability": 0.002650571681370696, 
+            "start_logit": 0.28906741738319397, 
+            "end_logit": 4.750382900238037
+        }, 
+        {
+            "text": "mitochondrion with a greatly reduced metabolic capability", 
+            "probability": 0.002347171537022895, 
+            "start_logit": 0.17578192055225372, 
+            "end_logit": 4.7421040534973145
+        }, 
+        {
+            "text": "mitochondrion with a greatly reduced metabolic capability. This mitosome houses a mitochondrial-type protein import apparatus", 
+            "probability": 0.0018879101305449065, 
+            "start_logit": 0.17578192055225372, 
+            "end_logit": 4.5243635177612305
+        }, 
+        {
+            "text": "relict mitochondrion with a greatly reduced metabolic capability", 
+            "probability": 0.0015634682378561542, 
+            "start_logit": -0.2305224984884262, 
+            "end_logit": 4.7421040534973145
+        }
+    ], 
+    "5c897082d558e5f232000004": [
+        {
+            "text": "US$475,000", 
+            "probability": 0.7858653053379155, 
+            "start_logit": 8.144857406616211, 
+            "end_logit": 8.753411293029785
+        }, 
+        {
+            "text": "$475,000", 
+            "probability": 0.21284159204857356, 
+            "start_logit": 6.838620185852051, 
+            "end_logit": 8.753411293029785
+        }, 
+        {
+            "text": "US$475", 
+            "probability": 0.00041894522595858577, 
+            "start_logit": 8.144857406616211, 
+            "end_logit": 1.2166107892990112
+        }, 
+        {
+            "text": "US$475,000 and Yescarta produced by Gilead Pharmaceuticals with a price tag of US$373,000", 
+            "probability": 0.000237728001012446, 
+            "start_logit": 8.144857406616211, 
+            "end_logit": 0.6499977707862854
+        }, 
+        {
+            "text": "475,000", 
+            "probability": 0.00020334656151637103, 
+            "start_logit": -0.11477155983448029, 
+            "end_logit": 8.753411293029785
+        }, 
+        {
+            "text": "$475", 
+            "probability": 0.00011346596963691237, 
+            "start_logit": 6.838620185852051, 
+            "end_logit": 1.2166107892990112
+        }, 
+        {
+            "text": "a price tag of US$475,000", 
+            "probability": 0.00010479621635723934, 
+            "start_logit": -0.7776656150817871, 
+            "end_logit": 8.753411293029785
+        }, 
+        {
+            "text": "$475,000 and Yescarta produced by Gilead Pharmaceuticals with a price tag of US$373,000", 
+            "probability": 6.438559619101268e-05, 
+            "start_logit": 6.838620185852051, 
+            "end_logit": 0.6499977707862854
+        }, 
+        {
+            "text": "US$475,", 
+            "probability": 4.9403744305881544e-05, 
+            "start_logit": 8.144857406616211, 
+            "end_logit": -0.9211031794548035
+        }, 
+        {
+            "text": "Kymriah, produced by Novrtis with a price tag of US$475,000", 
+            "probability": 3.0084881445828536e-05, 
+            "start_logit": -2.025660514831543, 
+            "end_logit": 8.753411293029785
+        }, 
+        {
+            "text": "price tag of US$475,000", 
+            "probability": 1.5616928138939613e-05, 
+            "start_logit": -2.6813278198242188, 
+            "end_logit": 8.753411293029785
+        }, 
+        {
+            "text": "$475,", 
+            "probability": 1.3380373862799611e-05, 
+            "start_logit": 6.838620185852051, 
+            "end_logit": -0.9211031794548035
+        }, 
+        {
+            "text": "000", 
+            "probability": 1.254226409514214e-05, 
+            "start_logit": -2.9005792140960693, 
+            "end_logit": 8.753411293029785
+        }, 
+        {
+            "text": "US$", 
+            "probability": 8.011917085599136e-06, 
+            "start_logit": 8.144857406616211, 
+            "end_logit": -2.740199327468872
+        }, 
+        {
+            "text": "$475,000 and Yescarta produced by Gilead Pharmaceuticals with a price tag of US$373,000,", 
+            "probability": 7.1990479744405086e-06, 
+            "start_logit": 6.838620185852051, 
+            "end_logit": -1.5409433841705322
+        }, 
+        {
+            "text": "US", 
+            "probability": 7.044970615600198e-06, 
+            "start_logit": 8.144857406616211, 
+            "end_logit": -2.8688154220581055
+        }, 
+        {
+            "text": "US$47", 
+            "probability": 2.28362754537416e-06, 
+            "start_logit": 8.144857406616211, 
+            "end_logit": -3.995364189147949
+        }, 
+        {
+            "text": "$", 
+            "probability": 2.1699255283026347e-06, 
+            "start_logit": 6.838620185852051, 
+            "end_logit": -2.740199327468872
+        }, 
+        {
+            "text": "two CAR T cells available, Kymriah, produced by Novrtis with a price tag of US$475,000", 
+            "probability": 1.6494880888924932e-06, 
+            "start_logit": -4.929218292236328, 
+            "end_logit": 8.753411293029785
+        }, 
+        {
+            "text": "US$475,000 and Yescarta produced by Gilead Pharmaceuticals with a price tag of US$373", 
+            "probability": 1.0478741517654892e-06, 
+            "start_logit": 8.144857406616211, 
+            "end_logit": -4.7743659019470215
+        }
+    ], 
+    "5cb0856decadf2e73f000058": [
+        {
+            "text": "treatment of malaria", 
+            "probability": 0.5782424656639239, 
+            "start_logit": 3.5870587825775146, 
+            "end_logit": 5.169909477233887
+        }, 
+        {
+            "text": "malaria", 
+            "probability": 0.1927224870605004, 
+            "start_logit": 2.488316774368286, 
+            "end_logit": 5.169909477233887
+        }, 
+        {
+            "text": "treatment of malaria.", 
+            "probability": 0.06990677946515167, 
+            "start_logit": 3.5870587825775146, 
+            "end_logit": 3.0570788383483887
+        }, 
+        {
+            "text": "immunosuppression in therapy of human disease as well as a rapidly emerging drug target for treatment of malaria", 
+            "probability": 0.06743254805136267, 
+            "start_logit": 2.2304415702819824, 
+            "end_logit": 4.377661228179932
+        }, 
+        {
+            "text": "malaria.", 
+            "probability": 0.023299237259313058, 
+            "start_logit": 2.488316774368286, 
+            "end_logit": 3.0570788383483887
+        }, 
+        {
+            "text": "inducing immunosuppression in therapy of human disease as well as a rapidly emerging drug target for treatment of malaria", 
+            "probability": 0.021661118920432654, 
+            "start_logit": 1.0948326587677002, 
+            "end_logit": 4.377661228179932
+        }, 
+        {
+            "text": "immunosuppression", 
+            "probability": 0.011257331510795842, 
+            "start_logit": 2.2304415702819824, 
+            "end_logit": 2.587553024291992
+        }, 
+        {
+            "text": "immunosuppression in therapy of human disease", 
+            "probability": 0.00804301770004646, 
+            "start_logit": 2.2304415702819824, 
+            "end_logit": 2.251337766647339
+        }, 
+        {
+            "text": "for treatment of malaria", 
+            "probability": 0.006690582357325676, 
+            "start_logit": -0.8722335696220398, 
+            "end_logit": 5.169909477233887
+        }, 
+        {
+            "text": "immunosuppression in therapy of human disease as well as a rapidly emerging drug target for treatment of malaria.", 
+            "probability": 0.0045190855202244685, 
+            "start_logit": 2.2304415702819824, 
+            "end_logit": 1.6748430728912354
+        }, 
+        {
+            "text": "inducing immunosuppression", 
+            "probability": 0.0036161527871725573, 
+            "start_logit": 1.0948326587677002, 
+            "end_logit": 2.587553024291992
+        }, 
+        {
+            "text": "therapy of human disease as well as a rapidly emerging drug target for treatment of malaria", 
+            "probability": 0.0025848374353091156, 
+            "start_logit": -1.031023621559143, 
+            "end_logit": 4.377661228179932
+        }, 
+        {
+            "text": "inducing immunosuppression in therapy of human disease", 
+            "probability": 0.0025836301298765834, 
+            "start_logit": 1.0948326587677002, 
+            "end_logit": 2.251337766647339
+        }, 
+        {
+            "text": "a rapidly emerging drug target for treatment of malaria", 
+            "probability": 0.0022225185137524322, 
+            "start_logit": -1.9742934703826904, 
+            "end_logit": 5.169909477233887
+        }, 
+        {
+            "text": "inducing immunosuppression in therapy of human disease as well as a rapidly emerging drug target for treatment of malaria.", 
+            "probability": 0.0014516498589171934, 
+            "start_logit": 1.0948326587677002, 
+            "end_logit": 1.6748430728912354
+        }, 
+        {
+            "text": "immunosuppression in therapy", 
+            "probability": 0.0010019189849949154, 
+            "start_logit": 2.2304415702819824, 
+            "end_logit": 0.16845056414604187
+        }, 
+        {
+            "text": "for treatment of malaria.", 
+            "probability": 0.000808859765790427, 
+            "start_logit": -0.8722335696220398, 
+            "end_logit": 3.0570788383483887
+        }, 
+        {
+            "text": "for inducing immunosuppression in therapy of human disease as well as a rapidly emerging drug target for treatment of malaria", 
+            "probability": 0.000782340114972071, 
+            "start_logit": -2.226151943206787, 
+            "end_logit": 4.377661228179932
+        }, 
+        {
+            "text": "rapidly emerging drug target for treatment of malaria", 
+            "probability": 0.0007274471798688724, 
+            "start_logit": -3.0911483764648438, 
+            "end_logit": 5.169909477233887
+        }, 
+        {
+            "text": "treatment", 
+            "probability": 0.00044599172026895675, 
+            "start_logit": 3.5870587825775146, 
+            "end_logit": -1.997538685798645
+        }
+    ], 
+    "5c8fe1f10101eac87000000a": [
+        {
+            "text": "promotes astrocyte maturation", 
+            "probability": 0.49694502295357595, 
+            "start_logit": -2.7694501876831055, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "RUNX2 promotes astrocyte maturation", 
+            "probability": 0.1959525076025282, 
+            "start_logit": -3.7000572681427, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "drivers of astrocyte differentiation from neural precursor cells while RUNX2 promotes astrocyte maturation", 
+            "probability": 0.07730980233529067, 
+            "start_logit": -4.630108833312988, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "promotes astrocyte maturation.", 
+            "probability": 0.04051242733309605, 
+            "start_logit": -2.7694501876831055, 
+            "end_logit": -3.2041780948638916
+        }, 
+        {
+            "text": "neural precursor cells while RUNX2 promotes astrocyte maturation", 
+            "probability": 0.029313213999478022, 
+            "start_logit": -5.599891185760498, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "promotes", 
+            "probability": 0.027894175259022408, 
+            "start_logit": -2.7694501876831055, 
+            "end_logit": -3.577368974685669
+        }, 
+        {
+            "text": "maturation", 
+            "probability": 0.024526911055260094, 
+            "start_logit": -5.778158664703369, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "astrocyte maturation", 
+            "probability": 0.021853666342884243, 
+            "start_logit": -5.893560886383057, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "ATF3 as drivers of astrocyte differentiation from neural precursor cells while RUNX2 promotes astrocyte maturation", 
+            "probability": 0.01956059217217499, 
+            "start_logit": -6.004412651062012, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "RUNX2 promotes astrocyte maturation.", 
+            "probability": 0.0159746276918181, 
+            "start_logit": -3.7000572681427, 
+            "end_logit": -3.2041780948638916
+        }, 
+        {
+            "text": "RUNX2 promotes", 
+            "probability": 0.010999070997880714, 
+            "start_logit": -3.7000572681427, 
+            "end_logit": -3.577368974685669
+        }, 
+        {
+            "text": "astrocyte differentiation from neural precursor cells while RUNX2 promotes astrocyte maturation", 
+            "probability": 0.006797085316711202, 
+            "start_logit": -7.061435699462891, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "drivers of astrocyte differentiation from neural precursor cells while RUNX2 promotes astrocyte maturation.", 
+            "probability": 0.006302523628528364, 
+            "start_logit": -4.630108833312988, 
+            "end_logit": -3.2041780948638916
+        }, 
+        {
+            "text": "differentiation from neural precursor cells while RUNX2 promotes astrocyte maturation", 
+            "probability": 0.004934072446408942, 
+            "start_logit": -7.381764888763428, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "drivers of astrocyte differentiation from neural precursor cells while RUNX2 promotes", 
+            "probability": 0.004339500500002863, 
+            "start_logit": -4.630108833312988, 
+            "end_logit": -3.577368974685669
+        }, 
+        {
+            "text": "drivers of astrocyte differentiation from neural precursor cells", 
+            "probability": 0.004334212690182764, 
+            "start_logit": -4.630108833312988, 
+            "end_logit": -3.5785882472991943
+        }, 
+        {
+            "text": "while RUNX2 promotes astrocyte maturation", 
+            "probability": 0.003976321967277628, 
+            "start_logit": -7.597572326660156, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "drivers", 
+            "probability": 0.0032247222341946808, 
+            "start_logit": -4.630108833312988, 
+            "end_logit": -3.874281406402588
+        }, 
+        {
+            "text": "uration", 
+            "probability": 0.002859843613133529, 
+            "start_logit": -7.9271626472473145, 
+            "end_logit": -0.6973074674606323
+        }, 
+        {
+            "text": "neural precursor cells while RUNX2 promotes astrocyte maturation.", 
+            "probability": 0.0023896998605503427, 
+            "start_logit": -5.599891185760498, 
+            "end_logit": -3.2041780948638916
+        }
+    ], 
+    "5c9e6407ecadf2e73f000034": [
+        {
+            "text": "cryopreserved human spermatozoa", 
+            "probability": 0.6121586320946184, 
+            "start_logit": 2.596092700958252, 
+            "end_logit": 4.079675674438477
+        }, 
+        {
+            "text": "in cryopreserved human spermatozoa", 
+            "probability": 0.3421658827103513, 
+            "start_logit": 2.014396905899048, 
+            "end_logit": 4.079675674438477
+        }, 
+        {
+            "text": "human spermatozoa", 
+            "probability": 0.019268499944177394, 
+            "start_logit": -0.8624271154403687, 
+            "end_logit": 4.079675674438477
+        }, 
+        {
+            "text": "spermatozoa", 
+            "probability": 0.009412535848689133, 
+            "start_logit": -1.578856348991394, 
+            "end_logit": 4.079675674438477
+        }, 
+        {
+            "text": "basolateral membrane of epididymal epithelial cells", 
+            "probability": 0.004142711965014981, 
+            "start_logit": 0.706906259059906, 
+            "end_logit": 0.9732213020324707
+        }, 
+        {
+            "text": "the basolateral membrane of epididymal epithelial cells", 
+            "probability": 0.002980853965982542, 
+            "start_logit": 0.3777654469013214, 
+            "end_logit": 0.9732213020324707
+        }, 
+        {
+            "text": "localized at the basolateral membrane of epididymal epithelial cells", 
+            "probability": 0.0018700326190175178, 
+            "start_logit": -0.08848850429058075, 
+            "end_logit": 0.9732213020324707
+        }, 
+        {
+            "text": "cryopreserved", 
+            "probability": 0.0017320958016232165, 
+            "start_logit": 2.596092700958252, 
+            "end_logit": -1.7879836559295654
+        }, 
+        {
+            "text": "basolateral membrane", 
+            "probability": 0.0010291219815496216, 
+            "start_logit": 0.706906259059906, 
+            "end_logit": -0.41942334175109863
+        }, 
+        {
+            "text": "in cryopreserved", 
+            "probability": 0.0009681544257137849, 
+            "start_logit": 2.014396905899048, 
+            "end_logit": -1.7879836559295654
+        }, 
+        {
+            "text": "at the basolateral membrane of epididymal epithelial cells", 
+            "probability": 0.000848411643075335, 
+            "start_logit": -0.8788337111473083, 
+            "end_logit": 0.9732213020324707
+        }, 
+        {
+            "text": "the basolateral membrane", 
+            "probability": 0.0007404961691974422, 
+            "start_logit": 0.3777654469013214, 
+            "end_logit": -0.41942334175109863
+        }, 
+        {
+            "text": "localized at the basolateral membrane", 
+            "probability": 0.00046454875229028303, 
+            "start_logit": -0.08848850429058075, 
+            "end_logit": -0.41942334175109863
+        }, 
+        {
+            "text": "cryopreserved human", 
+            "probability": 0.00039672433928209075, 
+            "start_logit": 2.596092700958252, 
+            "end_logit": -3.261829376220703
+        }, 
+        {
+            "text": "in", 
+            "probability": 0.000383330660683397, 
+            "start_logit": 2.014396905899048, 
+            "end_logit": -2.714477300643921
+        }, 
+        {
+            "text": "pregnancy success (adducin 1 alpha [ADD1]) in cryopreserved human spermatozoa", 
+            "probability": 0.00036715015299160913, 
+            "start_logit": -4.822883129119873, 
+            "end_logit": 4.079675674438477
+        }, 
+        {
+            "text": "basolateral membrane of epididymal epithelial cells,", 
+            "probability": 0.00030206339619173517, 
+            "start_logit": 0.706906259059906, 
+            "end_logit": -1.6452476978302002
+        }, 
+        {
+            "text": "cryopreserved human sperm", 
+            "probability": 0.0002940690628914845, 
+            "start_logit": 2.596092700958252, 
+            "end_logit": -3.5612564086914062
+        }, 
+        {
+            "text": "a", 
+            "probability": 0.0002529355169158592, 
+            "start_logit": -5.19551944732666, 
+            "end_logit": 4.079675674438477
+        }, 
+        {
+            "text": "in cryopreserved human", 
+            "probability": 0.0002217489497430724, 
+            "start_logit": 2.014396905899048, 
+            "end_logit": -3.261829376220703
+        }
+    ], 
+    "5c910ae0ecadf2e73f000007": [
+        {
+            "text": "Bristol-Myers Squibb", 
+            "probability": 0.9987278457732031, 
+            "start_logit": 6.922091484069824, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "(Bristol-Myers Squibb", 
+            "probability": 0.0006334303374518151, 
+            "start_logit": -0.44099608063697815, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "Squibb", 
+            "probability": 0.00024971134550635254, 
+            "start_logit": -1.371840476989746, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "Bristol-Myers Squibb) of nivolumab", 
+            "probability": 0.00016160926444716981, 
+            "start_logit": 6.922091484069824, 
+            "end_logit": -1.2450382709503174
+        }, 
+        {
+            "text": "Myers Squibb", 
+            "probability": 5.398054038286013e-05, 
+            "start_logit": -2.903522491455078, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "Bristol", 
+            "probability": 4.40966522345127e-05, 
+            "start_logit": 6.922091484069824, 
+            "end_logit": -2.5438358783721924
+        }, 
+        {
+            "text": "Bristol-Myers Squibb)", 
+            "probability": 3.761097778592005e-05, 
+            "start_logit": 6.922091484069824, 
+            "end_logit": -2.7029237747192383
+        }, 
+        {
+            "text": "Bristol-Myers", 
+            "probability": 3.425130903948938e-05, 
+            "start_logit": 6.922091484069824, 
+            "end_logit": -2.796494960784912
+        }, 
+        {
+            "text": "bb", 
+            "probability": 2.325706756602331e-05, 
+            "start_logit": -3.745537042617798, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "National Institute for Health and Care Excellence (NICE) invited the manufacturer (Bristol-Myers Squibb", 
+            "probability": 9.238659296685233e-06, 
+            "start_logit": -4.6687493324279785, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "Bristol-Myers S", 
+            "probability": 6.69105857449985e-06, 
+            "start_logit": 6.922091484069824, 
+            "end_logit": -4.429447650909424
+        }, 
+        {
+            "text": "NICE) invited the manufacturer (Bristol-Myers Squibb", 
+            "probability": 6.467103360365246e-06, 
+            "start_logit": -5.025417804718018, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "Bristol-Myers Squibb) of nivolumab (Opdivo", 
+            "probability": 4.423116503416313e-06, 
+            "start_logit": 6.922091484069824, 
+            "end_logit": -4.843375205993652
+        }, 
+        {
+            "text": "(NICE) invited the manufacturer (Bristol-Myers Squibb", 
+            "probability": 2.161324946510488e-06, 
+            "start_logit": -6.121424674987793, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "the National Institute for Health and Care Excellence (NICE) invited the manufacturer (Bristol-Myers Squibb", 
+            "probability": 2.0692499575336683e-06, 
+            "start_logit": -6.164959907531738, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "the manufacturer (Bristol-Myers Squibb", 
+            "probability": 7.939068156120287e-07, 
+            "start_logit": -7.1229352951049805, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "-Myers Squibb", 
+            "probability": 6.994383202408026e-07, 
+            "start_logit": -7.249623775482178, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "Bristol-Myers Squibb) of ni", 
+            "probability": 6.487197217005674e-07, 
+            "start_logit": 6.922091484069824, 
+            "end_logit": -6.762974262237549
+        }, 
+        {
+            "text": "quibb", 
+            "probability": 5.698977623017141e-07, 
+            "start_logit": -7.454444408416748, 
+            "end_logit": 7.484017848968506
+        }, 
+        {
+            "text": "manufacturer (Bristol-Myers Squibb", 
+            "probability": 4.4425712364237944e-07, 
+            "start_logit": -7.703497886657715, 
+            "end_logit": 7.484017848968506
+        }
+    ], 
+    "5c960f21ecadf2e73f000020": [
+        {
+            "text": "disease-modifying anti-rheumatic drug", 
+            "probability": 0.9788546278365168, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": 8.442641258239746
+        }, 
+        {
+            "text": "disease-modifying antirheumatic drugs", 
+            "probability": 0.02000436113266313, 
+            "start_logit": 7.033596515655518, 
+            "end_logit": 7.3299760818481445
+        }, 
+        {
+            "text": "disease-modifying anti-rheumatic drug (", 
+            "probability": 0.0006391934154464202, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": 1.1087099313735962
+        }, 
+        {
+            "text": "disease-modifying anti-rheumatic", 
+            "probability": 0.00015194942832028887, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -0.3279494047164917
+        }, 
+        {
+            "text": "disease-modifying", 
+            "probability": 0.00010464496775610784, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -0.7009238004684448
+        }, 
+        {
+            "text": "Treatment with disease-modifying antirheumatic drugs", 
+            "probability": 0.00010386187223414537, 
+            "start_logit": 1.7729527950286865, 
+            "end_logit": 7.3299760818481445
+        }, 
+        {
+            "text": "disease", 
+            "probability": 3.6874362104541575e-05, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -1.7439806461334229
+        }, 
+        {
+            "text": "disease-modifying anti-rheumatic drug (DMARD)", 
+            "probability": 3.433576076066372e-05, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -1.815309762954712
+        }, 
+        {
+            "text": "disease-modifying anti-rheumatic drug (DMARD", 
+            "probability": 2.3026803233645686e-05, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -2.2148382663726807
+        }, 
+        {
+            "text": "anti-rheumatic drug", 
+            "probability": 1.2462968047001013e-05, 
+            "start_logit": -1.4600125551223755, 
+            "end_logit": 8.442641258239746
+        }, 
+        {
+            "text": "disease-modifying anti-rheumatic drug (DMARD) and steroid therapy for inflammatory arthritis", 
+            "probability": 5.192889148339966e-06, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -3.704206943511963
+        }, 
+        {
+            "text": "modifying anti-rheumatic drug", 
+            "probability": 4.567964737017386e-06, 
+            "start_logit": -2.4637064933776855, 
+            "end_logit": 8.442641258239746
+        }, 
+        {
+            "text": "disease-modifying anti", 
+            "probability": 4.550855706942636e-06, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -3.836181879043579
+        }, 
+        {
+            "text": "disease-modifying anti-rhe", 
+            "probability": 4.3777267670831285e-06, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -3.874967575073242
+        }, 
+        {
+            "text": "disease-modifying antirheumatic drugs (DMARDs", 
+            "probability": 3.1276693263807676e-06, 
+            "start_logit": 7.033596515655518, 
+            "end_logit": -1.433441400527954
+        }, 
+        {
+            "text": "disease-modify", 
+            "probability": 3.119756349363818e-06, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -4.213742256164551
+        }, 
+        {
+            "text": "drug", 
+            "probability": 2.9462221360628398e-06, 
+            "start_logit": -2.9022505283355713, 
+            "end_logit": 8.442641258239746
+        }, 
+        {
+            "text": "disease-modifying anti-rheumatic drug (DMARD) and steroid therapy for inflammatory arthritis (IA)", 
+            "probability": 2.767303210279046e-06, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -4.333623886108398
+        }, 
+        {
+            "text": "disease-modifying anti-r", 
+            "probability": 2.194260895966175e-06, 
+            "start_logit": 9.81136417388916, 
+            "end_logit": -4.565651893615723
+        }, 
+        {
+            "text": "rheumatic drug", 
+            "probability": 1.8168046395752183e-06, 
+            "start_logit": -3.385694980621338, 
+            "end_logit": 8.442641258239746
+        }
+    ], 
+    "5c9e6e99ecadf2e73f000036": [
+        {
+            "text": "to directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B", 
+            "probability": 0.7278785073633391, 
+            "start_logit": 6.986006736755371, 
+            "end_logit": 7.5558857917785645
+        }, 
+        {
+            "text": "directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B", 
+            "probability": 0.18137570320849714, 
+            "start_logit": 5.596443176269531, 
+            "end_logit": 7.5558857917785645
+        }, 
+        {
+            "text": "to directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B.", 
+            "probability": 0.041890747883904095, 
+            "start_logit": 6.986006736755371, 
+            "end_logit": 4.700816631317139
+        }, 
+        {
+            "text": "transfer mitochondria, isolated from cell type A, to recipient cell type B", 
+            "probability": 0.02719693184617702, 
+            "start_logit": 3.698976755142212, 
+            "end_logit": 7.5558857917785645
+        }, 
+        {
+            "text": "directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B.", 
+            "probability": 0.010438505572716753, 
+            "start_logit": 5.596443176269531, 
+            "end_logit": 4.700816631317139
+        }, 
+        {
+            "text": "to directly and quantitatively transfer mitochondria", 
+            "probability": 0.007057487921373397, 
+            "start_logit": 6.986006736755371, 
+            "end_logit": 2.9198408126831055
+        }, 
+        {
+            "text": "directly and quantitatively transfer mitochondria", 
+            "probability": 0.0017586133148256313, 
+            "start_logit": 5.596443176269531, 
+            "end_logit": 2.9198408126831055
+        }, 
+        {
+            "text": "transfer mitochondria, isolated from cell type A, to recipient cell type B.", 
+            "probability": 0.0015652334883618335, 
+            "start_logit": 3.698976755142212, 
+            "end_logit": 4.700816631317139
+        }, 
+        {
+            "text": "transfer mitochondria", 
+            "probability": 0.0002637006259438803, 
+            "start_logit": 3.698976755142212, 
+            "end_logit": 2.9198408126831055
+        }, 
+        {
+            "text": "to directly and quantitatively transfer", 
+            "probability": 0.0001492901026909852, 
+            "start_logit": 6.986006736755371, 
+            "end_logit": -0.9361122250556946
+        }, 
+        {
+            "text": "mitochondria, isolated from cell type A, to recipient cell type B", 
+            "probability": 9.989770847591052e-05, 
+            "start_logit": -1.9077359437942505, 
+            "end_logit": 7.5558857917785645
+        }, 
+        {
+            "text": "to directly and quantitatively", 
+            "probability": 7.372171584748023e-05, 
+            "start_logit": 6.986006736755371, 
+            "end_logit": -1.6417062282562256
+        }, 
+        {
+            "text": "isolated from cell type A, to recipient cell type B", 
+            "probability": 4.426745396403153e-05, 
+            "start_logit": -2.721632957458496, 
+            "end_logit": 7.5558857917785645
+        }, 
+        {
+            "text": "allows the transfer of the mitochondria isolated beforehand from the donor cells to the target cells", 
+            "probability": 4.0303842210684484e-05, 
+            "start_logit": 1.8522608280181885, 
+            "end_logit": 2.8881890773773193
+        }, 
+        {
+            "text": "transfer of the mitochondria isolated beforehand from the donor cells to the target cells", 
+            "probability": 3.9648595591320624e-05, 
+            "start_logit": 1.835869550704956, 
+            "end_logit": 2.8881890773773193
+        }, 
+        {
+            "text": "to directly and quantitatively transfer mitochondria, isolated from cell type A", 
+            "probability": 3.803306888887286e-05, 
+            "start_logit": 6.986006736755371, 
+            "end_logit": -2.3035476207733154
+        }, 
+        {
+            "text": "directly and quantitatively transfer", 
+            "probability": 3.7200710123632914e-05, 
+            "start_logit": 5.596443176269531, 
+            "end_logit": -0.9361122250556946
+        }, 
+        {
+            "text": "directly and quantitatively", 
+            "probability": 1.837027459707516e-05, 
+            "start_logit": 5.596443176269531, 
+            "end_logit": -1.6417062282562256
+        }, 
+        {
+            "text": "MitoCeption) to directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B", 
+            "probability": 1.7573553749297765e-05, 
+            "start_logit": -3.6454875469207764, 
+            "end_logit": 7.5558857917785645
+        }, 
+        {
+            "text": "recipient cell type B", 
+            "probability": 1.626174872166638e-05, 
+            "start_logit": -3.723067045211792, 
+            "end_logit": 7.5558857917785645
+        }
+    ], 
+    "5c9efde8ecadf2e73f000039": [
+        {
+            "text": "deficiency of galactocerebrosidase", 
+            "probability": 0.814532331524377, 
+            "start_logit": 9.933330535888672, 
+            "end_logit": 10.247706413269043
+        }, 
+        {
+            "text": "deficiency of \u03b2-galactocerebrosidase", 
+            "probability": 0.1100243830351676, 
+            "start_logit": 8.439421653747559, 
+            "end_logit": 9.739703178405762
+        }, 
+        {
+            "text": "deficiency of galactocerebrosidase.", 
+            "probability": 0.028880830425572886, 
+            "start_logit": 9.933330535888672, 
+            "end_logit": 6.908270359039307
+        }, 
+        {
+            "text": "deficiency of a lysosomal enzyme, galactosylceramidase", 
+            "probability": 0.019441619462641398, 
+            "start_logit": 8.102056503295898, 
+            "end_logit": 8.343782424926758
+        }, 
+        {
+            "text": "the deficiency of \u03b2-galactocerebrosidase", 
+            "probability": 0.014499982183207838, 
+            "start_logit": 6.412867069244385, 
+            "end_logit": 9.739703178405762
+        }, 
+        {
+            "text": "deficiency of \u03b2-galactocerebrosidase.", 
+            "probability": 0.0068567407891399895, 
+            "start_logit": 8.439421653747559, 
+            "end_logit": 6.9642333984375
+        }, 
+        {
+            "text": "galactocerebrosidase", 
+            "probability": 0.0028458465548814437, 
+            "start_logit": 4.276576995849609, 
+            "end_logit": 10.247706413269043
+        }, 
+        {
+            "text": "the deficiency of \u03b2-galactocerebrosidase.", 
+            "probability": 0.0009036416886393753, 
+            "start_logit": 6.412867069244385, 
+            "end_logit": 6.9642333984375
+        }, 
+        {
+            "text": "deficiency of a lysosomal enzyme, galactosylceramidase.", 
+            "probability": 0.0008731736953048778, 
+            "start_logit": 8.102056503295898, 
+            "end_logit": 5.240745544433594
+        }, 
+        {
+            "text": "deficiency of a lysosomal enzyme", 
+            "probability": 0.0003802659808851587, 
+            "start_logit": 8.102056503295898, 
+            "end_logit": 4.409482002258301
+        }, 
+        {
+            "text": "caused by deficiency of galactocerebrosidase", 
+            "probability": 0.00023848289769645275, 
+            "start_logit": 1.797258734703064, 
+            "end_logit": 10.247706413269043
+        }, 
+        {
+            "text": "caused by the deficiency of \u03b2-galactocerebrosidase", 
+            "probability": 0.00016183074862120784, 
+            "start_logit": 1.9175153970718384, 
+            "end_logit": 9.739703178405762
+        }, 
+        {
+            "text": "galactocerebrosidase.", 
+            "probability": 0.00010090503297139165, 
+            "start_logit": 4.276576995849609, 
+            "end_logit": 6.908270359039307
+        }, 
+        {
+            "text": "\u03b2-galactocerebrosidase", 
+            "probability": 9.24154845502841e-05, 
+            "start_logit": 1.357258915901184, 
+            "end_logit": 9.739703178405762
+        }, 
+        {
+            "text": "galactosylceramidase", 
+            "probability": 7.7063974974424e-05, 
+            "start_logit": 2.571521043777466, 
+            "end_logit": 8.343782424926758
+        }, 
+        {
+            "text": "deficiency", 
+            "probability": 3.922644776623486e-05, 
+            "start_logit": 9.933330535888672, 
+            "end_logit": 0.30668821930885315
+        }, 
+        {
+            "text": "deficiency of \u03b2-galactocerebrosidas", 
+            "probability": 1.8614127345166494e-05, 
+            "start_logit": 8.439421653747559, 
+            "end_logit": 1.0551667213439941
+        }, 
+        {
+            "text": "by the deficiency of \u03b2-galactocerebrosidase", 
+            "probability": 1.143199754210754e-05, 
+            "start_logit": -0.7326194047927856, 
+            "end_logit": 9.739703178405762
+        }, 
+        {
+            "text": "deficiency of galactocerebrosidas", 
+            "probability": 1.094066443426826e-05, 
+            "start_logit": 9.933330535888672, 
+            "end_logit": -0.9701764583587646
+        }, 
+        {
+            "text": "Krabbe disease is a rare neurodegenerative genetic disorder caused by deficiency of galactocerebrosidase", 
+            "probability": 1.0273284280855925e-05, 
+            "start_logit": -1.3474920988082886, 
+            "end_logit": 10.247706413269043
+        }
+    ], 
+    "5c89623bf9c2ba6b28000004": [
+        {
+            "text": "c.19G&gt;A, p.Val7Met)", 
+            "probability": 0.13452227924670881, 
+            "start_logit": -3.003756284713745, 
+            "end_logit": -0.9613861441612244
+        }, 
+        {
+            "text": "a novel homozygous missense mutation in exon 2", 
+            "probability": 0.13259832696597026, 
+            "start_logit": -3.1743762493133545, 
+            "end_logit": -0.805171549320221
+        }, 
+        {
+            "text": "c.19G&gt;A, p.Val7Met", 
+            "probability": 0.11825925735689798, 
+            "start_logit": -3.003756284713745, 
+            "end_logit": -1.0902366638183594
+        }, 
+        {
+            "text": "homozygous missense mutation in exon 2", 
+            "probability": 0.11082655980279034, 
+            "start_logit": -3.353734254837036, 
+            "end_logit": -0.805171549320221
+        }, 
+        {
+            "text": "homozygous missense mutation in exon 2 (c.19G&gt;A, p.Val7Met)", 
+            "probability": 0.0947983363596294, 
+            "start_logit": -3.353734254837036, 
+            "end_logit": -0.9613861441612244
+        }, 
+        {
+            "text": "homozygous missense mutation in exon 2 (c.19G&gt;A, p.Val7Met", 
+            "probability": 0.08333772605799401, 
+            "start_logit": -3.353734254837036, 
+            "end_logit": -1.0902366638183594
+        }, 
+        {
+            "text": "(c.19G&gt;A, p.Val7Met)", 
+            "probability": 0.06714864277815165, 
+            "start_logit": -3.698577404022217, 
+            "end_logit": -0.9613861441612244
+        }, 
+        {
+            "text": "(c.19G&gt;A, p.Val7Met", 
+            "probability": 0.05903073209831988, 
+            "start_logit": -3.698577404022217, 
+            "end_logit": -1.0902366638183594
+        }, 
+        {
+            "text": "novel homozygous missense mutation in exon 2", 
+            "probability": 0.05505365744470488, 
+            "start_logit": -4.05339241027832, 
+            "end_logit": -0.805171549320221
+        }, 
+        {
+            "text": "novel homozygous missense mutation in exon 2 (c.19G&gt;A, p.Val7Met", 
+            "probability": 0.04139843942446315, 
+            "start_logit": -4.05339241027832, 
+            "end_logit": -1.0902366638183594
+        }, 
+        {
+            "text": "exon 2", 
+            "probability": 0.016994154273182117, 
+            "start_logit": -5.2288312911987305, 
+            "end_logit": -0.805171549320221
+        }, 
+        {
+            "text": "exon 2 (c.19G&gt;A, p.Val7Met)", 
+            "probability": 0.014536385103022841, 
+            "start_logit": -5.2288312911987305, 
+            "end_logit": -0.9613861441612244
+        }, 
+        {
+            "text": "exon 2 (c.19G&gt;A, p.Val7Met", 
+            "probability": 0.012779014127352545, 
+            "start_logit": -5.2288312911987305, 
+            "end_logit": -1.0902366638183594
+        }, 
+        {
+            "text": "in exon 2", 
+            "probability": 0.011096549672283903, 
+            "start_logit": -5.65506649017334, 
+            "end_logit": -0.805171549320221
+        }, 
+        {
+            "text": "in exon 2 (c.19G&gt;A, p.Val7Met)", 
+            "probability": 0.009491717961257333, 
+            "start_logit": -5.65506649017334, 
+            "end_logit": -0.9613861441612244
+        }, 
+        {
+            "text": "missense mutation in exon 2", 
+            "probability": 0.008952988645427203, 
+            "start_logit": -5.869713306427002, 
+            "end_logit": -0.805171549320221
+        }, 
+        {
+            "text": "in exon 2 (c.19G&gt;A, p.Val7Met", 
+            "probability": 0.008344220179921492, 
+            "start_logit": -5.65506649017334, 
+            "end_logit": -1.0902366638183594
+        }, 
+        {
+            "text": "missense mutation in exon 2 (c.19G&gt;A, p.Val7Met)", 
+            "probability": 0.00765816813716329, 
+            "start_logit": -5.869713306427002, 
+            "end_logit": -0.9613861441612244
+        }, 
+        {
+            "text": "missense mutation in exon 2 (c.19G&gt;A, p.Val7Met", 
+            "probability": 0.006732336693123246, 
+            "start_logit": -5.869713306427002, 
+            "end_logit": -1.0902366638183594
+        }, 
+        {
+            "text": "nemaline myopathy, we performed sequence analysis of the gene and a novel homozygous missense mutation in exon 2", 
+            "probability": 0.006440507671635617, 
+            "start_logit": -6.199093341827393, 
+            "end_logit": -0.805171549320221
+        }
+    ], 
+    "5c9789a9ecadf2e73f000024": [
+        {
+            "text": "hepatocyte-like cell differentiation", 
+            "probability": 0.689419564560027, 
+            "start_logit": 0.0865536481142044, 
+            "end_logit": 0.6938620209693909
+        }, 
+        {
+            "text": "hepatocyte-like cell differentiation.", 
+            "probability": 0.10178480539865141, 
+            "start_logit": 0.0865536481142044, 
+            "end_logit": -1.2191271781921387
+        }, 
+        {
+            "text": "potency towards hepatocyte-like cell differentiation", 
+            "probability": 0.031263786508809246, 
+            "start_logit": -3.0068359375, 
+            "end_logit": 0.6938620209693909
+        }, 
+        {
+            "text": "hepatocyte-like cell", 
+            "probability": 0.020040891565507202, 
+            "start_logit": 0.0865536481142044, 
+            "end_logit": -2.8442132472991943
+        }, 
+        {
+            "text": "regenerative medicine", 
+            "probability": 0.017124886382361516, 
+            "start_logit": -1.0678237676620483, 
+            "end_logit": -1.8470778465270996
+        }, 
+        {
+            "text": "differentiation", 
+            "probability": 0.01706060279478071, 
+            "start_logit": -3.6125245094299316, 
+            "end_logit": 0.6938620209693909
+        }, 
+        {
+            "text": "differentiated into adipocytes, osteocytes and chondrocytes and expressed pluripotency markers", 
+            "probability": 0.016678944977560548, 
+            "start_logit": -0.6647250056266785, 
+            "end_logit": -2.276562213897705
+        }, 
+        {
+            "text": "differentiated into adipocytes, osteocytes and chondrocytes and expressed pluripotency markers OCT-4", 
+            "probability": 0.0166682673288739, 
+            "start_logit": -0.6647250056266785, 
+            "end_logit": -2.277202606201172
+        }, 
+        {
+            "text": "induced pluripotent stem cell (iPSC) line showed pluripotency", 
+            "probability": 0.01657419343960034, 
+            "start_logit": -1.0550596714019775, 
+            "end_logit": -1.8925278186798096
+        }, 
+        {
+            "text": "differentiated", 
+            "probability": 0.015182670404779679, 
+            "start_logit": -0.6647250056266785, 
+            "end_logit": -2.3705546855926514
+        }, 
+        {
+            "text": "induced pluripotent stem cell", 
+            "probability": 0.013607155473811878, 
+            "start_logit": -1.0550596714019775, 
+            "end_logit": -2.0897789001464844
+        }, 
+        {
+            "text": "early stage oral squamous cell carcinoma", 
+            "probability": 0.008914319138364176, 
+            "start_logit": -1.8811557292938232, 
+            "end_logit": -1.686619758605957
+        }, 
+        {
+            "text": "tri-lineage differentiation", 
+            "probability": 0.006948275434383315, 
+            "start_logit": -3.36212158203125, 
+            "end_logit": -0.45481929183006287
+        }, 
+        {
+            "text": "MSCs derived from all the parts were shown to have potency towards hepatocyte-like cell differentiation", 
+            "probability": 0.005262497993162272, 
+            "start_logit": -4.788690567016602, 
+            "end_logit": 0.6938620209693909
+        }, 
+        {
+            "text": "differentiated into adipocytes, osteocytes and chondrocytes", 
+            "probability": 0.004796696775166745, 
+            "start_logit": -0.6647250056266785, 
+            "end_logit": -3.5227818489074707
+        }, 
+        {
+            "text": "towards hepatocyte-like cell differentiation", 
+            "probability": 0.004731510180000146, 
+            "start_logit": -4.895051956176758, 
+            "end_logit": 0.6938620209693909
+        }, 
+        {
+            "text": "potency towards hepatocyte-like cell differentiation.", 
+            "probability": 0.004615735597603662, 
+            "start_logit": -3.0068359375, 
+            "end_logit": -1.2191271781921387
+        }, 
+        {
+            "text": "early stage oral squamous cell carcinoma (OSCC)", 
+            "probability": 0.0034330565218825817, 
+            "start_logit": -1.8811557292938232, 
+            "end_logit": -2.6408276557922363
+        }, 
+        {
+            "text": "induced pluripotent stem", 
+            "probability": 0.0030582978374351327, 
+            "start_logit": -1.0550596714019775, 
+            "end_logit": -3.5825161933898926
+        }, 
+        {
+            "text": "differentiated into adipocytes, osteocytes and chondrocytes and expressed pluripotency", 
+            "probability": 0.002833841687238532, 
+            "start_logit": -0.6647250056266785, 
+            "end_logit": -4.049076080322266
+        }
+    ], 
+    "5c9791d2ecadf2e73f000026": [
+        {
+            "text": "R. typhi", 
+            "probability": 0.8567160862142119, 
+            "start_logit": 0.8823098540306091, 
+            "end_logit": -0.18508708477020264
+        }, 
+        {
+            "text": "cat flea", 
+            "probability": 0.08334757462126367, 
+            "start_logit": -0.9165787696838379, 
+            "end_logit": -0.7162855267524719
+        }, 
+        {
+            "text": "R. typhi;", 
+            "probability": 0.009857430272902727, 
+            "start_logit": 0.8823098540306091, 
+            "end_logit": -4.649968147277832
+        }, 
+        {
+            "text": "Fleas", 
+            "probability": 0.007479910162716944, 
+            "start_logit": -2.6257123947143555, 
+            "end_logit": -1.4179506301879883
+        }, 
+        {
+            "text": "the cat flea", 
+            "probability": 0.007359793402527788, 
+            "start_logit": -3.343566417694092, 
+            "end_logit": -0.7162855267524719
+        }, 
+        {
+            "text": "another flea-borne pathogen, R. typhi", 
+            "probability": 0.0071295473334509855, 
+            "start_logit": -3.9065489768981934, 
+            "end_logit": -0.18508708477020264
+        }, 
+        {
+            "text": "cat flea and to be harbouring pathogens of zoonotic potential", 
+            "probability": 0.006553950422546619, 
+            "start_logit": -0.9165787696838379, 
+            "end_logit": -3.259237051010132
+        }, 
+        {
+            "text": "R", 
+            "probability": 0.005699735254053876, 
+            "start_logit": 0.8823098540306091, 
+            "end_logit": -5.1977739334106445
+        }, 
+        {
+            "text": "flea-transmitted pathogen however, in Greece, much work has been done on another flea-borne pathogen, R. typhi", 
+            "probability": 0.0028484429774082837, 
+            "start_logit": -4.824024200439453, 
+            "end_logit": -0.18508708477020264
+        }, 
+        {
+            "text": "cat flea and to be harbouring pathogens of zoonotic potential.", 
+            "probability": 0.0022549201568177707, 
+            "start_logit": -0.9165787696838379, 
+            "end_logit": -4.32619047164917
+        }, 
+        {
+            "text": "fleas on domestic cats and dogs in Hong Kong revealed them to be exclusively infested by the cat flea", 
+            "probability": 0.0020886113314065816, 
+            "start_logit": -4.6030988693237305, 
+            "end_logit": -0.7162855267524719
+        }, 
+        {
+            "text": "in Greece, much work has been done on another flea-borne pathogen, R. typhi", 
+            "probability": 0.0016445183285630648, 
+            "start_logit": -5.373349189758301, 
+            "end_logit": -0.18508708477020264
+        }, 
+        {
+            "text": "flea-borne pathogen, R. typhi", 
+            "probability": 0.0013614196120673111, 
+            "start_logit": -5.5622687339782715, 
+            "end_logit": -0.18508708477020264
+        }, 
+        {
+            "text": "R.", 
+            "probability": 0.0011673329296257356, 
+            "start_logit": 0.8823098540306091, 
+            "end_logit": -6.783472061157227
+        }, 
+        {
+            "text": "typhi", 
+            "probability": 0.0008263729675478067, 
+            "start_logit": -6.0615057945251465, 
+            "end_logit": -0.18508708477020264
+        }, 
+        {
+            "text": "cat", 
+            "probability": 0.0007962512505645526, 
+            "start_logit": -0.9165787696838379, 
+            "end_logit": -5.367145538330078
+        }, 
+        {
+            "text": "Greece, much work has been done on another flea-borne pathogen, R. typhi", 
+            "probability": 0.0007856583049642892, 
+            "start_logit": -6.112030029296875, 
+            "end_logit": -0.18508708477020264
+        }, 
+        {
+            "text": "phi", 
+            "probability": 0.0007285333503366086, 
+            "start_logit": -6.18751859664917, 
+            "end_logit": -0.18508708477020264
+        }, 
+        {
+            "text": "pathogen, R. typhi", 
+            "probability": 0.0007216422825961489, 
+            "start_logit": -6.197022438049316, 
+            "end_logit": -0.18508708477020264
+        }, 
+        {
+            "text": "Fleas can be a major cause of pruritus", 
+            "probability": 0.0006322688244274744, 
+            "start_logit": -2.6257123947143555, 
+            "end_logit": -3.8886120319366455
+        }
+    ], 
+    "5cb0d647ecadf2e73f000059": [
+        {
+            "text": "environmental exposure record", 
+            "probability": 0.9617345414228305, 
+            "start_logit": 8.740734100341797, 
+            "end_logit": 10.15295124053955
+        }, 
+        {
+            "text": "his/her environmental exposure record", 
+            "probability": 0.035024263267820474, 
+            "start_logit": 5.428036689758301, 
+            "end_logit": 10.15295124053955
+        }, 
+        {
+            "text": "a novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors", 
+            "probability": 0.0014526092242977972, 
+            "start_logit": 7.441411972045898, 
+            "end_logit": 4.9568963050842285
+        }, 
+        {
+            "text": "novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors", 
+            "probability": 0.0006731960005206095, 
+            "start_logit": 6.672331809997559, 
+            "end_logit": 4.9568963050842285
+        }, 
+        {
+            "text": "a novel conceptual framework", 
+            "probability": 0.0003508175916245378, 
+            "start_logit": 7.441411972045898, 
+            "end_logit": 3.536046028137207
+        }, 
+        {
+            "text": "exposure record", 
+            "probability": 0.00016467404386124468, 
+            "start_logit": 0.06820838153362274, 
+            "end_logit": 10.15295124053955
+        }, 
+        {
+            "text": "novel conceptual framework", 
+            "probability": 0.0001625826104113288, 
+            "start_logit": 6.672331809997559, 
+            "end_logit": 3.536046028137207
+        }, 
+        {
+            "text": "a novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors,", 
+            "probability": 9.478205991923764e-05, 
+            "start_logit": 7.441411972045898, 
+            "end_logit": 2.2273597717285156
+        }, 
+        {
+            "text": "record", 
+            "probability": 6.838732900443502e-05, 
+            "start_logit": -0.81057208776474, 
+            "end_logit": 10.15295124053955
+        }, 
+        {
+            "text": "The interaction between the (epi)genetic makeup of an individual and his/her environmental exposure record", 
+            "probability": 5.068085745867813e-05, 
+            "start_logit": -1.1102113723754883, 
+            "end_logit": 10.15295124053955
+        }, 
+        {
+            "text": "novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors,", 
+            "probability": 4.3925718349737384e-05, 
+            "start_logit": 6.672331809997559, 
+            "end_logit": 2.2273597717285156
+        }, 
+        {
+            "text": "conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors", 
+            "probability": 3.9800038940789726e-05, 
+            "start_logit": 3.844163179397583, 
+            "end_logit": 4.9568963050842285
+        }, 
+        {
+            "text": "environmental", 
+            "probability": 3.782514567128694e-05, 
+            "start_logit": 8.740734100341797, 
+            "end_logit": 0.00943160429596901
+        }, 
+        {
+            "text": "environmental exposure record (exposome)", 
+            "probability": 3.223587422482471e-05, 
+            "start_logit": 8.740734100341797, 
+            "end_logit": -0.1504625678062439
+        }, 
+        {
+            "text": "environmental exposure", 
+            "probability": 2.2112182944805177e-05, 
+            "start_logit": 8.740734100341797, 
+            "end_logit": -0.5274137854576111
+        }, 
+        {
+            "text": "a novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors, including environmental exposures", 
+            "probability": 1.7041884806854146e-05, 
+            "start_logit": 7.441411972045898, 
+            "end_logit": 0.5114537477493286
+        }, 
+        {
+            "text": "conceptual framework", 
+            "probability": 9.612050904137883e-06, 
+            "start_logit": 3.844163179397583, 
+            "end_logit": 3.536046028137207
+        }, 
+        {
+            "text": "novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors, including environmental exposures", 
+            "probability": 7.897876800867118e-06, 
+            "start_logit": 6.672331809997559, 
+            "end_logit": 0.5114537477493286
+        }, 
+        {
+            "text": "The exposome is a novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors", 
+            "probability": 6.559751980684352e-06, 
+            "start_logit": 2.041248083114624, 
+            "end_logit": 4.9568963050842285
+        }, 
+        {
+            "text": "(epi)genetic makeup of an individual and his/her environmental exposure record", 
+            "probability": 6.455067626131227e-06, 
+            "start_logit": -3.170894145965576, 
+            "end_logit": 10.15295124053955
+        }
+    ], 
+    "5c897167d558e5f232000005": [
+        {
+            "text": "autologous CD34+ cells transduced to express adenosine deaminase", 
+            "probability": 0.5827878084660224, 
+            "start_logit": 4.6824164390563965, 
+            "end_logit": 5.425833702087402
+        }, 
+        {
+            "text": "autologous CD34+ cells transduced to express adenosine deaminase [ADA]", 
+            "probability": 0.2596636756096802, 
+            "start_logit": 4.6824164390563965, 
+            "end_logit": 4.617397785186768
+        }, 
+        {
+            "text": "autologous CD34+ cells transduced to express adenosine deaminase [ADA])", 
+            "probability": 0.06875099386211535, 
+            "start_logit": 4.6824164390563965, 
+            "end_logit": 3.288501739501953
+        }, 
+        {
+            "text": "autologous CD34+ cells transduced to express adenosine deaminase [ADA", 
+            "probability": 0.06608591713053814, 
+            "start_logit": 4.6824164390563965, 
+            "end_logit": 3.2489662170410156
+        }, 
+        {
+            "text": "CD34+ cells transduced to express adenosine deaminase", 
+            "probability": 0.010427001176307613, 
+            "start_logit": 0.6589919924736023, 
+            "end_logit": 5.425833702087402
+        }, 
+        {
+            "text": "CD34+ cells transduced to express adenosine deaminase [ADA]", 
+            "probability": 0.004645796311616471, 
+            "start_logit": 0.6589919924736023, 
+            "end_logit": 4.617397785186768
+        }, 
+        {
+            "text": "(autologous CD34+ cells transduced to express adenosine deaminase", 
+            "probability": 0.0015083692972649, 
+            "start_logit": -1.2743775844573975, 
+            "end_logit": 5.425833702087402
+        }, 
+        {
+            "text": "CD34+ cells transduced to express adenosine deaminase [ADA])", 
+            "probability": 0.0012300646709811687, 
+            "start_logit": 0.6589919924736023, 
+            "end_logit": 3.288501739501953
+        }, 
+        {
+            "text": "CD34+ cells transduced to express adenosine deaminase [ADA", 
+            "probability": 0.0011823822078077379, 
+            "start_logit": 0.6589919924736023, 
+            "end_logit": 3.2489662170410156
+        }, 
+        {
+            "text": "autologous CD34+ cells", 
+            "probability": 0.0007845369843485374, 
+            "start_logit": 4.6824164390563965, 
+            "end_logit": -1.1846510171890259
+        }, 
+        {
+            "text": "cells transduced to express adenosine deaminase", 
+            "probability": 0.0007119569300669125, 
+            "start_logit": -2.025144577026367, 
+            "end_logit": 5.425833702087402
+        }, 
+        {
+            "text": "(autologous CD34+ cells transduced to express adenosine deaminase [ADA]", 
+            "probability": 0.0006720605857138983, 
+            "start_logit": -1.2743775844573975, 
+            "end_logit": 4.617397785186768
+        }, 
+        {
+            "text": "cells transduced to express adenosine deaminase [ADA]", 
+            "probability": 0.0003172155468103563, 
+            "start_logit": -2.025144577026367, 
+            "end_logit": 4.617397785186768
+        }, 
+        {
+            "text": "autologous CD34+", 
+            "probability": 0.00023886013562077337, 
+            "start_logit": 4.6824164390563965, 
+            "end_logit": -2.373866558074951
+        }, 
+        {
+            "text": "autologous", 
+            "probability": 0.00022427093343707874, 
+            "start_logit": 4.6824164390563965, 
+            "end_logit": -2.436889886856079
+        }, 
+        {
+            "text": "transduced to express adenosine deaminase", 
+            "probability": 0.00021304441719398697, 
+            "start_logit": -3.231661319732666, 
+            "end_logit": 5.425833702087402
+        }, 
+        {
+            "text": "(autologous CD34+ cells transduced to express adenosine deaminase [ADA])", 
+            "probability": 0.0001779410735633266, 
+            "start_logit": -1.2743775844573975, 
+            "end_logit": 3.288501739501953
+        }, 
+        {
+            "text": "(autologous CD34+ cells transduced to express adenosine deaminase [ADA", 
+            "probability": 0.0001710433316092745, 
+            "start_logit": -1.2743775844573975, 
+            "end_logit": 3.2489662170410156
+        }, 
+        {
+            "text": "autologous CD34+ cells transduced to express adenosine deaminase [ADA]) is the first ex vivo", 
+            "probability": 0.00010485568382088979, 
+            "start_logit": 4.6824164390563965, 
+            "end_logit": -3.197159767150879
+        }, 
+        {
+            "text": "autologous CD34+ cells transduced to express", 
+            "probability": 0.0001022056454809823, 
+            "start_logit": 4.6824164390563965, 
+            "end_logit": -3.2227578163146973
+        }
+    ], 
+    "5cb0e4a6ecadf2e73f00005b": [
+        {
+            "text": "a human surfaceome of 2,886 proteins", 
+            "probability": 0.4042877461286031, 
+            "start_logit": 4.134148120880127, 
+            "end_logit": 5.376269340515137
+        }, 
+        {
+            "text": "human surfaceome of 2,886 proteins", 
+            "probability": 0.28804105982842365, 
+            "start_logit": 3.7951242923736572, 
+            "end_logit": 5.376269340515137
+        }, 
+        {
+            "text": "a human surfaceome", 
+            "probability": 0.12381726655098473, 
+            "start_logit": 4.134148120880127, 
+            "end_logit": 4.192949295043945
+        }, 
+        {
+            "text": "human surfaceome", 
+            "probability": 0.08821552724246874, 
+            "start_logit": 3.7951242923736572, 
+            "end_logit": 4.192949295043945
+        }, 
+        {
+            "text": "2,886 proteins", 
+            "probability": 0.04408955339428349, 
+            "start_logit": 1.9182441234588623, 
+            "end_logit": 5.376269340515137
+        }, 
+        {
+            "text": "surfaceome of 2,886 proteins", 
+            "probability": 0.03600957921091858, 
+            "start_logit": 1.715806245803833, 
+            "end_logit": 5.376269340515137
+        }, 
+        {
+            "text": "surfaceome", 
+            "probability": 0.011028302762678419, 
+            "start_logit": 1.715806245803833, 
+            "end_logit": 4.192949295043945
+        }, 
+        {
+            "text": "predict a human surfaceome of 2,886 proteins", 
+            "probability": 0.0008447268094985213, 
+            "start_logit": -2.0367207527160645, 
+            "end_logit": 5.376269340515137
+        }, 
+        {
+            "text": "a human", 
+            "probability": 0.0005958322540929074, 
+            "start_logit": 4.134148120880127, 
+            "end_logit": -1.1436536312103271
+        }, 
+        {
+            "text": "to predict a human surfaceome of 2,886 proteins", 
+            "probability": 0.0005342216942911073, 
+            "start_logit": -2.4949231147766113, 
+            "end_logit": 5.376269340515137
+        }, 
+        {
+            "text": "human", 
+            "probability": 0.0004245099080848382, 
+            "start_logit": 3.7951242923736572, 
+            "end_logit": -1.1436536312103271
+        }, 
+        {
+            "text": "a human surfaceome of 2,886", 
+            "probability": 0.0004138124598270976, 
+            "start_logit": 4.134148120880127, 
+            "end_logit": -1.50819993019104
+        }, 
+        {
+            "text": "proteins", 
+            "probability": 0.0003296634143259817, 
+            "start_logit": -2.9776618480682373, 
+            "end_logit": 5.376269340515137
+        }, 
+        {
+            "text": "SURFY was used to predict a human surfaceome of 2,886 proteins", 
+            "probability": 0.00031426702612994995, 
+            "start_logit": -3.0254909992218018, 
+            "end_logit": 5.376269340515137
+        }, 
+        {
+            "text": "human surfaceome of 2,886", 
+            "probability": 0.0002948270894683227, 
+            "start_logit": 3.7951242923736572, 
+            "end_logit": -1.50819993019104
+        }, 
+        {
+            "text": "predict a human surfaceome", 
+            "probability": 0.00025870624458939424, 
+            "start_logit": -2.0367207527160645, 
+            "end_logit": 4.192949295043945
+        }, 
+        {
+            "text": "to predict a human surfaceome", 
+            "probability": 0.00016361087011111108, 
+            "start_logit": -2.4949231147766113, 
+            "end_logit": 4.192949295043945
+        }, 
+        {
+            "text": "a human surfaceome of 2,886 proteins with an accuracy of 93.5%,", 
+            "probability": 0.00014046391994822829, 
+            "start_logit": 4.134148120880127, 
+            "end_logit": -2.5886621475219727
+        }, 
+        {
+            "text": "human surfaceome of 2,886 proteins with an accuracy of 93.5%,", 
+            "probability": 0.0001000756930106719, 
+            "start_logit": 3.7951242923736572, 
+            "end_logit": -2.5886621475219727
+        }, 
+        {
+            "text": "SURFY was used to predict a human surfaceome", 
+            "probability": 9.624749826115078e-05, 
+            "start_logit": -3.0254909992218018, 
+            "end_logit": 4.192949295043945
+        }
+    ], 
+    "5c897555d558e5f232000009": [
+        {
+            "text": "PAV9.1", 
+            "probability": 0.9812492107058834, 
+            "start_logit": 0.03394349291920662, 
+            "end_logit": 0.7507182955741882
+        }, 
+        {
+            "text": "1", 
+            "probability": 0.00417332707062661, 
+            "start_logit": -5.426169395446777, 
+            "end_logit": 0.7507182955741882
+        }, 
+        {
+            "text": "PAV9", 
+            "probability": 0.004078328600812499, 
+            "start_logit": 0.03394349291920662, 
+            "end_logit": -4.732420921325684
+        }, 
+        {
+            "text": "PAV9.", 
+            "probability": 0.00240830766099461, 
+            "start_logit": 0.03394349291920662, 
+            "end_logit": -5.259183883666992
+        }, 
+        {
+            "text": "PA", 
+            "probability": 0.001885016022471665, 
+            "start_logit": 0.03394349291920662, 
+            "end_logit": -5.504171848297119
+        }, 
+        {
+            "text": "This antibody, PAV9.1", 
+            "probability": 0.0014716058569705938, 
+            "start_logit": -6.468528747558594, 
+            "end_logit": 0.7507182955741882
+        }, 
+        {
+            "text": "9.1", 
+            "probability": 0.0014631995384031301, 
+            "start_logit": -6.474257469177246, 
+            "end_logit": 0.7507182955741882
+        }, 
+        {
+            "text": "AAV9 following immunization of BALB/c mice and hybridoma screening. This antibody, PAV9.1", 
+            "probability": 0.0010246385646704484, 
+            "start_logit": -6.830543041229248, 
+            "end_logit": 0.7507182955741882
+        }, 
+        {
+            "text": "antibody, PAV9.1", 
+            "probability": 0.0009579941006089657, 
+            "start_logit": -6.897796630859375, 
+            "end_logit": 0.7507182955741882
+        }, 
+        {
+            "text": ".1", 
+            "probability": 0.0005281053821443172, 
+            "start_logit": -7.493342399597168, 
+            "end_logit": 0.7507182955741882
+        }, 
+        {
+            "text": "PAV9.1, is specific for intact AAV9", 
+            "probability": 0.0004634152563936888, 
+            "start_logit": 0.03394349291920662, 
+            "end_logit": -6.90723991394043
+        }, 
+        {
+            "text": "PAV9.1,", 
+            "probability": 0.00020840445705345021, 
+            "start_logit": 0.03394349291920662, 
+            "end_logit": -7.706382751464844
+        }, 
+        {
+            "text": "PAV9.1. In addition, in vivo studies showed that mutations in the PAV9.1", 
+            "probability": 4.43304681688532e-05, 
+            "start_logit": -4.338704586029053, 
+            "end_logit": -4.881543159484863
+        }, 
+        {
+            "text": "PAV9.1.", 
+            "probability": 1.3486250999056106e-05, 
+            "start_logit": -4.338704586029053, 
+            "end_logit": -6.071544647216797
+        }, 
+        {
+            "text": "This antibody, PAV9", 
+            "probability": 6.116379193099079e-06, 
+            "start_logit": -6.468528747558594, 
+            "end_logit": -4.732420921325684
+        }, 
+        {
+            "text": "9", 
+            "probability": 6.081440332443522e-06, 
+            "start_logit": -6.474257469177246, 
+            "end_logit": -4.732420921325684
+        }, 
+        {
+            "text": "AAV9", 
+            "probability": 5.280984548370691e-06, 
+            "start_logit": -6.830543041229248, 
+            "end_logit": -4.517264366149902
+        }, 
+        {
+            "text": "PAV9.1 interactions are also responsible for AAV9", 
+            "probability": 4.910919335089062e-06, 
+            "start_logit": -6.715593338012695, 
+            "end_logit": -4.704865455627441
+        }, 
+        {
+            "text": "AAV9 following immunization of BALB/c mice and hybridoma screening. This antibody, PAV9", 
+            "probability": 4.258666114783252e-06, 
+            "start_logit": -6.830543041229248, 
+            "end_logit": -4.732420921325684
+        }, 
+        {
+            "text": "antibody, PAV9", 
+            "probability": 3.981674275297092e-06, 
+            "start_logit": -6.897796630859375, 
+            "end_logit": -4.732420921325684
+        }
+    ], 
+    "5c89773ed558e5f23200000a": [
+        {
+            "text": "PAV9.1", 
+            "probability": 0.9894970888995339, 
+            "start_logit": 0.40828555822372437, 
+            "end_logit": 0.8928672075271606
+        }, 
+        {
+            "text": "PAV9", 
+            "probability": 0.0028924852486498258, 
+            "start_logit": 0.40828555822372437, 
+            "end_logit": -4.942213535308838
+        }, 
+        {
+            "text": "1", 
+            "probability": 0.002270766833448495, 
+            "start_logit": -5.668793678283691, 
+            "end_logit": 0.8928672075271606
+        }, 
+        {
+            "text": "PAV9.", 
+            "probability": 0.0019822369311177502, 
+            "start_logit": 0.40828555822372437, 
+            "end_logit": -5.320103645324707
+        }, 
+        {
+            "text": "PA", 
+            "probability": 0.0013782637532718854, 
+            "start_logit": 0.40828555822372437, 
+            "end_logit": -5.683505058288574
+        }, 
+        {
+            "text": "9.1", 
+            "probability": 0.0007707287532174746, 
+            "start_logit": -6.749330043792725, 
+            "end_logit": 0.8928672075271606
+        }, 
+        {
+            "text": ".1", 
+            "probability": 0.00034332283844033947, 
+            "start_logit": -7.557995319366455, 
+            "end_logit": 0.8928672075271606
+        }, 
+        {
+            "text": "PAV9.1, is specific for intact AAV9", 
+            "probability": 0.000304905245820929, 
+            "start_logit": 0.40828555822372437, 
+            "end_logit": -7.192083835601807
+        }, 
+        {
+            "text": "This antibody, PAV9.1", 
+            "probability": 0.0003036543195711289, 
+            "start_logit": -7.680776596069336, 
+            "end_logit": 0.8928672075271606
+        }, 
+        {
+            "text": "antibody, PAV9.1", 
+            "probability": 0.00021323062420995753, 
+            "start_logit": -8.034292221069336, 
+            "end_logit": 0.8928672075271606
+        }, 
+        {
+            "text": "adeno-associated virus (AAV)", 
+            "probability": 1.2845501499832977e-05, 
+            "start_logit": -4.913084030151367, 
+            "end_logit": -5.037721633911133
+        }, 
+        {
+            "text": "adeno-associated virus", 
+            "probability": 5.621543480292232e-06, 
+            "start_logit": -4.913084030151367, 
+            "end_logit": -5.864109039306641
+        }, 
+        {
+            "text": "PAV9.1. In addition, in vivo studies showed that mutations in the PAV9.1", 
+            "probability": 5.551331411788072e-06, 
+            "start_logit": -5.929507255554199, 
+            "end_logit": -4.860254287719727
+        }, 
+        {
+            "text": "adeno-associated virus (AAV)-based vectors", 
+            "probability": 4.646288896212545e-06, 
+            "start_logit": -4.913084030151367, 
+            "end_logit": -6.0546464920043945
+        }, 
+        {
+            "text": "PAV9.1 interactions are also responsible for AAV9", 
+            "probability": 3.7377335900186685e-06, 
+            "start_logit": -6.5849175453186035, 
+            "end_logit": -4.600402355194092
+        }, 
+        {
+            "text": "adeno-associated virus (AAV)-based vectors for treating rare diseases", 
+            "probability": 2.68450094614479e-06, 
+            "start_logit": -4.913084030151367, 
+            "end_logit": -6.603220462799072
+        }, 
+        {
+            "text": "9", 
+            "probability": 2.2529844447255025e-06, 
+            "start_logit": -6.749330043792725, 
+            "end_logit": -4.942213535308838
+        }, 
+        {
+            "text": "AAV9, indicating that the residues involved in PAV9.1 interactions are also responsible for AAV9", 
+            "probability": 2.1569388275871344e-06, 
+            "start_logit": -7.134706974029541, 
+            "end_logit": -4.600402355194092
+        }, 
+        {
+            "text": "adeno-associated virus (AAV", 
+            "probability": 2.148725408205865e-06, 
+            "start_logit": -4.913084030151367, 
+            "end_logit": -6.825840473175049
+        }, 
+        {
+            "text": "AAV)", 
+            "probability": 1.6710042134993222e-06, 
+            "start_logit": -6.952652931213379, 
+            "end_logit": -5.037721633911133
+        }
+    ], 
+    "5c9fb428ecadf2e73f000041": [
+        {
+            "text": "stress", 
+            "probability": 0.9928890781664652, 
+            "start_logit": 5.844210624694824, 
+            "end_logit": 5.498474597930908
+        }, 
+        {
+            "text": "stress in AD", 
+            "probability": 0.004837310853945086, 
+            "start_logit": 3.991163969039917, 
+            "end_logit": 2.027261257171631
+        }, 
+        {
+            "text": "AD", 
+            "probability": 0.0007766498051213387, 
+            "start_logit": 2.162039279937744, 
+            "end_logit": 2.027261257171631
+        }, 
+        {
+            "text": "stress in AD patients", 
+            "probability": 0.00029444275041205705, 
+            "start_logit": 3.991163969039917, 
+            "end_logit": -0.7717683911323547
+        }, 
+        {
+            "text": "the stress", 
+            "probability": 0.0002618626835873007, 
+            "start_logit": -0.660647988319397, 
+            "end_logit": 3.7627792358398438
+        }, 
+        {
+            "text": "rheumatic conditions", 
+            "probability": 0.00022204546004556502, 
+            "start_logit": 2.449887275695801, 
+            "end_logit": 0.4873058497905731
+        }, 
+        {
+            "text": "rheumatic", 
+            "probability": 0.00019031900519291608, 
+            "start_logit": 2.449887275695801, 
+            "end_logit": 0.33312535285949707
+        }, 
+        {
+            "text": "stress biomarker with high discriminatory power and significant correlations with subjective and autonomic stress measures. Our results can inform future stress", 
+            "probability": 0.00016027777705400953, 
+            "start_logit": 5.844210624694824, 
+            "end_logit": -3.2329912185668945
+        }, 
+        {
+            "text": "stress in AD patients.", 
+            "probability": 6.874427609416419e-05, 
+            "start_logit": 3.991163969039917, 
+            "end_logit": -2.226459503173828
+        }, 
+        {
+            "text": "stress biomarker with high discriminatory power and significant correlations with subjective and autonomic stress measures", 
+            "probability": 5.905696479763584e-05, 
+            "start_logit": 5.844210624694824, 
+            "end_logit": -4.2313971519470215
+        }, 
+        {
+            "text": "AD patients", 
+            "probability": 4.727397341860203e-05, 
+            "start_logit": 2.162039279937744, 
+            "end_logit": -0.7717683911323547
+        }, 
+        {
+            "text": "the stress in AD", 
+            "probability": 4.6168709231151925e-05, 
+            "start_logit": -0.660647988319397, 
+            "end_logit": 2.027261257171631
+        }, 
+        {
+            "text": "stress biomarker", 
+            "probability": 4.5557717798299895e-05, 
+            "start_logit": 5.844210624694824, 
+            "end_logit": -4.490919589996338
+        }, 
+        {
+            "text": "evaluate the stress", 
+            "probability": 3.442290221109175e-05, 
+            "start_logit": -2.689746141433716, 
+            "end_logit": 3.7627792358398438
+        }, 
+        {
+            "text": "stress biomarker with high discriminatory power and significant correlations with subjective and autonomic stress", 
+            "probability": 2.2018941006873986e-05, 
+            "start_logit": 5.844210624694824, 
+            "end_logit": -5.217996597290039
+        }, 
+        {
+            "text": "stress biomarker with high discriminatory power and significant correlations with subjective and autonomic stress measures.", 
+            "probability": 1.2422302030295208e-05, 
+            "start_logit": 5.844210624694824, 
+            "end_logit": -5.790406227111816
+        }, 
+        {
+            "text": "AD patients.", 
+            "probability": 1.1037171321788744e-05, 
+            "start_logit": 2.162039279937744, 
+            "end_logit": -2.226459503173828
+        }, 
+        {
+            "text": "salivary cortisone to be a stress", 
+            "probability": 7.807646757277498e-06, 
+            "start_logit": -5.909060001373291, 
+            "end_logit": 5.498474597930908
+        }, 
+        {
+            "text": "stress biomarker with high discriminatory power", 
+            "probability": 7.43383112403957e-06, 
+            "start_logit": 5.844210624694824, 
+            "end_logit": -6.303858280181885
+        }, 
+        {
+            "text": "evaluate the stress in AD", 
+            "probability": 6.069062385310956e-06, 
+            "start_logit": -2.689746141433716, 
+            "end_logit": 2.027261257171631
+        }
+    ], 
+    "5c8aa082d558e5f23200000c": [
+        {
+            "text": "vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells", 
+            "probability": 0.6879206686304092, 
+            "start_logit": 6.592835903167725, 
+            "end_logit": 6.210770606994629
+        }, 
+        {
+            "text": "vital in the recognition of DNA encoded viruses", 
+            "probability": 0.14811407288378856, 
+            "start_logit": 6.592835903167725, 
+            "end_logit": 4.675079822540283
+        }, 
+        {
+            "text": "recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells", 
+            "probability": 0.057383552373316445, 
+            "start_logit": 4.108920097351074, 
+            "end_logit": 6.210770606994629
+        }, 
+        {
+            "text": "vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus", 
+            "probability": 0.044266012056461176, 
+            "start_logit": 6.592835903167725, 
+            "end_logit": 3.4673142433166504
+        }, 
+        {
+            "text": "The cGAS pathway is vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells", 
+            "probability": 0.01493000512063721, 
+            "start_logit": 2.762535333633423, 
+            "end_logit": 6.210770606994629
+        }, 
+        {
+            "text": "recognition of DNA encoded viruses", 
+            "probability": 0.012355075295925454, 
+            "start_logit": 4.108920097351074, 
+            "end_logit": 4.675079822540283
+        }, 
+        {
+            "text": "the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells", 
+            "probability": 0.007656273071536182, 
+            "start_logit": 2.0946877002716064, 
+            "end_logit": 6.210770606994629
+        }, 
+        {
+            "text": "vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells.", 
+            "probability": 0.007267777461831326, 
+            "start_logit": 6.592835903167725, 
+            "end_logit": 1.6605476140975952
+        }, 
+        {
+            "text": "is vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells", 
+            "probability": 0.004794253333318891, 
+            "start_logit": 1.6265803575515747, 
+            "end_logit": 6.210770606994629
+        }, 
+        {
+            "text": "recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus", 
+            "probability": 0.0036924912086985246, 
+            "start_logit": 4.108920097351074, 
+            "end_logit": 3.4673142433166504
+        }, 
+        {
+            "text": "The cGAS pathway is vital in the recognition of DNA encoded viruses", 
+            "probability": 0.0032145332556964617, 
+            "start_logit": 2.762535333633423, 
+            "end_logit": 4.675079822540283
+        }, 
+        {
+            "text": "the recognition of DNA encoded viruses", 
+            "probability": 0.0016484484904246265, 
+            "start_logit": 2.0946877002716064, 
+            "end_logit": 4.675079822540283
+        }, 
+        {
+            "text": "vital in the recognition", 
+            "probability": 0.0013484444060070074, 
+            "start_logit": 6.592835903167725, 
+            "end_logit": -0.023951280862092972
+        }, 
+        {
+            "text": "vital in the recognition of DNA encoded viruses as well as self-DNA leaked", 
+            "probability": 0.0010940735297792952, 
+            "start_logit": 6.592835903167725, 
+            "end_logit": -0.23299500346183777
+        }, 
+        {
+            "text": "is vital in the recognition of DNA encoded viruses", 
+            "probability": 0.00103223586674359, 
+            "start_logit": 1.6265803575515747, 
+            "end_logit": 4.675079822540283
+        }, 
+        {
+            "text": "The cGAS pathway is vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus", 
+            "probability": 0.0009607093038633835, 
+            "start_logit": 2.762535333633423, 
+            "end_logit": 3.4673142433166504
+        }, 
+        {
+            "text": "in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells", 
+            "probability": 0.0007722912664453698, 
+            "start_logit": -0.1992311328649521, 
+            "end_logit": 6.210770606994629
+        }, 
+        {
+            "text": "recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells.", 
+            "probability": 0.0006062485220118754, 
+            "start_logit": 4.108920097351074, 
+            "end_logit": 1.6605476140975952
+        }, 
+        {
+            "text": "the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus", 
+            "probability": 0.0004926624413930253, 
+            "start_logit": 2.0946877002716064, 
+            "end_logit": 3.4673142433166504
+        }, 
+        {
+            "text": "vital", 
+            "probability": 0.00045017148171219533, 
+            "start_logit": 6.592835903167725, 
+            "end_logit": -1.1210296154022217
+        }
+    ], 
+    "5c8fe7cb0101eac87000000c": [
+        {
+            "text": "Runt related factor-2", 
+            "probability": 0.6463780397332549, 
+            "start_logit": 5.269871234893799, 
+            "end_logit": 5.625141143798828
+        }, 
+        {
+            "text": "master regulator of osteoblastic differentiation Runt related factor-2", 
+            "probability": 0.1471144983692609, 
+            "start_logit": 3.7896978855133057, 
+            "end_logit": 5.625141143798828
+        }, 
+        {
+            "text": "Runt related factor-2 (Runx2", 
+            "probability": 0.0569331354119391, 
+            "start_logit": 5.269871234893799, 
+            "end_logit": 3.195634126663208
+        }, 
+        {
+            "text": "Runt related factor-2 (Runx2)", 
+            "probability": 0.041549493325786675, 
+            "start_logit": 5.269871234893799, 
+            "end_logit": 2.8806419372558594
+        }, 
+        {
+            "text": "master regulator of osteoblastic differentiation", 
+            "probability": 0.03842765007904962, 
+            "start_logit": 3.7896978855133057, 
+            "end_logit": 4.282707214355469
+        }, 
+        {
+            "text": "master regulator of osteoblastic differentiation Runt related factor-2 (Runx2", 
+            "probability": 0.01295788090228603, 
+            "start_logit": 3.7896978855133057, 
+            "end_logit": 3.195634126663208
+        }, 
+        {
+            "text": "Runt related factor", 
+            "probability": 0.012843640987429274, 
+            "start_logit": 5.269871234893799, 
+            "end_logit": 1.7066054344177246
+        }, 
+        {
+            "text": "the master regulator of osteoblastic differentiation Runt related factor-2", 
+            "probability": 0.010977881716146762, 
+            "start_logit": 1.1943691968917847, 
+            "end_logit": 5.625141143798828
+        }, 
+        {
+            "text": "master regulator of osteoblastic differentiation Runt related factor-2 (Runx2)", 
+            "probability": 0.009456591177884941, 
+            "start_logit": 3.7896978855133057, 
+            "end_logit": 2.8806419372558594
+        }, 
+        {
+            "text": "Runx2", 
+            "probability": 0.004599074430726656, 
+            "start_logit": 2.7538487911224365, 
+            "end_logit": 3.195634126663208
+        }, 
+        {
+            "text": "Runt related factor-2 (Runx2),", 
+            "probability": 0.00340056624409345, 
+            "start_logit": 5.269871234893799, 
+            "end_logit": 0.3776985704898834
+        }, 
+        {
+            "text": "Runx2)", 
+            "probability": 0.0033563795666908098, 
+            "start_logit": 2.7538487911224365, 
+            "end_logit": 2.8806419372558594
+        }, 
+        {
+            "text": "master regulator of osteoblastic differentiation Runt related factor", 
+            "probability": 0.0029231899677165437, 
+            "start_logit": 3.7896978855133057, 
+            "end_logit": 1.7066054344177246
+        }, 
+        {
+            "text": "the master regulator of osteoblastic differentiation", 
+            "probability": 0.002867522928558818, 
+            "start_logit": 1.1943691968917847, 
+            "end_logit": 4.282707214355469
+        }, 
+        {
+            "text": "regulator of osteoblastic differentiation Runt related factor-2", 
+            "probability": 0.0016656228502710607, 
+            "start_logit": -0.691314160823822, 
+            "end_logit": 5.625141143798828
+        }, 
+        {
+            "text": "Runt related factor-", 
+            "probability": 0.0014159307945097645, 
+            "start_logit": 5.269871234893799, 
+            "end_logit": -0.49845626950263977
+        }, 
+        {
+            "text": "the master regulator of osteoblastic differentiation Runt related factor-2 (Runx2", 
+            "probability": 0.0009669344994139326, 
+            "start_logit": 1.1943691968917847, 
+            "end_logit": 3.195634126663208
+        }, 
+        {
+            "text": "master regulator of osteoblastic differentiation Runt related factor-2 (Runx2),", 
+            "probability": 0.0007739628613894436, 
+            "start_logit": 3.7896978855133057, 
+            "end_logit": 0.3776985704898834
+        }, 
+        {
+            "text": "the master regulator of osteoblastic differentiation Runt related factor-2 (Runx2)", 
+            "probability": 0.0007056635514482326, 
+            "start_logit": 1.1943691968917847, 
+            "end_logit": 2.8806419372558594
+        }, 
+        {
+            "text": "osteoblastic differentiation Runt related factor-2", 
+            "probability": 0.0006863406021429878, 
+            "start_logit": -1.5778945684432983, 
+            "end_logit": 5.625141143798828
+        }
+    ], 
+    "5c9ff25eecadf2e73f000043": [
+        {
+            "text": "partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb)", 
+            "probability": 0.14699091347548615, 
+            "start_logit": -5.845795631408691, 
+            "end_logit": -5.069057464599609
+        }, 
+        {
+            "text": "partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb", 
+            "probability": 0.13623411637556881, 
+            "start_logit": -5.845795631408691, 
+            "end_logit": -5.145053386688232
+        }, 
+        {
+            "text": "Cobb)", 
+            "probability": 0.08533968265530671, 
+            "start_logit": -6.389526844024658, 
+            "end_logit": -5.069057464599609
+        }, 
+        {
+            "text": "Cobb", 
+            "probability": 0.07909452348737242, 
+            "start_logit": -6.389526844024658, 
+            "end_logit": -5.145053386688232
+        }, 
+        {
+            "text": "extensor tendon transfer to the metatarsal head (Cobb)", 
+            "probability": 0.07624239243356175, 
+            "start_logit": -6.502248764038086, 
+            "end_logit": -5.069057464599609
+        }, 
+        {
+            "text": "extensor tendon transfer to the metatarsal head (Cobb", 
+            "probability": 0.0706629730910398, 
+            "start_logit": -6.502248764038086, 
+            "end_logit": -5.145053386688232
+        }, 
+        {
+            "text": "partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb).", 
+            "probability": 0.04464919386305741, 
+            "start_logit": -5.845795631408691, 
+            "end_logit": -6.260591983795166
+        }, 
+        {
+            "text": "Cobb). We present a retrospective, three surgeon case series of 215 toes in 126", 
+            "probability": 0.040374478416933715, 
+            "start_logit": -6.389526844024658, 
+            "end_logit": -5.817499160766602
+        }, 
+        {
+            "text": "126", 
+            "probability": 0.03919080961245407, 
+            "start_logit": -6.41928243637085, 
+            "end_logit": -5.817499160766602
+        }, 
+        {
+            "text": "combines partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb)", 
+            "probability": 0.03675915479390218, 
+            "start_logit": -7.231779098510742, 
+            "end_logit": -5.069057464599609
+        }, 
+        {
+            "text": "extensor tendon transfer to the metatarsal head (Cobb). We present a retrospective, three surgeon case series of 215 toes in 126", 
+            "probability": 0.036070521145449945, 
+            "start_logit": -6.502248764038086, 
+            "end_logit": -5.817499160766602
+        }, 
+        {
+            "text": "combines partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb", 
+            "probability": 0.034069119332979604, 
+            "start_logit": -7.231779098510742, 
+            "end_logit": -5.145053386688232
+        }, 
+        {
+            "text": "partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head", 
+            "probability": 0.03336101945673442, 
+            "start_logit": -5.845795631408691, 
+            "end_logit": -6.552040100097656
+        }, 
+        {
+            "text": "Cobb).", 
+            "probability": 0.025922337272392314, 
+            "start_logit": -6.389526844024658, 
+            "end_logit": -6.260591983795166
+        }, 
+        {
+            "text": "extensor tendon transfer to the metatarsal head (Cobb).", 
+            "probability": 0.023158991803375086, 
+            "start_logit": -6.502248764038086, 
+            "end_logit": -6.260591983795166
+        }, 
+        {
+            "text": "Cobb). We present a retrospective, three surgeon case series of 215 toes in 126 patients.", 
+            "probability": 0.019685602024881555, 
+            "start_logit": -6.389526844024658, 
+            "end_logit": -6.535809516906738
+        }, 
+        {
+            "text": "partial phalangectomy", 
+            "probability": 0.01923521636927051, 
+            "start_logit": -5.845795631408691, 
+            "end_logit": -7.102685451507568
+        }, 
+        {
+            "text": "126 patients.", 
+            "probability": 0.019108474246941506, 
+            "start_logit": -6.41928243637085, 
+            "end_logit": -6.535809516906738
+        }, 
+        {
+            "text": "extensor tendon transfer to the metatarsal head", 
+            "probability": 0.01730395353878947, 
+            "start_logit": -6.502248764038086, 
+            "end_logit": -6.552040100097656
+        }, 
+        {
+            "text": "three surgeon case series of 215 toes in 126", 
+            "probability": 0.016546526604502565, 
+            "start_logit": -7.281548500061035, 
+            "end_logit": -5.817499160766602
+        }
+    ], 
+    "5c900b9eecadf2e73f000004": [
+        {
+            "text": "Alnylam Pharmaceuticals", 
+            "probability": 0.9934921201512992, 
+            "start_logit": 9.090022087097168, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "Alnylam", 
+            "probability": 0.005374002637488172, 
+            "start_logit": 9.090022087097168, 
+            "end_logit": 4.560336112976074
+        }, 
+        {
+            "text": "Alnylam Pharmaceuticals;", 
+            "probability": 0.0009043070424942431, 
+            "start_logit": 9.090022087097168, 
+            "end_logit": 2.778176784515381
+        }, 
+        {
+            "text": "Pharmaceuticals", 
+            "probability": 5.185916496111394e-05, 
+            "start_logit": -0.7704276442527771, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "s", 
+            "probability": 3.786004528094809e-05, 
+            "start_logit": -1.0850629806518555, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "Patisiran has been developed by Alnylam Pharmaceuticals", 
+            "probability": 2.9943574243957176e-05, 
+            "start_logit": -1.319644570350647, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "Al", 
+            "probability": 2.3659809788476097e-05, 
+            "start_logit": 9.090022087097168, 
+            "end_logit": -0.8652143478393555
+        }, 
+        {
+            "text": "Alnylam Pharmaceutical", 
+            "probability": 2.1313686149777655e-05, 
+            "start_logit": 9.090022087097168, 
+            "end_logit": -0.9696427583694458
+        }, 
+        {
+            "text": "developed by Alnylam Pharmaceuticals", 
+            "probability": 2.1104748702212454e-05, 
+            "start_logit": -1.6694612503051758, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "lam Pharmaceuticals", 
+            "probability": 1.20871874855706e-05, 
+            "start_logit": -2.226813316345215, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "Alnylam Ph", 
+            "probability": 1.1309185839042857e-05, 
+            "start_logit": 9.090022087097168, 
+            "end_logit": -1.603376865386963
+        }, 
+        {
+            "text": "nylam Pharmaceuticals", 
+            "probability": 7.373084236259142e-06, 
+            "start_logit": -2.721123218536377, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "uticals", 
+            "probability": 3.502983007727713e-06, 
+            "start_logit": -3.4653444290161133, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "armaceuticals", 
+            "probability": 2.6933385926219428e-06, 
+            "start_logit": -3.728177785873413, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "ceuticals", 
+            "probability": 1.8498687299768408e-06, 
+            "start_logit": -4.10384464263916, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "Alnylam Pharma", 
+            "probability": 1.8243625024205017e-06, 
+            "start_logit": 9.090022087097168, 
+            "end_logit": -3.4277615547180176
+        }, 
+        {
+            "text": "by Alnylam Pharmaceuticals", 
+            "probability": 1.4648801976285425e-06, 
+            "start_logit": -4.337185859680176, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "Alny", 
+            "probability": 8.91433923219934e-07, 
+            "start_logit": 9.090022087097168, 
+            "end_logit": -4.143916130065918
+        }, 
+        {
+            "text": "has been developed by Alnylam Pharmaceuticals", 
+            "probability": 6.232527620406208e-07, 
+            "start_logit": -5.191762447357178, 
+            "end_logit": 9.779989242553711
+        }, 
+        {
+            "text": "Alnylam Pharmace", 
+            "probability": 2.095623153003129e-07, 
+            "start_logit": 9.090022087097168, 
+            "end_logit": -5.591726303100586
+        }
+    ], 
+    "5caa0247ecadf2e73f000055": [
+        {
+            "text": "Moe", 
+            "probability": 0.8867393265639831, 
+            "start_logit": 2.8254826068878174, 
+            "end_logit": 3.554450750350952
+        }, 
+        {
+            "text": "apical phosphorylated (active) Moe", 
+            "probability": 0.08449876535899514, 
+            "start_logit": 0.4746684730052948, 
+            "end_logit": 3.554450750350952
+        }, 
+        {
+            "text": "Moe,", 
+            "probability": 0.01927002811845549, 
+            "start_logit": 2.8254826068878174, 
+            "end_logit": -0.27454936504364014
+        }, 
+        {
+            "text": "recruits apical phosphorylated (active) Moe", 
+            "probability": 0.005596506639742521, 
+            "start_logit": -2.2399258613586426, 
+            "end_logit": 3.554450750350952
+        }, 
+        {
+            "text": "apical phosphorylated (active) Moe,", 
+            "probability": 0.0018362708584856238, 
+            "start_logit": 0.4746684730052948, 
+            "end_logit": -0.27454936504364014
+        }, 
+        {
+            "text": ") Moe", 
+            "probability": 0.000760290898258264, 
+            "start_logit": -4.2361226081848145, 
+            "end_logit": 3.554450750350952
+        }, 
+        {
+            "text": "Moe, which in turn regulates seamless tube shape through modulation of cortical actin filaments", 
+            "probability": 0.00016337351651297055, 
+            "start_logit": 2.8254826068878174, 
+            "end_logit": -5.044816493988037
+        }, 
+        {
+            "text": "apical phosphorylated (active)", 
+            "probability": 0.00015895761820950826, 
+            "start_logit": 0.4746684730052948, 
+            "end_logit": -2.7214038372039795
+        }, 
+        {
+            "text": "(active) Moe", 
+            "probability": 0.00015047616642392363, 
+            "start_logit": -5.856019020080566, 
+            "end_logit": 3.554450750350952
+        }, 
+        {
+            "text": "Crumbs, which recruits apical phosphorylated (active) Moe", 
+            "probability": 0.00014418961639026047, 
+            "start_logit": -5.8986945152282715, 
+            "end_logit": 3.554450750350952
+        }, 
+        {
+            "text": "recruits apical phosphorylated (active) Moe,", 
+            "probability": 0.0001216195527617435, 
+            "start_logit": -2.2399258613586426, 
+            "end_logit": -0.27454936504364014
+        }, 
+        {
+            "text": "Moe, which in turn regulates seamless tube shape", 
+            "probability": 0.00010784112622362399, 
+            "start_logit": 2.8254826068878174, 
+            "end_logit": -5.460196495056152
+        }, 
+        {
+            "text": "Moe, which in turn regulates seamless tube shape through modulation of cortical actin filaments.", 
+            "probability": 7.455254363365171e-05, 
+            "start_logit": 2.8254826068878174, 
+            "end_logit": -5.829351425170898
+        }, 
+        {
+            "text": "phosphorylated (active) Moe", 
+            "probability": 7.442119770528704e-05, 
+            "start_logit": -6.560082912445068, 
+            "end_logit": 3.554450750350952
+        }, 
+        {
+            "text": "Moesin", 
+            "probability": 7.266202166955428e-05, 
+            "start_logit": -1.8266714811325073, 
+            "end_logit": -1.2028826475143433
+        }, 
+        {
+            "text": "phospho-Moesin", 
+            "probability": 6.534090614779322e-05, 
+            "start_logit": -1.9328720569610596, 
+            "end_logit": -1.2028826475143433
+        }, 
+        {
+            "text": "moesin (Moe)", 
+            "probability": 5.9077411028883506e-05, 
+            "start_logit": -1.2505345344543457, 
+            "end_logit": -1.9859898090362549
+        }, 
+        {
+            "text": "moesin", 
+            "probability": 5.840219079090323e-05, 
+            "start_logit": -1.2505345344543457, 
+            "end_logit": -1.9974850416183472
+        }, 
+        {
+            "text": "Crumbs and phospho-Moesin", 
+            "probability": 2.741265567616953e-05, 
+            "start_logit": -2.801485538482666, 
+            "end_logit": -1.2028826475143433
+        }, 
+        {
+            "text": "a", 
+            "probability": 2.04850389053959e-05, 
+            "start_logit": 0.4746684730052948, 
+            "end_logit": -4.770346641540527
+        }
+    ], 
+    "5caa06d0ecadf2e73f000056": [
+        {
+            "text": "gastric mucosa", 
+            "probability": 0.8423370987217316, 
+            "start_logit": 9.600289344787598, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "the gastric mucosa", 
+            "probability": 0.09893700742359496, 
+            "start_logit": 7.458592414855957, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "endocrine cells in the gastric mucosa", 
+            "probability": 0.03386311784142023, 
+            "start_logit": 6.386435508728027, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "gastric mucosa.", 
+            "probability": 0.01658955074865585, 
+            "start_logit": 9.600289344787598, 
+            "end_logit": 6.688806533813477
+        }, 
+        {
+            "text": "in the gastric mucosa", 
+            "probability": 0.003280964764607375, 
+            "start_logit": 4.052246570587158, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "the gastric mucosa.", 
+            "probability": 0.0019485316603823051, 
+            "start_logit": 7.458592414855957, 
+            "end_logit": 6.688806533813477
+        }, 
+        {
+            "text": "from endocrine cells in the gastric mucosa", 
+            "probability": 0.001800374677371341, 
+            "start_logit": 3.452103853225708, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "endocrine cells in the gastric mucosa.", 
+            "probability": 0.000666922913392347, 
+            "start_logit": 6.386435508728027, 
+            "end_logit": 6.688806533813477
+        }, 
+        {
+            "text": "Ghrelin, an orexigenic peptide, is secreted from endocrine cells in the gastric mucosa", 
+            "probability": 0.00011047324590674805, 
+            "start_logit": 0.6611271500587463, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "mucosa", 
+            "probability": 0.00010351147524089853, 
+            "start_logit": 0.5960362553596497, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "secreted from endocrine cells in the gastric mucosa", 
+            "probability": 7.121550448030295e-05, 
+            "start_logit": 0.2220643311738968, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "in the gastric mucosa.", 
+            "probability": 6.461751660897315e-05, 
+            "start_logit": 4.052246570587158, 
+            "end_logit": 6.688806533813477
+        }, 
+        {
+            "text": "gastric", 
+            "probability": 6.134714685947516e-05, 
+            "start_logit": 9.600289344787598, 
+            "end_logit": 1.0888268947601318
+        }, 
+        {
+            "text": "endocrine cells", 
+            "probability": 5.80678696920861e-05, 
+            "start_logit": 6.386435508728027, 
+            "end_logit": 4.247744560241699
+        }, 
+        {
+            "text": "from endocrine cells in the gastric mucosa.", 
+            "probability": 3.5457784207974846e-05, 
+            "start_logit": 3.452103853225708, 
+            "end_logit": 6.688806533813477
+        }, 
+        {
+            "text": "gas", 
+            "probability": 2.5454054661240934e-05, 
+            "start_logit": 9.600289344787598, 
+            "end_logit": 0.20915327966213226
+        }, 
+        {
+            "text": "osa", 
+            "probability": 2.392249234128264e-05, 
+            "start_logit": -0.8688271045684814, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "tric mucosa", 
+            "probability": 9.586676925823093e-06, 
+            "start_logit": -1.7832719087600708, 
+            "end_logit": 10.61621379852295
+        }, 
+        {
+            "text": "the gastric", 
+            "probability": 7.205551237696753e-06, 
+            "start_logit": 7.458592414855957, 
+            "end_logit": 1.0888268947601318
+        }, 
+        {
+            "text": "is secreted from endocrine cells in the gastric mucosa", 
+            "probability": 5.571930681420761e-06, 
+            "start_logit": -2.325904607772827, 
+            "end_logit": 10.61621379852295
+        }
+    ], 
+    "5c840782617e120c34000006": [
+        {
+            "text": "a pro-inflammatory cytokine", 
+            "probability": 0.6483695863929261, 
+            "start_logit": 8.388274192810059, 
+            "end_logit": 8.064556121826172
+        }, 
+        {
+            "text": "pro-inflammatory cytokine", 
+            "probability": 0.3470790055984042, 
+            "start_logit": 7.763365745544434, 
+            "end_logit": 8.064556121826172
+        }, 
+        {
+            "text": "cytokine", 
+            "probability": 0.0015313064773610082, 
+            "start_logit": 2.3399345874786377, 
+            "end_logit": 8.064556121826172
+        }, 
+        {
+            "text": "a pro-inflammatory cytokine,", 
+            "probability": 0.001444015980529069, 
+            "start_logit": 8.388274192810059, 
+            "end_logit": 1.9575233459472656
+        }, 
+        {
+            "text": "pro-inflammatory cytokine,", 
+            "probability": 0.0007729968232755805, 
+            "start_logit": 7.763365745544434, 
+            "end_logit": 1.9575233459472656
+        }, 
+        {
+            "text": "Resistin, a pro-inflammatory cytokine", 
+            "probability": 0.00035219524582781603, 
+            "start_logit": 0.8702437281608582, 
+            "end_logit": 8.064556121826172
+        }, 
+        {
+            "text": "a pro-inflammatory", 
+            "probability": 0.00011092063278233947, 
+            "start_logit": 8.388274192810059, 
+            "end_logit": -0.6088451147079468
+        }, 
+        {
+            "text": ", a pro-inflammatory cytokine", 
+            "probability": 0.00010958118401035726, 
+            "start_logit": -0.2972762882709503, 
+            "end_logit": 8.064556121826172
+        }, 
+        {
+            "text": "a pro-inflammatory cytokine, is predictive of atherosclerosis and poor clinical outcomes", 
+            "probability": 8.451837186102752e-05, 
+            "start_logit": 8.388274192810059, 
+            "end_logit": -0.8806911110877991
+        }, 
+        {
+            "text": "pro-inflammatory", 
+            "probability": 5.937697223063357e-05, 
+            "start_logit": 7.763365745544434, 
+            "end_logit": -0.6088451147079468
+        }, 
+        {
+            "text": "pro-inflammatory cytokine, is predictive of atherosclerosis and poor clinical outcomes", 
+            "probability": 4.524356644104556e-05, 
+            "start_logit": 7.763365745544434, 
+            "end_logit": -0.8806911110877991
+        }, 
+        {
+            "text": "inflammatory cytokine", 
+            "probability": 1.3652752362896214e-05, 
+            "start_logit": -2.3800008296966553, 
+            "end_logit": 8.064556121826172
+        }, 
+        {
+            "text": "a", 
+            "probability": 6.46596675841676e-06, 
+            "start_logit": 8.388274192810059, 
+            "end_logit": -3.4511075019836426
+        }, 
+        {
+            "text": "a pro-inflammatory cytokine, is predictive of atherosclerosis", 
+            "probability": 5.173891981567263e-06, 
+            "start_logit": 8.388274192810059, 
+            "end_logit": -3.674034833908081
+        }, 
+        {
+            "text": "a pro", 
+            "probability": 4.385217584835183e-06, 
+            "start_logit": 8.388274192810059, 
+            "end_logit": -3.839420795440674
+        }, 
+        {
+            "text": "cytokine,", 
+            "probability": 3.410448409060503e-06, 
+            "start_logit": 2.3399345874786377, 
+            "end_logit": 1.9575233459472656
+        }, 
+        {
+            "text": "pro-inflammatory cytokine, is predictive of atherosclerosis", 
+            "probability": 2.7696383694155263e-06, 
+            "start_logit": 7.763365745544434, 
+            "end_logit": -3.674034833908081
+        }, 
+        {
+            "text": "pro", 
+            "probability": 2.347452734704394e-06, 
+            "start_logit": 7.763365745544434, 
+            "end_logit": -3.839420795440674
+        }, 
+        {
+            "text": "ne", 
+            "probability": 2.0728143924224725e-06, 
+            "start_logit": -4.2650346755981445, 
+            "end_logit": 8.064556121826172
+        }, 
+        {
+            "text": "a pro-inflammatory cytoki", 
+            "probability": 9.74571757672502e-07, 
+            "start_logit": 8.388274192810059, 
+            "end_logit": -5.343417167663574
+        }
+    ], 
+    "5ca9f846ecadf2e73f000053": [
+        {
+            "text": "forms the ribbed gas vesicle wall", 
+            "probability": 0.6981721503381181, 
+            "start_logit": 1.1612603664398193, 
+            "end_logit": 3.346895933151245
+        }, 
+        {
+            "text": "ribbed gas vesicle wall", 
+            "probability": 0.1460125089118722, 
+            "start_logit": -0.4035130441188812, 
+            "end_logit": 3.346895933151245
+        }, 
+        {
+            "text": "The hydrophobic major structural protein GvpA forms the ribbed gas vesicle wall", 
+            "probability": 0.06878538814990962, 
+            "start_logit": -1.1562139987945557, 
+            "end_logit": 3.346895933151245
+        }, 
+        {
+            "text": "hydrophobic major structural protein GvpA forms the ribbed gas vesicle wall", 
+            "probability": 0.025367806453250145, 
+            "start_logit": -2.153724431991577, 
+            "end_logit": 3.346895933151245
+        }, 
+        {
+            "text": "regulation of gvp gene expression occurs at the level of transcription", 
+            "probability": 0.013571195914974821, 
+            "start_logit": 0.6317899823188782, 
+            "end_logit": -0.06414978951215744
+        }, 
+        {
+            "text": "GvpA forms the ribbed gas vesicle wall", 
+            "probability": 0.012205874344839428, 
+            "start_logit": -2.8852880001068115, 
+            "end_logit": 3.346895933151245
+        }, 
+        {
+            "text": "the ribbed gas vesicle wall", 
+            "probability": 0.01088941410261265, 
+            "start_logit": -2.9994142055511475, 
+            "end_logit": 3.346895933151245
+        }, 
+        {
+            "text": "forms the ribbed gas vesicle wall.", 
+            "probability": 0.009363345154031867, 
+            "start_logit": 1.1612603664398193, 
+            "end_logit": -0.9647671580314636
+        }, 
+        {
+            "text": "major structural protein GvpA forms the ribbed gas vesicle wall", 
+            "probability": 0.006139637301964258, 
+            "start_logit": -3.572439670562744, 
+            "end_logit": 3.346895933151245
+        }, 
+        {
+            "text": "wall", 
+            "probability": 0.0030709752678153403, 
+            "start_logit": -4.265210151672363, 
+            "end_logit": 3.346895933151245
+        }, 
+        {
+            "text": "ribbed gas vesicle wall.", 
+            "probability": 0.0019582068936521, 
+            "start_logit": -0.4035130441188812, 
+            "end_logit": -0.9647671580314636
+        }, 
+        {
+            "text": "The hydrophobic major structural protein GvpA forms the ribbed gas vesicle wall.", 
+            "probability": 0.0009224964508964507, 
+            "start_logit": -1.1562139987945557, 
+            "end_logit": -0.9647671580314636
+        }, 
+        {
+            "text": "regulation", 
+            "probability": 0.0008047367624421999, 
+            "start_logit": 0.6317899823188782, 
+            "end_logit": -2.8893394470214844
+        }, 
+        {
+            "text": "gas vesicle wall", 
+            "probability": 0.0006085871266653225, 
+            "start_logit": -5.883820533752441, 
+            "end_logit": 3.346895933151245
+        }, 
+        {
+            "text": "The hydrophobic major structural protein", 
+            "probability": 0.0005596932597629056, 
+            "start_logit": -1.1562139987945557, 
+            "end_logit": -1.4644618034362793
+        }, 
+        {
+            "text": "forms", 
+            "probability": 0.00046405024534090176, 
+            "start_logit": 1.1612603664398193, 
+            "end_logit": -3.969332218170166
+        }, 
+        {
+            "text": "hydrophobic major structural protein GvpA forms the ribbed gas vesicle wall.", 
+            "probability": 0.00034021340941116856, 
+            "start_logit": -2.153724431991577, 
+            "end_logit": -0.9647671580314636
+        }, 
+        {
+            "text": "regulation of gvp gene expression", 
+            "probability": 0.0002836741260214242, 
+            "start_logit": 0.6317899823188782, 
+            "end_logit": -3.9320285320281982
+        }, 
+        {
+            "text": "forms the ribbed gas vesicle", 
+            "probability": 0.00027363290326559795, 
+            "start_logit": 1.1612603664398193, 
+            "end_logit": -4.497537612915039
+        }, 
+        {
+            "text": "hydrophobic major structural protein", 
+            "probability": 0.0002064128831534798, 
+            "start_logit": -2.153724431991577, 
+            "end_logit": -1.4644618034362793
+        }
+    ], 
+    "5c896f60d558e5f232000003": [
+        {
+            "text": "refractory or relapse (R/R) B cell precursor acute lymphoblastic leukemia", 
+            "probability": 0.1830056196457616, 
+            "start_logit": -3.6544296741485596, 
+            "end_logit": -0.6644755005836487
+        }, 
+        {
+            "text": "treatment of pediatric patients and young adults", 
+            "probability": 0.14936046237486483, 
+            "start_logit": -1.820997953414917, 
+            "end_logit": -2.701061487197876
+        }, 
+        {
+            "text": "treatment of adult patients with R/R large B cell lymphoma", 
+            "probability": 0.14490126220876332, 
+            "start_logit": -3.182126522064209, 
+            "end_logit": -1.370242953300476
+        }, 
+        {
+            "text": "pediatric patients and young adults", 
+            "probability": 0.06791672888034243, 
+            "start_logit": -2.6090781688690186, 
+            "end_logit": -2.701061487197876
+        }, 
+        {
+            "text": "the treatment of pediatric patients and young adults", 
+            "probability": 0.066454634811396, 
+            "start_logit": -2.630841016769409, 
+            "end_logit": -2.701061487197876
+        }, 
+        {
+            "text": "the treatment of adult patients with R/R large B cell lymphoma", 
+            "probability": 0.04529190280478901, 
+            "start_logit": -4.345050811767578, 
+            "end_logit": -1.370242953300476
+        }, 
+        {
+            "text": "R/R large B cell lymphoma", 
+            "probability": 0.04527201646171424, 
+            "start_logit": -4.345489978790283, 
+            "end_logit": -1.370242953300476
+        }, 
+        {
+            "text": "treatment of pediatric patients", 
+            "probability": 0.03704339373494561, 
+            "start_logit": -1.820997953414917, 
+            "end_logit": -4.095334053039551
+        }, 
+        {
+            "text": "(R/R) B cell precursor acute lymphoblastic leukemia", 
+            "probability": 0.036523183297500705, 
+            "start_logit": -5.2659993171691895, 
+            "end_logit": -0.6644755005836487
+        }, 
+        {
+            "text": "ediatric patients and young adults with refractory or relapse (R/R) B cell precursor acute lymphoblastic leukemia", 
+            "probability": 0.02920279247462824, 
+            "start_logit": -5.489682197570801, 
+            "end_logit": -0.6644755005836487
+        }, 
+        {
+            "text": "R/R) B cell precursor acute lymphoblastic leukemia", 
+            "probability": 0.028620103325920306, 
+            "start_logit": -5.5098371505737305, 
+            "end_logit": -0.6644755005836487
+        }, 
+        {
+            "text": "for the treatment of pediatric patients and young adults", 
+            "probability": 0.02789787428657497, 
+            "start_logit": -3.498810052871704, 
+            "end_logit": -2.701061487197876
+        }, 
+        {
+            "text": "treatment of pediatric patients and young adults with refractory or relapse", 
+            "probability": 0.024167941917812165, 
+            "start_logit": -1.820997953414917, 
+            "end_logit": -4.522397041320801
+        }, 
+        {
+            "text": "B cell precursor acute lymphoblastic leukemia", 
+            "probability": 0.01990295451325304, 
+            "start_logit": -5.873078346252441, 
+            "end_logit": -0.6644755005836487
+        }, 
+        {
+            "text": "with refractory or relapse (R/R) B cell precursor acute lymphoblastic leukemia", 
+            "probability": 0.019623429695010818, 
+            "start_logit": -5.8872222900390625, 
+            "end_logit": -0.6644755005836487
+        }, 
+        {
+            "text": "pediatric patients", 
+            "probability": 0.016844257771442595, 
+            "start_logit": -2.6090781688690186, 
+            "end_logit": -4.095334053039551
+        }, 
+        {
+            "text": "the treatment of pediatric patients", 
+            "probability": 0.016481638873426747, 
+            "start_logit": -2.630841016769409, 
+            "end_logit": -4.095334053039551
+        }, 
+        {
+            "text": "precursor acute lymphoblastic leukemia", 
+            "probability": 0.014826123496791046, 
+            "start_logit": -6.167555809020996, 
+            "end_logit": -0.6644755005836487
+        }, 
+        {
+            "text": "patients and young adults with refractory or relapse (R/R) B cell precursor acute lymphoblastic leukemia", 
+            "probability": 0.0136770588448339, 
+            "start_logit": -6.248226642608643, 
+            "end_logit": -0.6644755005836487
+        }, 
+        {
+            "text": "relapse (R/R) B cell precursor acute lymphoblastic leukemia", 
+            "probability": 0.012986620580228399, 
+            "start_logit": -6.300026893615723, 
+            "end_logit": -0.6644755005836487
+        }
+    ], 
+    "5c93e8bdecadf2e73f00001c": [
+        {
+            "text": "Aicardi-Goutieres syndrome", 
+            "probability": 0.8162761991953669, 
+            "start_logit": 9.226469039916992, 
+            "end_logit": 10.029507637023926
+        }, 
+        {
+            "text": "Aicardi-Goutieres syndrome (AGS)", 
+            "probability": 0.17332647788034558, 
+            "start_logit": 9.226469039916992, 
+            "end_logit": 8.479931831359863
+        }, 
+        {
+            "text": "severe autoimmune disease, Aicardi-Goutieres syndrome", 
+            "probability": 0.005645445540690975, 
+            "start_logit": 4.252565383911133, 
+            "end_logit": 10.029507637023926
+        }, 
+        {
+            "text": "Aicardi-Goutieres", 
+            "probability": 0.0022210809501264127, 
+            "start_logit": 9.226469039916992, 
+            "end_logit": 4.122748851776123
+        }, 
+        {
+            "text": "severe autoimmune disease, Aicardi-Goutieres syndrome (AGS)", 
+            "probability": 0.0011987427694177758, 
+            "start_logit": 4.252565383911133, 
+            "end_logit": 8.479931831359863
+        }, 
+        {
+            "text": "autoimmune disease, Aicardi-Goutieres syndrome", 
+            "probability": 0.0004458151018929299, 
+            "start_logit": 1.7138652801513672, 
+            "end_logit": 10.029507637023926
+        }, 
+        {
+            "text": "Aicardi-Goutieres syndrome (AGS", 
+            "probability": 0.0003666313017142293, 
+            "start_logit": 9.226469039916992, 
+            "end_logit": 2.3213562965393066
+        }, 
+        {
+            "text": "the severe autoimmune disease, Aicardi-Goutieres syndrome", 
+            "probability": 0.00022907014470197393, 
+            "start_logit": 1.0479892492294312, 
+            "end_logit": 10.029507637023926
+        }, 
+        {
+            "text": "autoimmune disease, Aicardi-Goutieres syndrome (AGS)", 
+            "probability": 9.466349928264271e-05, 
+            "start_logit": 1.7138652801513672, 
+            "end_logit": 8.479931831359863
+        }, 
+        {
+            "text": "the severe autoimmune disease, Aicardi-Goutieres syndrome (AGS)", 
+            "probability": 4.864030264250244e-05, 
+            "start_logit": 1.0479892492294312, 
+            "end_logit": 8.479931831359863
+        }, 
+        {
+            "text": "AGS)", 
+            "probability": 3.237640137247674e-05, 
+            "start_logit": 0.6409665942192078, 
+            "end_logit": 8.479931831359863
+        }, 
+        {
+            "text": "Aicardi-Goutieres syndrome (AGS) and that are linked to cancer", 
+            "probability": 2.8675226907111714e-05, 
+            "start_logit": 9.226469039916992, 
+            "end_logit": -0.22696684300899506
+        }, 
+        {
+            "text": "syndrome", 
+            "probability": 2.662907750072009e-05, 
+            "start_logit": -1.1040352582931519, 
+            "end_logit": 10.029507637023926
+        }, 
+        {
+            "text": "Aicardi-Goutieres syndrome (AGS) and that are linked to cancer.", 
+            "probability": 1.6405484578714157e-05, 
+            "start_logit": 9.226469039916992, 
+            "end_logit": -0.7853847146034241
+        }, 
+        {
+            "text": "severe autoimmune disease, Aicardi-Goutieres", 
+            "probability": 1.5361211753772768e-05, 
+            "start_logit": 4.252565383911133, 
+            "end_logit": 4.122748851776123
+        }, 
+        {
+            "text": "severe autoimmune disease", 
+            "probability": 8.747243315948157e-06, 
+            "start_logit": 4.252565383911133, 
+            "end_logit": 3.5596418380737305
+        }, 
+        {
+            "text": "syndrome (AGS)", 
+            "probability": 5.6543657856890345e-06, 
+            "start_logit": -1.1040352582931519, 
+            "end_logit": 8.479931831359863
+        }, 
+        {
+            "text": "Ai", 
+            "probability": 5.270411372785101e-06, 
+            "start_logit": 9.226469039916992, 
+            "end_logit": -1.9208920001983643
+        }, 
+        {
+            "text": "(AGS)", 
+            "probability": 4.90669328566066e-06, 
+            "start_logit": -1.2458629608154297, 
+            "end_logit": 8.479931831359863
+        }, 
+        {
+            "text": "cause the severe autoimmune disease, Aicardi-Goutieres syndrome", 
+            "probability": 3.2071979449229052e-06, 
+            "start_logit": -3.2206413745880127, 
+            "end_logit": 10.029507637023926
+        }
+    ], 
+    "5cb39707ecadf2e73f000060": [
+        {
+            "text": "Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy", 
+            "probability": 0.2689248631809322, 
+            "start_logit": 1.739066243171692, 
+            "end_logit": 2.3695855140686035
+        }, 
+        {
+            "text": "inability to clear Candida albicans infection on body surfaces", 
+            "probability": 0.1479457464028465, 
+            "start_logit": 2.3957698345184326, 
+            "end_logit": 1.1152955293655396
+        }, 
+        {
+            "text": "primary immunodeficiency", 
+            "probability": 0.1310223637508643, 
+            "start_logit": 1.240653395652771, 
+            "end_logit": 2.1489343643188477
+        }, 
+        {
+            "text": "Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED)", 
+            "probability": 0.12336895411395989, 
+            "start_logit": 1.739066243171692, 
+            "end_logit": 1.5903329849243164
+        }, 
+        {
+            "text": "inability to clear Candida albicans infection", 
+            "probability": 0.07860827503098566, 
+            "start_logit": 2.3957698345184326, 
+            "end_logit": 0.4829268753528595
+        }, 
+        {
+            "text": "Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED", 
+            "probability": 0.05487640784458689, 
+            "start_logit": 1.739066243171692, 
+            "end_logit": 0.7802370190620422
+        }, 
+        {
+            "text": "APECED) is a primary immunodeficiency", 
+            "probability": 0.03358146639091575, 
+            "start_logit": -0.12074030935764313, 
+            "end_logit": 2.1489343643188477
+        }, 
+        {
+            "text": "susceptible to Candida albicans infection and present with autoimmune disorders", 
+            "probability": 0.030692295371843207, 
+            "start_logit": 0.20627610385417938, 
+            "end_logit": 1.7319552898406982
+        }, 
+        {
+            "text": "Patients with AIRE mutations are susceptible to Candida albicans infection and present with autoimmune disorders", 
+            "probability": 0.030423403515057647, 
+            "start_logit": 0.1974766105413437, 
+            "end_logit": 1.7319552898406982
+        }, 
+        {
+            "text": "APECED)", 
+            "probability": 0.019208885143520663, 
+            "start_logit": -0.12074030935764313, 
+            "end_logit": 1.5903329849243164
+        }, 
+        {
+            "text": "monogenic autoimmune disorder", 
+            "probability": 0.015094570268237946, 
+            "start_logit": 0.21461187303066254, 
+            "end_logit": 1.0139429569244385
+        }, 
+        {
+            "text": "autoimmune disorders", 
+            "probability": 0.009962349636213156, 
+            "start_logit": -0.9189226031303406, 
+            "end_logit": 1.7319552898406982
+        }, 
+        {
+            "text": "a primary immunodeficiency", 
+            "probability": 0.009244889680161166, 
+            "start_logit": -1.4106436967849731, 
+            "end_logit": 2.1489343643188477
+        }, 
+        {
+            "text": "APECED", 
+            "probability": 0.008544407488467042, 
+            "start_logit": -0.12074030935764313, 
+            "end_logit": 0.7802370190620422
+        }, 
+        {
+            "text": "susceptible to Candida albicans infection", 
+            "probability": 0.007176831056290426, 
+            "start_logit": 0.20627610385417938, 
+            "end_logit": 0.2788015604019165
+        }, 
+        {
+            "text": "Patients with AIRE mutations are susceptible to Candida albicans infection", 
+            "probability": 0.0071139556210979005, 
+            "start_logit": 0.1974766105413437, 
+            "end_logit": 0.2788015604019165
+        }, 
+        {
+            "text": "inability to clear Candida albicans", 
+            "probability": 0.0062072025650809805, 
+            "start_logit": 2.3957698345184326, 
+            "end_logit": -2.055839776992798
+        }, 
+        {
+            "text": "autoimmune polyendocriopathy candidiasis ectodermal dystrophy", 
+            "probability": 0.006149489938291516, 
+            "start_logit": -0.7589723467826843, 
+            "end_logit": 1.0895612239837646
+        }, 
+        {
+            "text": "immunodeficiency", 
+            "probability": 0.0059345407132952235, 
+            "start_logit": -1.8539249897003174, 
+            "end_logit": 2.1489343643188477
+        }, 
+        {
+            "text": "autoimmune disorder", 
+            "probability": 0.005919102287351845, 
+            "start_logit": -0.7215384244918823, 
+            "end_logit": 1.0139429569244385
+        }
+    ]
+}
